@@ -26,9 +26,10 @@ for s in file_list:
     s_data = np.loadtxt(data_path+s,delimiter=',')
     s_y = s_data[:,1]
     s_y_size = s_y.shape[0]
-    model = AR(s_y)
-    model_fit = model.fit()
-    yhat = model_fit.predict(len(s_y), len(s_y))
+    model = AR( s_y)
+    model_fit = model.fit(maxlag = 50)
+    yhat = model_fit.predict(100, len(s_y))
+    yhat = np.hstack([np.zeros([99]), yhat])
     plt.plot(s_y)
     plt.plot(yhat)
     
