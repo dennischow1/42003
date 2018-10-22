@@ -12,7 +12,7 @@ from statsmodels.tsa.ar_model import AR
 from statsmodels.tsa.arima_model import ARIMA
 #from statsmodels.tsa.stattools import adfuller,acf,pacf
 #from random import random
-#from matplotlib import pyplot as plt
+from matplotlib import pyplot as plt
 #from pandas.plotting import autocorrelation_plot
 #from statsmodels.graphics.tsaplots import plot_acf
 import csv
@@ -25,7 +25,7 @@ def AR_model(s_y):
     yhat = np.hstack([np.zeros([99]), yhat])
 
 
-def ARIMA_model(s_y,p,q,d):
+def ARIMA_model(s_y,p,q,d,predict_period):
     """
     Run ARIMA model for p,q,d
     Return:-
@@ -41,6 +41,8 @@ def ARIMA_model(s_y,p,q,d):
         else:    
             yhat = model_fit.predict(q, len(s_y), typ='levels')
         
+        yhat_f=model_fit.forecast(steps=predict_period)
+
         aic = model_fit.aic
         MSE = 0
         for i in range(q,len(s_y)-1):
@@ -51,11 +53,12 @@ def ARIMA_model(s_y,p,q,d):
         MSE=0
         aic=0
 
-    return [yhat,MSE,aic]
+    yhat=np.append(yhat,yhat_f[0])
+    return [yhat,MSE,aic,yhat_f]
 
 if __name__ =='__main__':
     data_path = 'evaluation_stream/'    
-    file_list_path= data_path + 'filelist'
+    file_list_path= data_path + 'filelist_single'
     file_list = []
     
     results_file = 'evaluation_results.txt'
@@ -64,15 +67,15 @@ if __name__ =='__main__':
         for line in f:
             file_list.append(line.replace('\n',''))
     
-    predict_period = 14
+
     #reg = linear_model.BayesianRidge()
 
-    pdq_terms=[[1,0,0], #AR model
-               [2,0,0],
-               [0,0,1],               
-               [1,0,1], #ARMA model
-               [0,1,0],
-               [1,1,1]  #ARIMA(1,1,1) model
+    pdq_terms=[[1,0,0] #AR model
+#               [2,0,0],
+#               [0,0,1],               
+#               [1,0,1], #ARMA model
+#               [0,1,0],
+#               [1,1,1]  #ARIMA(1,1,1) model
                ] 
 
     result={}
@@ -80,15 +83,35 @@ if __name__ =='__main__':
         s_data = np.loadtxt(data_path+s,delimiter=',')
         s_y = s_data[:,1]
         s_y_size = s_y.shape[0]
-        result[s]=[]
-        for term in pdq_terms:
-                yhat,MSE,aic = ARIMA_model(s_y,term[0],term[1],term[2])
-                result[s].append((MSE,aic))
+        while float(s_y[0]) == 0.0:
+            s_y=s_y[1:s_y_size]
+
+        
+#        plt.plot(s_y)
+#        result[s]=[]
+#        for term in pdq_terms:
+#                yhat,MSE,aic = ARIMA_model(s_y,term[0],term[1],term[2])
+#                plt.plot(yhat)
+#                result[s].append((MSE,aic))
     
-    with open(results_file,mode="w", encoding="utf-8") as f:
-        writer = csv.writer(f, delimiter=",",quotechar="'")
-        for s in result:
-            writer.writerow([s,result[s]])
+    predict_period = 14
+#    for slide in range(0, 60):
+#        print (slide)
+#        X = s_y[:slide]
+#        Y = s_y[slide:slide+predict_period]
+    X = s_y[:60]
+    yhat,MSE,aic,yhat_f = ARIMA_model(X,1,0,0,predict_period)
+
+    plt.plot(s_y[:60+14])
+    plt.plot(yhat)
+    
+    print(s_y_size)
+# =============================================================================
+#     with open(results_file,mode="w", encoding="utf-8") as f:
+#         writer = csv.writer(f, delimiter=",",quotechar="'")
+#         for s in result:
+#             writer.writerow([s,result[s]])
+# =============================================================================
     
 # =============================================================================
 #     print('ARIMA model (p,d,q)')
