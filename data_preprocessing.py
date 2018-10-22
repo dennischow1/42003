@@ -63,12 +63,17 @@ if __name__ =='__main__':
     for i in range(1, leg):
         sample_x = np.hstack([sample_x, np.transpose(train_data[:,i:-(leg-i)])])
     
+    
+    # use for loop to extract sample_y_si and create train_si
     sample_y_s0 = np.transpose(train_data[0,:-leg][np.newaxis])
     
     train_s0 = np.hstack([sample_x, sample_y_s0])
     
+    
+    
     sample_x_s1 = train_data[:,0]
     sample_y_s1 = train_data[0,1]
+    
     sample_s1 = np.hstack([sample_x_s1, sample_y_s1])
     
     #train_data = np.transpose(train_data)
