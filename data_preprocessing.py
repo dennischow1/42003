@@ -56,13 +56,16 @@ if __name__ =='__main__':
     for key, v in s_y.items():
         train_data = np.vstack([train_data, np.array(v)])
         
-    leg = 1
+    leg = 2
     
-    for i in range(leg):
-        sample_x = np.transpose(train_data[:,:-(i+1)])
+    sample_x = np.transpose(train_data[:,:-leg])
     
-    sample_y_s0 = np.transpose(train_data[0,:-leg])
+    for i in range(1, leg):
+        sample_x = np.hstack([sample_x, np.transpose(train_data[:,i:-(leg-i)])])
     
+    sample_y_s0 = np.transpose(train_data[0,:-leg][np.newaxis])
+    
+    train_s0 = np.hstack([sample_x, sample_y_s0])
     
     sample_x_s1 = train_data[:,0]
     sample_y_s1 = train_data[0,1]
