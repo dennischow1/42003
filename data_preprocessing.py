@@ -58,18 +58,37 @@ if __name__ =='__main__':
         train_data = np.vstack([train_data, np.array(v)])
         
     lag = 2
-    
+    t_ahead = 10
     sample_x = np.transpose(train_data[:,:-lag])
     
     for i in range(1, lag):
         sample_x = np.hstack([sample_x, np.transpose(train_data[:,i:-(lag-i)])])
     
+    sample_x = sample_x[:,:-t_ahead]
     
-    # use for loop to extract sample_y_si and create train_si
-    sample_y_s0 = np.transpose(train_data[0,:-lag][np.newaxis])
-    
-    train_s0 = np.hstack([sample_x, sample_y_s0])
-    
+    num_stream = 1
+    slding_predict_t = 1000
+    landmark_win_ini_size = 60
+    for s_i in range(num_stream):
+        sample_y_si = np.transpose(train_data[0,t_ahead:-lag])
+        reg_si = BayesianRidge()
+        pre_y = []
+        act_y = []
+        for landmark_win in range(slding_predict_t):
+            train_x = sample_x[:landmark_win_ini_size+landmark_win,:]
+            train_y = sample_y_si[:landmark_win_ini_size+landmark_win]
+            reg_si.fit(train_x,train_y)
+            y_hat = reg_si.predict(sample_x[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1,:])
+            pre_y.append(y_hat)
+            act_y.append(sample_y_si[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1])
+            
+            
+        plt.plot(pre_y)
+        plt.plot(act_y)
+        plt.show()
+        pre = np.array(pre_y)
+        act = np.array(act_y)
+        print(np.sum(pre-act))
     
     
 #    sample_x_s0 = train_data[:,0]
@@ -83,10 +102,8 @@ if __name__ =='__main__':
     #train_data = np.transpose(train_data)
     
     
-    reg_s0 = BayesianRidge()
-    reg_s0.fit(train_s0[:60,:-1],train_s0[1:61,-1])
-    yhat = reg_s0.predict(train_s0[61,:-1])
-    plt.plot(reg_s0.coef_)
+
+    
     
     
         
