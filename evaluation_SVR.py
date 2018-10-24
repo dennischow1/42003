@@ -1,13 +1,20 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Oct 22 19:30:55 2018
+Created on Wed Oct 24 15:38:30 2018
 
-@author: dchow and Anjin Liu
+@author: dchow
+"""
+
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Oct 24 13:12:02 2018
+
+@author: dchow
 """
 
 import numpy as np
-from scipy import stats
-from sklearn.linear_model import BayesianRidge, LinearRegression
+from sklearn.svm import SVR,LinearSVR
+from sklearn.model_selection import GridSearchCV
 import matplotlib.pyplot as plt
 
 def data_preprocessing(file_list):
@@ -30,7 +37,11 @@ def data_preprocessing(file_list):
             
     return s_y
 
-def MSE_Bay(train_data,lag,t_ahead):
+def MSE_SVR(train_data,lag,t_ahead,C_val):
+    """
+    Support Vector Regression
+    Returns MSE
+    """
     sample_x = np.transpose(train_data[:,:-lag])
     
     for i in range(1, lag):
@@ -43,7 +54,11 @@ def MSE_Bay(train_data,lag,t_ahead):
     landmark_win_ini_size = 60
     for s_i in range(num_stream):
         sample_y_si = np.transpose(train_data[s_i,t_ahead:-lag])
-        reg_si = BayesianRidge()
+        
+#        reg_si = GridSearchCV(SVR(kernel='rbf', gamma=0.1), cv=5,
+#                   param_grid={"C": [1e0, 1e1, 1e2, 1e3],
+#                               "gamma": np.logspace(-2, 2, 5)})
+        reg_si = LinearSVR(C=C_val)
         pre_y = []
         act_y = []
         for landmark_win in range(slding_predict_t):
@@ -61,9 +76,7 @@ def MSE_Bay(train_data,lag,t_ahead):
         MSE = 0
         for i in range (0,len(pre_y)-1):
             MSE = MSE + (pre_y[i]-act_y[i])**2
-#        pre = np.array(pre_y)
-#        act = np.array(act_y)
-#        print(np.sum(pre-act))
+
         return MSE
 
 
@@ -85,40 +98,27 @@ if __name__ =='__main__':
 #    lag = 2
 #    t_ahead = 7 #t_ahead = target training value
     
-    MSE = np.ndarray(shape=[0,14],dtype='float')
     
-    for lag in range(2,11):
+    C_test = [0.1,1,10,100,1000]
+    lag1 = 2
+    lag2 = 10
+    t_ahead1=1  #first t_ahead
+    t_ahead2=14 #last t_ahead
+    
+    MSE = np.ndarray(shape=[0,t_ahead2],dtype='float')
+    
+#    for lag in range(lag1,lag2+1):
+    for lag in range(lag1,lag2+1):
         MSE_list = []
-        for t_ahead in range(1,15):
-            MSE_list.append(MSE_Bay(train_data,lag,t_ahead))
+        for t_ahead in range(t_ahead1,t_ahead2+1):
+            MSE_list.append(MSE_SVR(train_data,lag,t_ahead,100))
+#        print(MSE_list)
         MSE = np.vstack((MSE,np.transpose(np.array(MSE_list))))
 
-    with open('evaluation_results', "w") as output_file:
-        for lag in range(2,11):
+    with open('evaluation_results_SVR', "w") as output_file:
+        for lag in range(lag1,lag2+1):
             output_file.write(str(lag))
-            for t_ahead in range (1,15):
-                output_file.write(',' + str(MSE[lag-2,t_ahead-1]))
+            for t_ahead in range (t_ahead1,t_ahead2+1):
+                output_file.write(',' + str(MSE[lag-lag1,t_ahead-t_ahead1]))
             output_file.write('\n')
     output_file.closed
-
-
-    
-    
-#    sample_x_s0 = train_data[:,0]
-#    sample_y_s0 = train_data[0,1]
-#    
-#    sample_s1 = np.hstack([sample_x_s1, sample_y_s1])
-    
-    
-    
-    
-    #train_data = np.transpose(train_data)
-    
-    
-
-    
-    
-    
-        
-    
-    
