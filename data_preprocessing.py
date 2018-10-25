@@ -31,12 +31,12 @@ def data_preprocessing(file_list):
     return s_y
 
 def MSE_Bay(train_data,lag,t_ahead):
-    sample_x = np.transpose(train_data[:-lag,:])
+    sample_x = np.transpose(train_data[:,:-lag])
     
     for i in range(1, lag):
-        sample_x = np.hstack([sample_x, np.transpose(train_data[i:-(lag-i),:])])
+        sample_x = np.hstack([sample_x, np.transpose(train_data[:,i:-(lag-i)])])
     
-    sample_x = sample_x[:,:-t_ahead]
+    sample_x = sample_x[:-t_ahead,:]
     
     num_stream = 1
     slding_predict_t = 1000
