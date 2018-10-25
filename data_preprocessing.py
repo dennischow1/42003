@@ -31,10 +31,10 @@ def data_preprocessing(file_list):
     return s_y
 
 def MSE_Bay(train_data,lag,t_ahead):
-    sample_x = np.transpose(train_data[:,:-lag])
+    sample_x = np.transpose(train_data[:-lag,:])
     
     for i in range(1, lag):
-        sample_x = np.hstack([sample_x, np.transpose(train_data[:,i:-(lag-i)])])
+        sample_x = np.hstack([sample_x, np.transpose(train_data[i:-(lag-i),:])])
     
     sample_x = sample_x[:,:-t_ahead]
     
@@ -42,7 +42,7 @@ def MSE_Bay(train_data,lag,t_ahead):
     slding_predict_t = 1000
     landmark_win_ini_size = 60
     for s_i in range(num_stream):
-        sample_y_si = np.transpose(train_data[s_i,t_ahead:-lag])
+        sample_y_si = np.transpose(train_data[s_i,t_ahead+lag-1:])
         reg_si = BayesianRidge()
         pre_y = []
         act_y = []
@@ -87,19 +87,22 @@ if __name__ =='__main__':
     
     MSE = np.ndarray(shape=[0,14],dtype='float')
     
-    for lag in range(2,11):
+    for lag in range(2-1,3-1):
         MSE_list = []
         for t_ahead in range(1,15):
+            if t_ahead == 10:
+                print("test")
+            print(t_ahead)
             MSE_list.append(MSE_Bay(train_data,lag,t_ahead))
         MSE = np.vstack((MSE,np.transpose(np.array(MSE_list))))
 
-    with open('evaluation_results', "w") as output_file:
-        for lag in range(2,11):
-            output_file.write(str(lag))
-            for t_ahead in range (1,15):
-                output_file.write(',' + str(MSE[lag-2,t_ahead-1]))
-            output_file.write('\n')
-    output_file.closed
+#    with open('evaluation_results', "w") as output_file:
+#        for lag in range(2,11):
+#            output_file.write(str(lag))
+#            for t_ahead in range (1,15):
+#                output_file.write(',' + str(MSE[lag-2,t_ahead-1]))
+#            output_file.write('\n')
+#    output_file.closed
 
 
     
