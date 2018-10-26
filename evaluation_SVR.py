@@ -21,7 +21,7 @@ def data_preprocessing(file_list):
 
     
     s_y={}
-    s_y_size = 5000 #large number for first pass
+    s_y_size = 1254 #large number for first pass
     for s in file_list:
         s_data = np.loadtxt(data_path+s,delimiter=',')
         s_y[s] = s_data[:,1]
@@ -46,18 +46,15 @@ def MSE_SVR(train_data,lag,t_ahead,C_val):
     for i in range(1, lag):
         sample_x = np.hstack([sample_x, np.transpose(train_data[:,i:-(lag-i)])])
     
-    sample_x = sample_x[:,:-t_ahead]
+    sample_x = sample_x[:-t_ahead,:]
     
     num_stream = 1
-    slding_predict_t = 1000
-    landmark_win_ini_size = 60
+    slding_predict_t = 366
+    landmark_win_ini_size = 1
     for s_i in range(num_stream):
         sample_y_si = np.transpose(train_data[s_i,t_ahead:-lag])
         
-#        reg_si = GridSearchCV(SVR(kernel='rbf', gamma=0.1), cv=5,
-#                   param_grid={"C": [1e0, 1e1, 1e2, 1e3],
-#                               "gamma": np.logspace(-2, 2, 5)})
-        reg_si = LinearSVR(C=C_val)
+        reg_si = SVR()
         pre_y = []
         act_y = []
         for landmark_win in range(slding_predict_t):
@@ -67,7 +64,7 @@ def MSE_SVR(train_data,lag,t_ahead,C_val):
             y_hat = reg_si.predict(sample_x[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1,:])
             pre_y.append(y_hat)
             act_y.append(sample_y_si[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1])
-            
+
 #        plt.plot(range(landmark_win_ini_size+1,landmark_win_ini_size+landmark_win+2),pre_y,label='prediction s'+str(s_i))
 #        plt.plot(range(landmark_win_ini_size+1,landmark_win_ini_size+landmark_win+2),act_y,label='actual')
 #        plt.legend()
@@ -75,7 +72,6 @@ def MSE_SVR(train_data,lag,t_ahead,C_val):
         MSE = 0
         for i in range (0,len(pre_y)-1):
             MSE = MSE + (pre_y[i]-act_y[i])**2
-
         return MSE
 
 
@@ -99,7 +95,7 @@ if __name__ =='__main__':
     
     
     C_test = [0.1,1,10,100,1000]
-    lag1 = 2
+    lag1 = 1
     lag2 = 10
     t_ahead1=1  #first t_ahead
     t_ahead2=14 #last t_ahead
@@ -114,7 +110,7 @@ if __name__ =='__main__':
 #        print(MSE_list)
         MSE = np.vstack((MSE,np.transpose(np.array(MSE_list))))
 
-    with open('evaluation_results_SVR', "w") as output_file:
+    with open('evaluation_results_SVR.txt', "w") as output_file:
         for lag in range(lag1,lag2+1):
             output_file.write(str(lag))
             for t_ahead in range (t_ahead1,t_ahead2+1):

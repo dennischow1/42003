@@ -58,17 +58,20 @@ def test_ts(station_name,existing_ts):
         extract_time_series(station_name,"P98")
 
     removed = 0
-    s_data = np.loadtxt('station_fuelType/'+station_fuel,delimiter=',')
-    s_y = s_data[:,1]
-    while float(s_y[0]) == 0.0:
-        removed = removed + 1
-        s_y=s_y[1:len(s_y)]
-
-    if removed > 20:
-        return False
-    else:
-        return True
+    try:
+        s_data = np.loadtxt('station_fuelType/'+station_fuel,delimiter=',')
+        s_y = s_data[:,1]
+        while float(s_y[0]) == 0.0:
+            removed = removed + 1
+            s_y=s_y[1:len(s_y)]
     
+        if removed > 20:
+            return False
+        else:
+            return True
+    except OSError:
+        return False
+
 def equalise_ts(station_list):
     """
     Makes all time series equal in length with no zeroes
@@ -155,7 +158,7 @@ if __name__ =='__main__':
     random.shuffle(station_list)
 
     added = 0
-    station_max = 50
+    station_max = 200
     station2corr = []
     bus_num = 227
     geo_num = 44
@@ -210,19 +213,19 @@ if __name__ =='__main__':
     """
     PRINT DATA
     """
-    with open('station2corr50r.txt', "w") as output_file:
+    with open('station2corr200.txt', "w") as output_file:
         for i in range(0,len(station2corr)):
             output_file.write(str(station2corr[i])+'\n')
     output_file.closed
 
-    with open('features_x50r.txt', "w") as output_file:
+    with open('features_x200.txt', "w") as output_file:
         for i in range(0,len(features_x)):
             for j in range (0,tot_feature-1):
                 output_file.write(str(features_x[i][j])+',')
             output_file.write(str(features_x[i][tot_feature-1])+'\n')
     output_file.closed
     
-    with open('ts50r_equalise.txt', "w") as output_file:
+    with open('ts200.txt', "w") as output_file:
         for i in range(0,station_max):
             output_file.write(str(station2corr[i]))
             for val in ts_y[i,:]:

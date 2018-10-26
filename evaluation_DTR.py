@@ -6,7 +6,7 @@ Created on Wed Oct 24 13:12:02 2018
 """
 
 import numpy as np
-from scipy import stats
+import time
 from sklearn.tree import DecisionTreeRegressor
 import matplotlib.pyplot as plt
 
@@ -14,7 +14,7 @@ def data_preprocessing(file_list):
 
     
     s_y={}
-    s_y_size = 5000 #large number for first pass
+    s_y_size = 1254 #large number for first pass
     for s in file_list:
         s_data = np.loadtxt(data_path+s,delimiter=',')
         s_y[s] = s_data[:,1]
@@ -30,7 +30,7 @@ def data_preprocessing(file_list):
             
     return s_y
 
-def MSE_DTR(train_data,lag,t_ahead,depth):
+def MSE_DTR(train_data,lag,t_ahead):
     """
     Decision tree regression
     Returns MSE
@@ -40,14 +40,14 @@ def MSE_DTR(train_data,lag,t_ahead,depth):
     for i in range(1, lag):
         sample_x = np.hstack([sample_x, np.transpose(train_data[:,i:-(lag-i)])])
     
-    sample_x = sample_x[:,:-t_ahead]
+    sample_x = sample_x[:-t_ahead,:]
     
     num_stream = 1
-    slding_predict_t = 1000
-    landmark_win_ini_size = 60
+    slding_predict_t = 366
+    landmark_win_ini_size = 1
     for s_i in range(num_stream):
-        sample_y_si = np.transpose(train_data[s_i,t_ahead:-lag])
-        reg_si = DecisionTreeRegressor(max_depth = depth, random_state = 0)
+        sample_y_si = np.transpose(train_data[s_i,t_ahead+lag-1:])
+        reg_si = DecisionTreeRegressor(max_depth = 10, random_state = 0)
         pre_y = []
         act_y = []
         for landmark_win in range(slding_predict_t):
@@ -57,19 +57,20 @@ def MSE_DTR(train_data,lag,t_ahead,depth):
             y_hat = reg_si.predict(sample_x[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1,:])
             pre_y.append(y_hat)
             act_y.append(sample_y_si[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1])
-            
-#        plt.plot(range(landmark_win_ini_size+1,landmark_win_ini_size+landmark_win+2),pre_y,label='prediction s'+str(s_i))
-#        plt.plot(range(landmark_win_ini_size+1,landmark_win_ini_size+landmark_win+2),act_y,label='actual')
+
+#        plt.plot(pre_y,label='prediction s'+str(s_i))
+#        plt.plot(act_y,label='actual')
 #        plt.legend()
 #        plt.show()
         MSE = 0
         for i in range (0,len(pre_y)-1):
             MSE = MSE + (pre_y[i]-act_y[i])**2
-
         return MSE
 
 
 if __name__ =='__main__':
+    t_start = time.time()
+    
     data_path = 'evaluation_stream/'    
     file_list_path= data_path + 'filelist'
     file_list = []
@@ -80,33 +81,63 @@ if __name__ =='__main__':
             
     s_y = data_preprocessing(file_list)
     
-    train_data = np.ndarray(shape=[0, 1256], dtype = 'float')
+    train_data = np.ndarray(shape=[0, 1254], dtype = 'float')
     for key, v in s_y.items():
         train_data = np.vstack([train_data, np.array(v)])
     
 #    lag = 2
 #    t_ahead = 7 #t_ahead = target training value
     
-    MSE = np.ndarray(shape=[0,14],dtype='float')
+
     
-    lag1 = 2
-    lag2 = 11
-    depth1=10    #first depth
-    depth2=10   #last depth
+    lag1 = 1
+    lag2 = 10
     t_ahead1=1  #first t_ahead
     t_ahead2=14 #last t_ahead
+    
+    MSE = np.ndarray(shape=[0,t_ahead2],dtype='float')
     
     for lag in range(lag1,lag2+1):
         MSE_list = []
         for t_ahead in range(t_ahead1,t_ahead2+1):
-            MSE_list.append(MSE_DTR(train_data,lag,t_ahead,10))
+            MSE_list.append(MSE_DTR(train_data,lag,t_ahead))
 #        print(MSE_list)
         MSE = np.vstack((MSE,np.transpose(np.array(MSE_list))))
 
-    with open('evaluation_results_DTR', "w") as output_file:
+    t_end = time.time()
+    
+    fig,ax = plt.subplots(5,3,figsize=(14, 12))
+    
+    t=0
+    for i in range(5):
+        for j in range(3):
+            if t<14:
+                ax[i,j].plot(range(1,lag2+1),MSE[:,t],label='t_ahead=' + str(t+1))
+                ax[i,j].grid()
+                ax[i,j].set(xlabel='lag',ylabel='MSE')
+                ax[i,j].flat.xaxis.set_major_locator(plt.MaxNLocator(10))
+                t=t+1
+            else:
+                fig.delaxes(ax[i,j])
+    plt.legend()
+    plt.tight_layout()
+#    for t_ahead in range(t_ahead1,t_ahead2+1):
+#        #title = 'MSE for t_ahead=' + str(t_ahead)
+#        ax[t_ahead-1].plot(range(1,lag2+1),MSE[:,t_ahead-1])
+#        ax[t_ahead-1].set(xlabel='lag',ylabel='MSE')
+#        ax[t_ahead-1].grid()
+#    
+#    plt.tight_layout()
+#    plt.show()
+
+    with open('evaluation_results_DTR.txt', "w") as output_file:
         for lag in range(lag1,lag2+1):
             output_file.write(str(lag))
             for t_ahead in range (t_ahead1,t_ahead2+1):
                 output_file.write(',' + str(MSE[lag-lag1,t_ahead-t_ahead1]))
             output_file.write('\n')
     output_file.closed
+    
+    t_total = t_end - t_start
+    print('runtime: %.3f' %t_total)
+    
