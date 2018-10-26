@@ -1,0 +1,1407 @@
+subject,object,predicate
+Imperial Oil,business,IS_A
+Imperial Oil,petroleum industry,IN_INDUSTRY
+Imperial Oil,corporation,IS_A
+Imperial Oil,Toronto Stock Exchange,TRADES_ON
+Imperial Oil,ExxonMobil,OWNED_BY
+Maersk Oil,business,IS_A
+Maersk Oil,petroleum industry,IN_INDUSTRY
+Odebrecht,business,IS_A
+Odebrecht,enterprise,IS_A
+Odebrecht,petroleum industry,IN_INDUSTRY
+Odebrecht,joint-stock company,IS_A
+Apache Corporation,business,IS_A
+Apache Corporation,enterprise,IS_A
+Apache Corporation,petroleum industry,IN_INDUSTRY
+Apache Corporation,Natural Resources,IN_INDUSTRY
+Apache Corporation,public company,IS_A
+Apache Corporation,New York Stock Exchange,TRADES_ON
+Energopetrol,public company,IS_A
+Energopetrol,petroleum industry,IN_INDUSTRY
+Energopetrol,joint-stock company,IS_A
+JXTG Holdings,public company,IS_A
+JXTG Holdings,holding company,IS_A
+JXTG Holdings,petroleum industry,IN_INDUSTRY
+JXTG Holdings,kabushiki gaisha,IS_A
+JXTG Holdings,Tokyo Stock Exchange,TRADES_ON
+JXTG Holdings,Japan Trustee Services Bank,OWNED_BY
+BP,business,IS_A
+BP,enterprise,IS_A
+BP,petroleum industry,IN_INDUSTRY
+BP,Burmah Oil,WAS_PREVIOUSLY
+BP,Anglo-Persian Oil Company,WAS_PREVIOUSLY
+BP,public limited company,IS_A
+BP,public company,IS_A
+BP,New York Stock Exchange,TRADES_ON
+BP,London Stock Exchange,TRADES_ON
+BP,Frankfurt Stock Exchange,TRADES_ON
+BP,Tokyo Stock Exchange,TRADES_ON
+Total S.A.,multinational corporation,IS_A
+Total S.A.,business,IS_A
+Total S.A.,petroleum industry,IN_INDUSTRY
+Total S.A.,energy,IN_INDUSTRY
+Total S.A.,société anonyme,IS_A
+Total S.A.,New York Stock Exchange,TRADES_ON
+Total S.A.,Euronext Paris,TRADES_ON
+Total S.A.,London Stock Exchange,TRADES_ON
+Total S.A.,Brussels Stock Exchange,TRADES_ON
+Total S.A.,BlackRock,OWNED_BY
+Total S.A.,FCPE Total Actionnariat France,OWNED_BY
+Total S.A.,BlackRock,OWNED_BY
+Total S.A.,Baku–Tbilisi–Ceyhan pipeline,OWNER_OF
+Total S.A.,Norpipe,OWNER_OF
+Total S.A.,Oseberg Transport System,OWNER_OF
+Total S.A.,NOGAT Pipeline System,OWNER_OF
+Total S.A.,Ninian pipeline,OWNER_OF
+Total S.A.,Abu Dhabi Company for Onshore Oil Operations,OWNER_OF
+Total S.A.,Abu Dhabi Gas Industries Limited,OWNER_OF
+Total S.A.,Halfaya Field,OWNER_OF
+Total S.A.,Novatek,OWNER_OF
+Royal Dutch Shell,business,IS_A
+Royal Dutch Shell,enterprise,IS_A
+Royal Dutch Shell,petroleum industry,IN_INDUSTRY
+Royal Dutch Shell,Enterprise Oil,WAS_PREVIOUSLY
+Royal Dutch Shell,public limited company,IS_A
+Royal Dutch Shell,London Stock Exchange,TRADES_ON
+Royal Dutch Shell,Euronext,TRADES_ON
+Royal Dutch Shell,New York Stock Exchange,TRADES_ON
+Royal Dutch Shell,BlackRock,OWNED_BY
+Royal Dutch Shell,Capital Group Companies,OWNED_BY
+Royal Dutch Shell,Showa Shell Sekiyu,OWNER_OF
+Royal Dutch Shell,Brunei LNG,OWNER_OF
+Royal Dutch Shell,Motiva Enterprises,OWNER_OF
+Royal Dutch Shell,Oman LNG,OWNER_OF
+Royal Dutch Shell,Sakhalin Energy,OWNER_OF
+ExxonMobil,public company,IS_A
+ExxonMobil,business,IS_A
+ExxonMobil,enterprise,IS_A
+ExxonMobil,petroleum industry,IN_INDUSTRY
+ExxonMobil,Exxon,WAS_PREVIOUSLY
+ExxonMobil,Mobil,WAS_PREVIOUSLY
+ExxonMobil,corporation,IS_A
+ExxonMobil,New York Stock Exchange,TRADES_ON
+ExxonMobil,The Vanguard Group,OWNED_BY
+ExxonMobil,State Street Corporation,OWNED_BY
+ExxonMobil,BlackRock,OWNED_BY
+ADNOC,government-owned corporation,IS_A
+ADNOC,petroleum industry,IN_INDUSTRY
+ADNOC,United Arab Emirates,OWNED_BY
+OMV,business,IS_A
+OMV,petroleum industry,IN_INDUSTRY
+OMV,Aktiengesellschaft,IS_A
+OMV,Wiener Börse,TRADES_ON
+OMV,Österreichische Industrieholding,OWNED_BY
+OMV,International Petroleum Investment Company,OWNED_BY
+OMV,Borealis,OWNER_OF
+OMV,Nabucco pipeline,OWNER_OF
+Gaz de France,business,IS_A
+Gaz de France,petroleum industry,IN_INDUSTRY
+Gaz de France,société anonyme,IS_A
+Repsol,business,IS_A
+Repsol,enterprise,IS_A
+Repsol,petroleum industry,IN_INDUSTRY
+Repsol,joint-stock company,IS_A
+Repsol,Bolsa de Madrid,TRADES_ON
+Petrol Group,business,IS_A
+Petrol Group,enterprise,IS_A
+Petrol Group,petroleum industry,IN_INDUSTRY
+Petrol Group,joint-stock company,IS_A
+Petrol Group,Slovenian Sovereign Holding,OWNED_BY
+Petrol Group,Pension Fund Management (Slovenia),OWNED_BY
+Petrol Group,Československá obchodní banka,OWNED_BY
+Petrol Group,Splitska banka,OWNED_BY
+AWE Limited,business,IS_A
+AWE Limited,enterprise,IS_A
+AWE Limited,petroleum industry,IN_INDUSTRY
+AWE Limited,joint-stock company,IS_A
+AED Oil,business,IS_A
+AED Oil,petroleum industry,IN_INDUSTRY
+Petrobras,oil company,IS_A
+Petrobras,petroleum industry,IN_INDUSTRY
+Petrobras,S.A.,IS_A
+Petrobras,New York Stock Exchange,TRADES_ON
+Petrobras,B3,TRADES_ON
+Petrobras,Federal Government of Brazil,OWNED_BY
+oil refining,petroleum industry,IN_INDUSTRY
+ConocoPhillips,business,IS_A
+ConocoPhillips,enterprise,IS_A
+ConocoPhillips,petroleum industry,IN_INDUSTRY
+ConocoPhillips,Conoco,WAS_PREVIOUSLY
+ConocoPhillips,Phillips Petroleum,WAS_PREVIOUSLY
+ConocoPhillips,joint-stock company,IS_A
+ConocoPhillips,New York Stock Exchange,TRADES_ON
+Petronas,business,IS_A
+Petronas,enterprise,IS_A
+Petronas,petroleum industry,IN_INDUSTRY
+Petronas,joint-stock company,IS_A
+Petronas,Government of Malaysia,OWNED_BY
+Novatek,organization,IS_A
+Novatek,enterprise,IS_A
+Novatek,petroleum industry,IN_INDUSTRY
+Novatek,joint-stock company,IS_A
+Novatek,Moscow Exchange,TRADES_ON
+Novatek,London Stock Exchange,TRADES_ON
+Lundin Petroleum,business,IS_A
+Lundin Petroleum,enterprise,IS_A
+Lundin Petroleum,petroleum industry,IN_INDUSTRY
+Lundin Petroleum,aktiebolag,IS_A
+Lundin Petroleum,Stockholm Stock Exchange,TRADES_ON
+Anglo-Persian Oil Company,business,IS_A
+Anglo-Persian Oil Company,petroleum industry,IN_INDUSTRY
+Motul,business,IS_A
+Motul,petroleum industry,IN_INDUSTRY
+Motul,société anonyme,IS_A
+ARCO,oil company,IS_A
+ARCO,business,IS_A
+ARCO,petroleum industry,IN_INDUSTRY
+ARCO,BP,OWNED_BY
+Chevron Corporation,business,IS_A
+Chevron Corporation,oil company,IS_A
+Chevron Corporation,enterprise,IS_A
+Chevron Corporation,petroleum industry,IN_INDUSTRY
+Chevron Corporation,joint-stock company,IS_A
+Chevron Corporation,New York Stock Exchange,TRADES_ON
+Lukoil,business,IS_A
+Lukoil,enterprise,IS_A
+Lukoil,extraction of petroleum,IN_INDUSTRY
+Lukoil,petroleum industry,IN_INDUSTRY
+Lukoil,open joint-stock company,IS_A
+Lukoil,Moscow Exchange,TRADES_ON
+Standard Oil,business,IS_A
+Standard Oil,enterprise,IS_A
+Standard Oil,petroleum industry,IN_INDUSTRY
+Standard Oil,joint-stock company,IS_A
+Agip,business,IS_A
+Agip,petroleum industry,IN_INDUSTRY
+Agip,Eni,OWNED_BY
+Devon Energy Center,building,IS_A
+Devon Energy Center,petroleum industry,IN_INDUSTRY
+Devon Energy Center,Devon Energy,OWNED_BY
+Alyeska Pipeline Service Company,business,IS_A
+Alyeska Pipeline Service Company,petroleum industry,IN_INDUSTRY
+Marathon Petroleum,business,IS_A
+Marathon Petroleum,petroleum industry,IN_INDUSTRY
+Marathon Petroleum,New York Stock Exchange,TRADES_ON
+Amoco,business,IS_A
+Amoco,enterprise,IS_A
+Amoco,petroleum industry,IN_INDUSTRY
+Amoco,joint-stock company,IS_A
+Amoco,BP,OWNED_BY
+Sudapet,business,IS_A
+Sudapet,petroleum industry,IN_INDUSTRY
+Anadarko Petroleum Corporation,business,IS_A
+Anadarko Petroleum Corporation,enterprise,IS_A
+Anadarko Petroleum Corporation,petroleum industry,IN_INDUSTRY
+Anadarko Petroleum Corporation,public company,IS_A
+Anadarko Petroleum Corporation,New York Stock Exchange,TRADES_ON
+Korea National Oil Corporation,business,IS_A
+Korea National Oil Corporation,petroleum industry,IN_INDUSTRY
+Japan Energy,business,IS_A
+Japan Energy,enterprise,IS_A
+Japan Energy,petroleum industry,IN_INDUSTRY
+Japan Energy,kabushiki gaisha,IS_A
+Azerbaijan International Operating Company,business,IS_A
+Azerbaijan International Operating Company,petroleum industry,IN_INDUSTRY
+Cairn Energy,public limited company,IS_A
+Cairn Energy,petroleum industry,IN_INDUSTRY
+Cairn Energy,joint-stock company,IS_A
+Cairn Energy,London Stock Exchange,TRADES_ON
+PetroChina,business,IS_A
+PetroChina,enterprise,IS_A
+PetroChina,petroleum industry,IN_INDUSTRY
+PetroChina,joint-stock company,IS_A
+PetroChina,Hong Kong Stock Exchange,TRADES_ON
+PetroChina,Shanghai Stock Exchange,TRADES_ON
+PetroChina,New York Stock Exchange,TRADES_ON
+PetroChina,China National Petroleum Corporation,OWNED_BY
+Latvijas Gāze,business,IS_A
+Latvijas Gāze,enterprise,IS_A
+Latvijas Gāze,petroleum industry,IN_INDUSTRY
+Latvijas Gāze,joint-stock company,IS_A
+MOL Group,business,IS_A
+MOL Group,enterprise,IS_A
+MOL Group,petroleum industry,IN_INDUSTRY
+MOL Group,joint-stock company,IS_A
+MOL Group,Budapest Stock Exchange,TRADES_ON
+MOL Group,Warsaw Stock Exchange,TRADES_ON
+MOL Group,Luxembourg Stock Exchange,TRADES_ON
+MOL Group,Government of Hungary,OWNED_BY
+MOL Group,ČEZ Group,OWNED_BY
+MOL Group,Oman Oil Company,OWNED_BY
+MOL Group,OTP Bank,OWNED_BY
+MOL Group,UniCredit,OWNED_BY
+MOL Group,ING,OWNED_BY
+MOL Group,treasury stock,OWNED_BY
+Enrico Mattei,human,IS_A
+Enrico Mattei,petroleum industry,IN_INDUSTRY
+Eni,business,IS_A
+Eni,enterprise,IS_A
+Eni,natural resource,IN_INDUSTRY
+Eni,petroleum industry,IN_INDUSTRY
+Eni,Lasmo,WAS_PREVIOUSLY
+Eni,società per azioni,IS_A
+Eni,New York Stock Exchange,TRADES_ON
+Eni,Borsa Italiana,TRADES_ON
+Eni,Cassa Depositi e Prestiti,OWNED_BY
+Eni,Ministry of Economy and Finance,OWNED_BY
+Eni,'People''s Bank of China',OWNED_BY
+Wintershall,business,IS_A
+Wintershall,petroleum industry,IN_INDUSTRY
+Wintershall,gas industry,IN_INDUSTRY
+Wintershall,Gesellschaft mit beschränkter Haftung,IS_A
+Wintershall,BASF,OWNED_BY
+Jet,oil company,IS_A
+Jet,business,IS_A
+Jet,petroleum industry,IN_INDUSTRY
+State Organization for Marketing of Oil,business,IS_A
+State Organization for Marketing of Oil,petroleum industry,IN_INDUSTRY
+South Caucasus Pipeline,gas pipeline,IS_A
+South Caucasus Pipeline,petroleum industry,IN_INDUSTRY
+NTV,television station,IS_A
+NTV,film studio,IS_A
+NTV,film production company,IS_A
+NTV,petroleum industry,IN_INDUSTRY
+NTV,Media-Most,OWNED_BY
+NTV,Gazprom-Media,OWNED_BY
+China National Petroleum Corporation,government-owned corporation,IS_A
+China National Petroleum Corporation,business,IS_A
+China National Petroleum Corporation,petroleum industry,IN_INDUSTRY
+China National Petroleum Corporation,State-owned Assets Supervision and Administration Commission of the State Council,OWNED_BY
+China National Petroleum Corporation,PetroChina,OWNER_OF
+National Iranian Oil Company,business,IS_A
+National Iranian Oil Company,oil company,IS_A
+National Iranian Oil Company,enterprise,IS_A
+National Iranian Oil Company,petroleum industry,IN_INDUSTRY
+National Iranian Oil Company,public company,IS_A
+National Iranian Oil Company,Tehran Stock Exchange,TRADES_ON
+Saras S.p.A.,business,IS_A
+Saras S.p.A.,enterprise,IS_A
+Saras S.p.A.,petroleum industry,IN_INDUSTRY
+Saras S.p.A.,società per azioni,IS_A
+Saudi Aramco Beach,human settlement,IS_A
+Saudi Aramco Beach,petroleum industry,IN_INDUSTRY
+Compañía Española de Petróleos,business,IS_A
+Compañía Española de Petróleos,petroleum industry,IN_INDUSTRY
+Compañía Española de Petróleos,Mubadala Development Company,OWNED_BY
+GS Caltex,business,IS_A
+GS Caltex,enterprise,IS_A
+GS Caltex,petroleum industry,IN_INDUSTRY
+GS Caltex,joint-stock company,IS_A
+Standard Oil of Ohio,business,IS_A
+Standard Oil of Ohio,petroleum industry,IN_INDUSTRY
+Oil Refineries Ltd,business,IS_A
+Oil Refineries Ltd,enterprise,IS_A
+Oil Refineries Ltd,petroleum industry,IN_INDUSTRY
+Oil Refineries Ltd,public company,IS_A
+Oil Refineries Ltd,Israel Corporation,OWNED_BY
+Anonima Petroli Italiana,business,IS_A
+Anonima Petroli Italiana,enterprise,IS_A
+Anonima Petroli Italiana,petroleum industry,IN_INDUSTRY
+Anonima Petroli Italiana,joint-stock company,IS_A
+Petroplus,business,IS_A
+Petroplus,petroleum industry,IN_INDUSTRY
+Petroplus,Limited,IS_A
+Ineos,private company limited by shares,IS_A
+Ineos,business,IS_A
+Ineos,petroleum industry,IN_INDUSTRY
+Ineos,Limited,IS_A
+RosUkrEnergo,business,IS_A
+RosUkrEnergo,petroleum industry,IN_INDUSTRY
+RosUkrEnergo,Limited,IS_A
+Sonangol Group,business,IS_A
+Sonangol Group,petroleum industry,IN_INDUSTRY
+Saudi Aramco,business,IS_A
+Saudi Aramco,petroleum industry,IN_INDUSTRY
+Saudi Aramco,government-owned corporation,IS_A
+Surgutneftegas,business,IS_A
+Surgutneftegas,enterprise,IS_A
+Surgutneftegas,extraction of petroleum,IN_INDUSTRY
+Surgutneftegas,petroleum industry,IN_INDUSTRY
+Surgutneftegas,joint-stock company,IS_A
+Surgutneftegas,public company,IS_A
+Surgutneftegas,Moscow Exchange,TRADES_ON
+Surgutneftegas,London Stock Exchange,TRADES_ON
+Gazprom Armenia,company,IS_A
+Gazprom Armenia,petroleum industry,IN_INDUSTRY
+Gazprom Armenia,company,IS_A
+Nord Stream AG,business,IS_A
+Nord Stream AG,petroleum industry,IN_INDUSTRY
+Nord Stream AG,Limited,IS_A
+Nord Stream AG,Gazprom,OWNED_BY
+Nord Stream AG,Wintershall,OWNED_BY
+Nord Stream AG,E.ON Ruhrgas,OWNED_BY
+Nord Stream AG,Gasunie,OWNED_BY
+Nord Stream AG,Engie,OWNED_BY
+Husky Energy,business,IS_A
+Husky Energy,petroleum industry,IN_INDUSTRY
+Husky Energy,corporation,IS_A
+Husky Energy,Toronto Stock Exchange,TRADES_ON
+Husky Energy,CK Hutchison Holdings,OWNED_BY
+Wentworth Resources,business,IS_A
+Wentworth Resources,petroleum industry,IN_INDUSTRY
+PDVSA,business,IS_A
+PDVSA,petroleum industry,IN_INDUSTRY
+PDVSA,Government of Venezuela,OWNED_BY
+Pars Oil Company,business,IS_A
+Pars Oil Company,petroleum industry,IN_INDUSTRY
+Pars Oil Company,Tehran Stock Exchange,TRADES_ON
+Dana Energy,business,IS_A
+Dana Energy,petroleum industry,IN_INDUSTRY
+Naftogaz,business,IS_A
+Naftogaz,enterprise,IS_A
+Naftogaz,petroleum industry,IN_INDUSTRY
+Naftogaz,joint-stock company,IS_A
+Pakistan Petroleum,business,IS_A
+Pakistan Petroleum,enterprise,IS_A
+Pakistan Petroleum,petroleum industry,IN_INDUSTRY
+Pakistan Petroleum,joint-stock company,IS_A
+Pakistan Petroleum,Government of Pakistan,OWNED_BY
+Transgaz,business,IS_A
+Transgaz,enterprise,IS_A
+Transgaz,petroleum industry,IN_INDUSTRY
+Transgaz,public company,IS_A
+The Hong Kong and China Gas Company,business,IS_A
+The Hong Kong and China Gas Company,enterprise,IS_A
+The Hong Kong and China Gas Company,petroleum industry,IN_INDUSTRY
+The Hong Kong and China Gas Company,joint-stock company,IS_A
+The Hong Kong and China Gas Company,Hong Kong Stock Exchange,TRADES_ON
+Shenergy Company,public company,IS_A
+Shenergy Company,petroleum industry,IN_INDUSTRY
+Shenergy Company,public company,IS_A
+Shenergy Company,Shanghai Stock Exchange,TRADES_ON
+STP,business,IS_A
+STP,petroleum industry,IN_INDUSTRY
+Perenco,oil company,IS_A
+Perenco,business,IS_A
+Perenco,petroleum industry,IN_INDUSTRY
+Penn West Exploration,business,IS_A
+Penn West Exploration,petroleum industry,IN_INDUSTRY
+Penn West Exploration,corporation,IS_A
+Penn West Exploration,Toronto Stock Exchange,TRADES_ON
+Penn West Exploration,New York Stock Exchange,TRADES_ON
+Texaco,business,IS_A
+Texaco,enterprise,IS_A
+Texaco,petroleum industry,IN_INDUSTRY
+Texaco,company,IS_A
+Texaco,Chevron Corporation,OWNED_BY
+Atlantic Petroleum,business,IS_A
+Atlantic Petroleum,enterprise,IS_A
+Atlantic Petroleum,petroleum industry,IN_INDUSTRY
+Atlantic Petroleum,public company,IS_A
+Atlantic Petroleum,Oslo Stock Exchange,TRADES_ON
+Atlantic Petroleum,Copenhagen Stock Exchange,TRADES_ON
+Blue Ensign Technologies,business,IS_A
+Blue Ensign Technologies,enterprise,IS_A
+Blue Ensign Technologies,petroleum industry,IN_INDUSTRY
+Blue Ensign Technologies,joint-stock company,IS_A
+BOTAŞ,business,IS_A
+BOTAŞ,enterprise,IS_A
+BOTAŞ,petroleum industry,IN_INDUSTRY
+BOTAŞ,Anonim Şirket,IS_A
+China National Offshore Oil Corporation,government-owned corporation,IS_A
+China National Offshore Oil Corporation,business,IS_A
+China National Offshore Oil Corporation,petroleum industry,IN_INDUSTRY
+China National Offshore Oil Corporation,government-owned corporation,IS_A
+Bahrain Petroleum Company,business,IS_A
+Bahrain Petroleum Company,petroleum industry,IN_INDUSTRY
+Sinopec,business,IS_A
+Sinopec,enterprise,IS_A
+Sinopec,petroleum industry,IN_INDUSTRY
+Sinopec,joint-stock company,IS_A
+Sinopec,New York Stock Exchange,TRADES_ON
+Sinopec,London Stock Exchange,TRADES_ON
+Sinopec,Hong Kong Stock Exchange,TRADES_ON
+Sinopec,Shenzhen Stock Exchange,TRADES_ON
+Sinopec,Shanghai Stock Exchange,TRADES_ON
+Sinopec,China Petrochemical Corporation,OWNED_BY
+Yukos,business,IS_A
+Yukos,enterprise,IS_A
+Yukos,petroleum industry,IN_INDUSTRY
+Yukos,joint-stock company,IS_A
+Talisman Energy,business,IS_A
+Talisman Energy,petroleum industry,IN_INDUSTRY
+Talisman Energy,BP Canada,WAS_PREVIOUSLY
+Talisman Energy,corporation,IS_A
+Talisman Energy,Toronto Stock Exchange,TRADES_ON
+Talisman Energy,New York Stock Exchange,TRADES_ON
+Talisman Energy,Repsol,OWNED_BY
+Origin Energy,business,IS_A
+Origin Energy,enterprise,IS_A
+Origin Energy,petroleum industry,IN_INDUSTRY
+Origin Energy,joint-stock company,IS_A
+Origin Energy,Australian Securities Exchange,TRADES_ON
+Bharat Petroleum,business,IS_A
+Bharat Petroleum,petroleum industry,IN_INDUSTRY
+Bharat Petroleum,Government of India,OWNED_BY
+Burmah Oil,business,IS_A
+Burmah Oil,enterprise,IS_A
+Burmah Oil,petroleum industry,IN_INDUSTRY
+Burmah Oil,public company,IS_A
+Esso,business,IS_A
+Esso,brick and mortar company,IS_A
+Esso,gas station,IS_A
+Esso,petroleum industry,IN_INDUSTRY
+Esso,ExxonMobil,OWNED_BY
+Pemex,business,IS_A
+Pemex,petroleum industry,IN_INDUSTRY
+Pemex,government-owned corporation,IS_A
+Pemex,Federal government of Mexico,OWNED_BY
+Trans Austria Gas Pipeline,gas pipeline,IS_A
+Trans Austria Gas Pipeline,petroleum industry,IN_INDUSTRY
+Braskem,business,IS_A
+Braskem,enterprise,IS_A
+Braskem,petroleum industry,IN_INDUSTRY
+Braskem,S.A.,IS_A
+Braskem,New York Stock Exchange,TRADES_ON
+Braskem,B3,TRADES_ON
+Braskem,Odebrecht,OWNED_BY
+LUKOIL Neftochim Burgas,oil refinery,IS_A
+LUKOIL Neftochim Burgas,petroleum industry,IN_INDUSTRY
+Hellenic Petroleum,business,IS_A
+Hellenic Petroleum,enterprise,IS_A
+Hellenic Petroleum,petroleum industry,IN_INDUSTRY
+Hellenic Petroleum,joint-stock company,IS_A
+Hellenic Petroleum,Spiros Latsis,OWNED_BY
+Sasol,business,IS_A
+Sasol,enterprise,IS_A
+Sasol,petroleum industry,IN_INDUSTRY
+Sasol,joint-stock company,IS_A
+Sasol,New York Stock Exchange,TRADES_ON
+Oltchim S.A.,business,IS_A
+Oltchim S.A.,enterprise,IS_A
+Oltchim S.A.,petroleum industry,IN_INDUSTRY
+Oltchim S.A.,joint-stock company,IS_A
+Union Carbide,business,IS_A
+Union Carbide,enterprise,IS_A
+Union Carbide,petroleum industry,IN_INDUSTRY
+Union Carbide,joint-stock company,IS_A
+Reliance Industries Limited,business,IS_A
+Reliance Industries Limited,enterprise,IS_A
+Reliance Industries Limited,petroleum industry,IN_INDUSTRY
+Reliance Industries Limited,joint-stock company,IS_A
+Reliance Industries Limited,National Stock Exchange of India,TRADES_ON
+Reliance Industries Limited,Mukesh Ambani,OWNED_BY
+ALFA Group,business,IS_A
+ALFA Group,petroleum industry,IN_INDUSTRY
+ALFA Group,Mexican Stock Exchange,TRADES_ON
+ALFA Group,Bolsa de Madrid,TRADES_ON
+Williams Companies,energy company,IS_A
+Williams Companies,petroleum industry,IN_INDUSTRY
+Williams Companies,joint-stock company,IS_A
+Williams Companies,New York Stock Exchange,TRADES_ON
+Kinder Morgan,business,IS_A
+Kinder Morgan,enterprise,IS_A
+Kinder Morgan,petroleum industry,IN_INDUSTRY
+Kinder Morgan,joint-stock company,IS_A
+Kinder Morgan,New York Stock Exchange,TRADES_ON
+Trans-Alaska Pipeline System,oil pipeline,IS_A
+Trans-Alaska Pipeline System,petroleum industry,IN_INDUSTRY
+Murphy Oil,business,IS_A
+Murphy Oil,enterprise,IS_A
+Murphy Oil,petroleum industry,IN_INDUSTRY
+Murphy Oil,public company,IS_A
+Murphy Oil,New York Stock Exchange,TRADES_ON
+Total Petrochemicals USA,business,IS_A
+Total Petrochemicals USA,petroleum industry,IN_INDUSTRY
+PKN Orlen,business,IS_A
+PKN Orlen,enterprise,IS_A
+PKN Orlen,petroleum industry,IN_INDUSTRY
+PKN Orlen,Spółka akcyjna,IS_A
+PKN Orlen,Warsaw Stock Exchange,TRADES_ON
+PKN Orlen,State Treasury,OWNED_BY
+PKN Orlen,Nationale-Nederlanden OFE,OWNED_BY
+Sunray,city of the United States,IS_A
+Sunray,petroleum industry,IN_INDUSTRY
+Bumi Resources,business,IS_A
+Bumi Resources,petroleum industry,IN_INDUSTRY
+Campsa,business,IS_A
+Campsa,petroleum industry,IN_INDUSTRY
+KazMunaiGas Exploration Production,business,IS_A
+KazMunaiGas Exploration Production,enterprise,IS_A
+KazMunaiGas Exploration Production,petroleum industry,IN_INDUSTRY
+KazMunaiGas Exploration Production,joint-stock company,IS_A
+Castrol,business,IS_A
+Castrol,enterprise,IS_A
+Castrol,petroleum industry,IN_INDUSTRY
+Castrol,private company limited by shares,IS_A
+Castrol,New York Stock Exchange,TRADES_ON
+Castrol,BP,OWNED_BY
+Cenovus Energy,business,IS_A
+Cenovus Energy,petroleum industry,IN_INDUSTRY
+Cenovus Energy,corporation,IS_A
+Cenovus Energy,New York Stock Exchange,TRADES_ON
+Cenovus Energy,Toronto Stock Exchange,TRADES_ON
+Sonatrach,business,IS_A
+Sonatrach,petroleum industry,IN_INDUSTRY
+Sonatrach,government-owned corporation,IS_A
+Comgás,business,IS_A
+Comgás,petroleum industry,IN_INDUSTRY
+Comgás,B3,TRADES_ON
+Comgás,Cosan,OWNED_BY
+OGK-2,business,IS_A
+OGK-2,enterprise,IS_A
+OGK-2,petroleum industry,IN_INDUSTRY
+OGK-2,RAO UES,WAS_PREVIOUSLY
+OGK-2,OGK-6,WAS_PREVIOUSLY
+OGK-2,joint-stock company,IS_A
+OGK-2,Moscow Exchange,TRADES_ON
+Rosneft,government-owned corporation,IS_A
+Rosneft,business,IS_A
+Rosneft,petroleum industry,IN_INDUSTRY
+Rosneft,open joint-stock company,IS_A
+Rosneft,London Stock Exchange,TRADES_ON
+Rosneft,Moscow Exchange,TRADES_ON
+Rosneft,Government of Russia,OWNED_BY
+Madagascar Oil,company,IS_A
+Madagascar Oil,petroleum industry,IN_INDUSTRY
+Madagascar Oil,company,IS_A
+Seven Sisters,petroleum industry,IN_INDUSTRY
+Saga Petroleum,business,IS_A
+Saga Petroleum,petroleum industry,IN_INDUSTRY
+Devon Energy,business,IS_A
+Devon Energy,enterprise,IS_A
+Devon Energy,petroleum industry,IN_INDUSTRY
+Devon Energy,public company,IS_A
+Devon Energy,New York Stock Exchange,TRADES_ON
+Petro-Canada,business,IS_A
+Petro-Canada,enterprise,IS_A
+Petro-Canada,petroleum industry,IN_INDUSTRY
+Petro-Canada,joint-stock company,IS_A
+Petro-Canada,Suncor Energy,OWNED_BY
+HC Kompanion-Naftogaz,ice hockey team,IS_A
+HC Kompanion-Naftogaz,petroleum industry,IN_INDUSTRY
+EOG Resources,public company,IS_A
+EOG Resources,business,IS_A
+EOG Resources,enterprise,IS_A
+EOG Resources,petroleum industry,IN_INDUSTRY
+EOG Resources,joint-stock company,IS_A
+EOG Resources,New York Stock Exchange,TRADES_ON
+East Mediterranean Gas Company,petroleum industry,IN_INDUSTRY
+Naftna Industrija Srbije,business,IS_A
+Naftna Industrija Srbije,enterprise,IS_A
+Naftna Industrija Srbije,petroleum industry,IN_INDUSTRY
+Naftna Industrija Srbije,joint-stock company,IS_A
+Naftna Industrija Srbije,Belgrade Stock Exchange,TRADES_ON
+Naftna Industrija Srbije,Gazprom Neft,OWNED_BY
+Naftna Industrija Srbije,Government of Serbia,OWNED_BY
+Ecopetrol,enterprise,IS_A
+Ecopetrol,business,IS_A
+Ecopetrol,petroleum industry,IN_INDUSTRY
+Ecopetrol,S.A.,IS_A
+Ecopetrol,New York Stock Exchange,TRADES_ON
+Ecopetrol,Toronto Stock Exchange,TRADES_ON
+Valero Energy Corporation,business,IS_A
+Valero Energy Corporation,enterprise,IS_A
+Valero Energy Corporation,petroleum industry,IN_INDUSTRY
+Valero Energy Corporation,S.A.,IS_A
+Valero Energy Corporation,New York Stock Exchange,TRADES_ON
+Indian Oil Corporation,business,IS_A
+Indian Oil Corporation,enterprise,IS_A
+Indian Oil Corporation,petroleum industry,IN_INDUSTRY
+Indian Oil Corporation,public company,IS_A
+Indian Oil Corporation,Government of India,OWNED_BY
+Sinclair Oil Corporation,business,IS_A
+Sinclair Oil Corporation,petroleum industry,IN_INDUSTRY
+TransMontaigne,business,IS_A
+TransMontaigne,petroleum industry,IN_INDUSTRY
+TransMontaigne,New York Stock Exchange,TRADES_ON
+Gulf Oil,business,IS_A
+Gulf Oil,petroleum industry,IN_INDUSTRY
+Gulf Oil,privately held company,IS_A
+Egyptian General Petroleum Corporation,business,IS_A
+Egyptian General Petroleum Corporation,government-owned corporation,IS_A
+Egyptian General Petroleum Corporation,petroleum industry,IN_INDUSTRY
+Egyptian General Petroleum Corporation,natural resource,IN_INDUSTRY
+Supermajor,petroleum industry,IN_INDUSTRY
+Empresa Nacional del Petróleo,business,IS_A
+Empresa Nacional del Petróleo,petroleum industry,IN_INDUSTRY
+Energias de Portugal,business,IS_A
+Energias de Portugal,petroleum industry,IN_INDUSTRY
+Energias de Portugal,sociedade anónima,IS_A
+Energias de Portugal,Euronext Lisbon,TRADES_ON
+Shell Canada,business,IS_A
+Shell Canada,petroleum industry,IN_INDUSTRY
+Unocal Corporation,business,IS_A
+Unocal Corporation,petroleum industry,IN_INDUSTRY
+KazMunayGas,business,IS_A
+KazMunayGas,enterprise,IS_A
+KazMunayGas,petroleum industry,IN_INDUSTRY
+KazMunayGas,joint-stock company,IS_A
+Sunoco,business,IS_A
+Sunoco,enterprise,IS_A
+Sunoco,petroleum industry,IN_INDUSTRY
+Sunoco,joint-stock company,IS_A
+Schlumberger,business,IS_A
+Schlumberger,enterprise,IS_A
+Schlumberger,petroleum industry,IN_INDUSTRY
+Schlumberger,Naamloze vennootschap,IS_A
+Schlumberger,public company,IS_A
+Schlumberger,New York Stock Exchange,TRADES_ON
+Oil and Natural Gas Corporation,business,IS_A
+Oil and Natural Gas Corporation,enterprise,IS_A
+Oil and Natural Gas Corporation,petroleum industry,IN_INDUSTRY
+Oil and Natural Gas Corporation,joint-stock company,IS_A
+Oil and Natural Gas Corporation,Government of India,OWNED_BY
+Petroleum Geo-Services,business,IS_A
+Petroleum Geo-Services,petroleum industry,IN_INDUSTRY
+Petroleum Geo-Services,allmennaksjeselskap,IS_A
+Petroleum Geo-Services,Oslo Stock Exchange,TRADES_ON
+Phillips Petroleum,business,IS_A
+Phillips Petroleum,petroleum industry,IN_INDUSTRY
+Acergy,business,IS_A
+Acergy,enterprise,IS_A
+Acergy,petroleum industry,IN_INDUSTRY
+Acergy,S.A.,IS_A
+TGS-NOPEC Geophysical Company,business,IS_A
+TGS-NOPEC Geophysical Company,enterprise,IS_A
+TGS-NOPEC Geophysical Company,petroleum industry,IN_INDUSTRY
+TGS-NOPEC Geophysical Company,joint-stock company,IS_A
+TGS-NOPEC Geophysical Company,Oslo Stock Exchange,TRADES_ON
+Mosenergo,business,IS_A
+Mosenergo,enterprise,IS_A
+Mosenergo,petroleum industry,IN_INDUSTRY
+Mosenergo,open joint-stock company,IS_A
+Mosenergo,Moscow Exchange,TRADES_ON
+Mosenergo,Gazprom,OWNED_BY
+Galp Energia,business,IS_A
+Galp Energia,enterprise,IS_A
+Galp Energia,petroleum industry,IN_INDUSTRY
+Galp Energia,joint-stock company,IS_A
+Koch Industries,business,IS_A
+Koch Industries,privately held company,IS_A
+Koch Industries,enterprise,IS_A
+Koch Industries,petroleum industry,IN_INDUSTRY
+Koch Industries,Farmland Industries,WAS_PREVIOUSLY
+Koch Industries,S.A.,IS_A
+Koch Industries,Charles G. Koch,OWNED_BY
+Koch Industries,David H. Koch,OWNED_BY
+Gazprom Germania,business,IS_A
+Gazprom Germania,petroleum industry,IN_INDUSTRY
+Vedanta Resources,business,IS_A
+Vedanta Resources,enterprise,IS_A
+Vedanta Resources,mining,IN_INDUSTRY
+Vedanta Resources,petroleum industry,IN_INDUSTRY
+Vedanta Resources,public limited company,IS_A
+Vedanta Resources,London Stock Exchange,TRADES_ON
+Elf Aquitaine,business,IS_A
+Elf Aquitaine,enterprise,IS_A
+Elf Aquitaine,petroleum industry,IN_INDUSTRY
+Elf Aquitaine,S.A.,IS_A
+Elf Aquitaine,Total S.A.,OWNED_BY
+Suncor Energy,business,IS_A
+Suncor Energy,petroleum industry,IN_INDUSTRY
+Suncor Energy,Petro-Canada,WAS_PREVIOUSLY
+Suncor Energy,corporation,IS_A
+Suncor Energy,Toronto Stock Exchange,TRADES_ON
+Suncor Energy,New York Stock Exchange,TRADES_ON
+Petroleum Development Oman,business,IS_A
+Petroleum Development Oman,petroleum industry,IN_INDUSTRY
+Petroleum Development Oman,Oman,OWNED_BY
+Greater Nile Petroleum Operating Company,business,IS_A
+Greater Nile Petroleum Operating Company,petroleum industry,IN_INDUSTRY
+Wingas,business,IS_A
+Wingas,petroleum industry,IN_INDUSTRY
+Wingas,Gesellschaft mit beschränkter Haftung,IS_A
+Marathon Oil,public company,IS_A
+Marathon Oil,business,IS_A
+Marathon Oil,enterprise,IS_A
+Marathon Oil,petroleum industry,IN_INDUSTRY
+Marathon Oil,John Brown & Company,WAS_PREVIOUSLY
+Marathon Oil,Upper Clyde Shipbuilders,WAS_PREVIOUSLY
+Marathon Oil,joint-stock company,IS_A
+Marathon Oil,New York Stock Exchange,TRADES_ON
+Ultrapar,business,IS_A
+Ultrapar,enterprise,IS_A
+Ultrapar,petroleum industry,IN_INDUSTRY
+Ultrapar,S.A.,IS_A
+Ultrapar,New York Stock Exchange,TRADES_ON
+Ultrapar,B3,TRADES_ON
+Heerema Marine Contractors,business,IS_A
+Heerema Marine Contractors,enterprise,IS_A
+Heerema Marine Contractors,petroleum industry,IN_INDUSTRY
+Heerema Marine Contractors,Besloten vennootschap met beperkte aansprakelijkheid,IS_A
+Tatneft,business,IS_A
+Tatneft,enterprise,IS_A
+Tatneft,petroleum industry,IN_INDUSTRY
+Tatneft,joint-stock company,IS_A
+Tatneft,Moscow Exchange,TRADES_ON
+SOCAR,business,IS_A
+SOCAR,petroleum industry,IN_INDUSTRY
+SOCAR,government-owned corporation,IS_A
+Kuwait Petroleum Corporation,government agency,IS_A
+Kuwait Petroleum Corporation,business,IS_A
+Kuwait Petroleum Corporation,petroleum industry,IN_INDUSTRY
+JXTG Nippon Oil & Energy,business,IS_A
+JXTG Nippon Oil & Energy,enterprise,IS_A
+JXTG Nippon Oil & Energy,petroleum industry,IN_INDUSTRY
+JXTG Nippon Oil & Energy,kabushiki gaisha,IS_A
+Phillips 66,business,IS_A
+Phillips 66,enterprise,IS_A
+Phillips 66,petroleum industry,IN_INDUSTRY
+Phillips 66,Phillips Petroleum,WAS_PREVIOUSLY
+Phillips 66,joint-stock company,IS_A
+Phillips 66,New York Stock Exchange,TRADES_ON
+Phillips 66,Berkshire Hathaway,OWNED_BY
+Phillips 66,The Vanguard Group,OWNED_BY
+Phillips 66,State Street Global Advisors,OWNED_BY
+Phillips 66,BlackRock,OWNED_BY
+Petrofina,business,IS_A
+Petrofina,petroleum industry,IN_INDUSTRY
+INA,business,IS_A
+INA,enterprise,IS_A
+INA,petroleum industry,IN_INDUSTRY
+INA,joint-stock company,IS_A
+INA,Zagreb Stock Exchange,TRADES_ON
+International Petroleum Investment Company,business,IS_A
+International Petroleum Investment Company,petroleum industry,IN_INDUSTRY
+Nigerian National Petroleum Corporation,business,IS_A
+Nigerian National Petroleum Corporation,petroleum industry,IN_INDUSTRY
+Iraq National Oil Company,business,IS_A
+Iraq National Oil Company,petroleum industry,IN_INDUSTRY
+Iraq National Oil Company,Iraq Petroleum Company,WAS_PREVIOUSLY
+Irving Oil,business,IS_A
+Irving Oil,petroleum industry,IN_INDUSTRY
+Irving Oil,corporation,IS_A
+Petronor,business,IS_A
+Petronor,enterprise,IS_A
+Petronor,petroleum industry,IN_INDUSTRY
+Petronor,S.A.,IS_A
+Petronor,Repsol,OWNED_BY
+KazTransOil,business,IS_A
+KazTransOil,enterprise,IS_A
+KazTransOil,petroleum industry,IN_INDUSTRY
+KazTransOil,joint-stock company,IS_A
+KazTransOil,KazMunayGas,OWNED_BY
+Kazenergy,professional body,IS_A
+Kazenergy,petroleum industry,IN_INDUSTRY
+Iraq Petroleum Company,business,IS_A
+Iraq Petroleum Company,petroleum industry,IN_INDUSTRY
+OMV Petrom,business,IS_A
+OMV Petrom,petroleum industry,IN_INDUSTRY
+OMV Petrom,OMV,OWNED_BY
+Petoro,business,IS_A
+Petoro,petroleum industry,IN_INDUSTRY
+Equinor,business,IS_A
+Equinor,petroleum industry,IN_INDUSTRY
+Equinor,allmennaksjeselskap,IS_A
+Equinor,Oslo Stock Exchange,TRADES_ON
+Equinor,New York Stock Exchange,TRADES_ON
+Equinor,Government of Norway,OWNED_BY
+Equinor,The Government Pension Fund of Norway,OWNED_BY
+SBM Offshore,business,IS_A
+SBM Offshore,enterprise,IS_A
+SBM Offshore,petroleum industry,IN_INDUSTRY
+SBM Offshore,Naamloze vennootschap,IS_A
+SBM Offshore,Euronext,TRADES_ON
+Sistema,business,IS_A
+Sistema,enterprise,IS_A
+Sistema,credit institution,IS_A
+Sistema,insurance industry,IN_INDUSTRY
+Sistema,financial services,IN_INDUSTRY
+Sistema,retail,IN_INDUSTRY
+Sistema,petroleum industry,IN_INDUSTRY
+Sistema,radio electronics,IN_INDUSTRY
+Sistema,Industrial Engineering,IN_INDUSTRY
+Sistema,telecommunication technology,IN_INDUSTRY
+Sistema,joint-stock company,IS_A
+Sistema,London Stock Exchange,TRADES_ON
+Sistema,Moscow Exchange,TRADES_ON
+Sistema,Vladimir Yevtushenkov,OWNED_BY
+Kontinentale Öl,business,IS_A
+Kontinentale Öl,petroleum industry,IN_INDUSTRY
+Rompetrol,business,IS_A
+Rompetrol,public company,IS_A
+Rompetrol,enterprise,IS_A
+Rompetrol,petroleum industry,IN_INDUSTRY
+Rompetrol,Naamloze vennootschap,IS_A
+Kunlun Energy,business,IS_A
+Kunlun Energy,enterprise,IS_A
+Kunlun Energy,petroleum industry,IN_INDUSTRY
+Kunlun Energy,joint-stock company,IS_A
+Kunlun Energy,Hong Kong Stock Exchange,TRADES_ON
+Uzbekneftegaz,business,IS_A
+Uzbekneftegaz,petroleum industry,IN_INDUSTRY
+Uzbekneftegaz,government-owned corporation,IS_A
+YPFB,business,IS_A
+YPFB,petroleum industry,IN_INDUSTRY
+Qatar Petroleum,business,IS_A
+Qatar Petroleum,petroleum industry,IN_INDUSTRY
+Woodside Petroleum,business,IS_A
+Woodside Petroleum,enterprise,IS_A
+Woodside Petroleum,petroleum industry,IN_INDUSTRY
+Woodside Petroleum,joint-stock company,IS_A
+Woodside Petroleum,Australian Securities Exchange,TRADES_ON
+Woodside Petroleum,Royal Dutch Shell,OWNED_BY
+EP Petroecuador,business,IS_A
+EP Petroecuador,petroleum industry,IN_INDUSTRY
+Magnolia Petroleum Company,business,IS_A
+Magnolia Petroleum Company,petroleum industry,IN_INDUSTRY
+Makpetrol,public company,IS_A
+Makpetrol,petroleum industry,IN_INDUSTRY
+Makpetrol,joint-stock company,IS_A
+Gazprombank,business,IS_A
+Gazprombank,enterprise,IS_A
+Gazprombank,credit institution,IS_A
+Gazprombank,petroleum industry,IN_INDUSTRY
+Gazprombank,joint-stock company,IS_A
+National Oil Corporation,business,IS_A
+National Oil Corporation,government-owned corporation,IS_A
+National Oil Corporation,petroleum industry,IN_INDUSTRY
+National Oil Corporation,natural resource,IN_INDUSTRY
+TGC-1,business,IS_A
+TGC-1,enterprise,IS_A
+TGC-1,petroleum industry,IN_INDUSTRY
+TGC-1,public company,IS_A
+TGC-1,Moscow Exchange,TRADES_ON
+YPF,business,IS_A
+YPF,enterprise,IS_A
+YPF,petroleum industry,IN_INDUSTRY
+YPF,joint-stock company,IS_A
+YPF,New York Stock Exchange,TRADES_ON
+OGK-6,business,IS_A
+OGK-6,enterprise,IS_A
+OGK-6,petroleum industry,IN_INDUSTRY
+OGK-6,RAO UES,WAS_PREVIOUSLY
+OGK-6,joint-stock company,IS_A
+Occidental Petroleum,business,IS_A
+Occidental Petroleum,petroleum industry,IN_INDUSTRY
+Occidental Petroleum,New York Stock Exchange,TRADES_ON
+Occidental Petroleum,Tokyo Stock Exchange,TRADES_ON
+Oman Oil Company,business,IS_A
+Oman Oil Company,petroleum industry,IN_INDUSTRY
+Andeavor,business,IS_A
+Andeavor,enterprise,IS_A
+Andeavor,petroleum industry,IN_INDUSTRY
+Andeavor,gas industry,IN_INDUSTRY
+Andeavor,energy industry,IN_INDUSTRY
+Andeavor,public company,IS_A
+Andeavor,corporation,IS_A
+Andeavor,New York Stock Exchange,TRADES_ON
+Vopak,business,IS_A
+Vopak,petroleum industry,IN_INDUSTRY
+Galnaftogaz,business,IS_A
+Galnaftogaz,petroleum industry,IN_INDUSTRY
+Samsun–Ceyhan pipeline,oil pipeline,IS_A
+Samsun–Ceyhan pipeline,petroleum industry,IN_INDUSTRY
+Eesti Gaas,business,IS_A
+Eesti Gaas,enterprise,IS_A
+Eesti Gaas,petroleum industry,IN_INDUSTRY
+Eesti Gaas,limited liability company,IS_A
+Petrovietnam,business,IS_A
+Petrovietnam,petroleum industry,IN_INDUSTRY
+Petrovietnam,government-owned corporation,IS_A
+Petrovietnam,Vietnam,OWNED_BY
+Universiti Teknologi Petronas,university,IS_A
+Universiti Teknologi Petronas,petroleum industry,IN_INDUSTRY
+Precision Drilling,business,IS_A
+Precision Drilling,enterprise,IS_A
+Precision Drilling,petroleum industry,IN_INDUSTRY
+Precision Drilling,joint-stock company,IS_A
+Precision Drilling,Toronto Stock Exchange,TRADES_ON
+Precision Drilling,New York Stock Exchange,TRADES_ON
+Transneft,business,IS_A
+Transneft,enterprise,IS_A
+Transneft,petroleum industry,IN_INDUSTRY
+Transneft,open joint-stock company,IS_A
+Transneft,Moscow Exchange,TRADES_ON
+Transneft,Government of Russia,OWNED_BY
+Denbury Resources,organization,IS_A
+Denbury Resources,business,IS_A
+Denbury Resources,petroleum industry,IN_INDUSTRY
+Denbury Resources,New York Stock Exchange,TRADES_ON
+RWE Supply & Trading CZ,business,IS_A
+RWE Supply & Trading CZ,enterprise,IS_A
+RWE Supply & Trading CZ,petroleum industry,IN_INDUSTRY
+RWE Supply & Trading CZ,akciová společnost,IS_A
+RWE Supply & Trading CZ,innogy International Participations,OWNED_BY
+RWE Supply & Trading CZ,RWE,OWNED_BY
+RWE Supply & Trading CZ,National Property Fund,OWNED_BY
+Roc Oil Company,business,IS_A
+Roc Oil Company,petroleum industry,IN_INDUSTRY
+Lotos Petrobaltic,business,IS_A
+Lotos Petrobaltic,enterprise,IS_A
+Lotos Petrobaltic,petroleum industry,IN_INDUSTRY
+Lotos Petrobaltic,joint-stock company,IS_A
+Lotos Petrobaltic,Grupa Lotos,OWNED_BY
+Nigaz,business,IS_A
+Nigaz,petroleum industry,IN_INDUSTRY
+Schoeller-Bleckmann Oilfield Equipment,public company,IS_A
+Schoeller-Bleckmann Oilfield Equipment,petroleum industry,IN_INDUSTRY
+Schoeller-Bleckmann Oilfield Equipment,joint-stock company,IS_A
+TNK-BP,business,IS_A
+TNK-BP,enterprise,IS_A
+TNK-BP,petroleum industry,IN_INDUSTRY
+TNK-BP,open joint-stock company,IS_A
+TNK-BP,Moscow Exchange,TRADES_ON
+TNK-BP,Rosneft,OWNED_BY
+South Improvement Company,petroleum industry,IN_INDUSTRY
+Branobel,business,IS_A
+Branobel,enterprise,IS_A
+Branobel,petroleum industry,IN_INDUSTRY
+Branobel,joint-stock company,IS_A
+Arabian Gulf Oil Company,business,IS_A
+Arabian Gulf Oil Company,petroleum industry,IN_INDUSTRY
+Russneft,business,IS_A
+Russneft,enterprise,IS_A
+Russneft,petroleum industry,IN_INDUSTRY
+Russneft,public company,IS_A
+Beltransgaz,business,IS_A
+Beltransgaz,petroleum industry,IN_INDUSTRY
+Syrian Petroleum Company,business,IS_A
+Syrian Petroleum Company,petroleum industry,IN_INDUSTRY
+Taçi Oil,business,IS_A
+Taçi Oil,enterprise,IS_A
+Taçi Oil,petroleum industry,IN_INDUSTRY
+Taçi Oil,joint-stock company,IS_A
+Ukrnafta,business,IS_A
+Ukrnafta,enterprise,IS_A
+Ukrnafta,petroleum industry,IN_INDUSTRY
+Ukrnafta,public company,IS_A
+Transportadora de Gas del Sur,business,IS_A
+Transportadora de Gas del Sur,enterprise,IS_A
+Transportadora de Gas del Sur,petroleum industry,IN_INDUSTRY
+Transportadora de Gas del Sur,joint-stock company,IS_A
+Transportadora de Gas del Sur,New York Stock Exchange,TRADES_ON
+Cosmo Oil Company,business,IS_A
+Cosmo Oil Company,enterprise,IS_A
+Cosmo Oil Company,petroleum industry,IN_INDUSTRY
+Cosmo Oil Company,kabushiki gaisha,IS_A
+Cosmo Oil Company,Tokyo Stock Exchange,TRADES_ON
+VNG – Verbundnetz Gas,energy company,IS_A
+VNG – Verbundnetz Gas,petroleum industry,IN_INDUSTRY
+VNG – Verbundnetz Gas,Aktiengesellschaft,IS_A
+Petroperú,business,IS_A
+Petroperú,petroleum industry,IN_INDUSTRY
+Marland Oil Company,business,IS_A
+Marland Oil Company,petroleum industry,IN_INDUSTRY
+Watco Companies,business,IS_A
+Watco Companies,petroleum industry,IN_INDUSTRY
+Pennzoil,business,IS_A
+Pennzoil,enterprise,IS_A
+Pennzoil,petroleum industry,IN_INDUSTRY
+Pennzoil,joint-stock company,IS_A
+China Petrochemical Corporation,business,IS_A
+China Petrochemical Corporation,petroleum industry,IN_INDUSTRY
+China Petrochemical Corporation,government-owned corporation,IS_A
+Noble Energy,business,IS_A
+Noble Energy,enterprise,IS_A
+Noble Energy,petroleum industry,IN_INDUSTRY
+Noble Energy,public company,IS_A
+Noble Energy,New York Stock Exchange,TRADES_ON
+Arbusto Energy,business,IS_A
+Arbusto Energy,petroleum industry,IN_INDUSTRY
+Pakistan State Oil,business,IS_A
+Pakistan State Oil,petroleum industry,IN_INDUSTRY
+Petrofac,business,IS_A
+Petrofac,enterprise,IS_A
+Petrofac,petroleum industry,IN_INDUSTRY
+Petrofac,public limited company,IS_A
+Petrofac,London Stock Exchange,TRADES_ON
+Romgaz,business,IS_A
+Romgaz,petroleum industry,IN_INDUSTRY
+ANCAP,government-owned corporation,IS_A
+ANCAP,petroleum industry,IN_INDUSTRY
+Akwa Group,business,IS_A
+Akwa Group,petroleum industry,IN_INDUSTRY
+Antar,business,IS_A
+Antar,petroleum industry,IN_INDUSTRY
+Asmidal,business,IS_A
+Asmidal,enterprise,IS_A
+Asmidal,petroleum industry,IN_INDUSTRY
+Asmidal,joint-stock company,IS_A
+Baikalfinansgrup,business,IS_A
+Baikalfinansgrup,petroleum industry,IN_INDUSTRY
+Isramco,business,IS_A
+Isramco,petroleum industry,IN_INDUSTRY
+Isramco,NASDAQ,TRADES_ON
+Isramco,Tel Aviv Stock Exchange,TRADES_ON
+Chesapeake Energy,business,IS_A
+Chesapeake Energy,enterprise,IS_A
+Chesapeake Energy,petroleum industry,IN_INDUSTRY
+Chesapeake Energy,public company,IS_A
+Chesapeake Energy,New York Stock Exchange,TRADES_ON
+national oil company,petroleum industry,IN_INDUSTRY
+Cupet,government-owned corporation,IS_A
+Cupet,petroleum industry,IN_INDUSTRY
+Dana Gas,business,IS_A
+Dana Gas,petroleum industry,IN_INDUSTRY
+Dana Petroleum,business,IS_A
+Dana Petroleum,petroleum industry,IN_INDUSTRY
+Enarsa,business,IS_A
+Enarsa,enterprise,IS_A
+Enarsa,petroleum industry,IN_INDUSTRY
+Enarsa,public company,IS_A
+Distrigas,business,IS_A
+Distrigas,petroleum industry,IN_INDUSTRY
+ENOC,business,IS_A
+ENOC,petroleum industry,IN_INDUSTRY
+ENOC,Investment Corporation of Dubai,OWNED_BY
+Engen Petroleum,business,IS_A
+Engen Petroleum,enterprise,IS_A
+Engen Petroleum,petroleum industry,IN_INDUSTRY
+Engen Petroleum,private limited liability company,IS_A
+Tunisian National Oil Company,business,IS_A
+Tunisian National Oil Company,petroleum industry,IN_INDUSTRY
+Mobil,business,IS_A
+Mobil,enterprise,IS_A
+Mobil,petroleum industry,IN_INDUSTRY
+Mobil,public company,IS_A
+Mobil,ExxonMobil,OWNED_BY
+GEPetrol,business,IS_A
+GEPetrol,petroleum industry,IN_INDUSTRY
+Gas Light and Coke Company,business,IS_A
+Gas Light and Coke Company,petroleum industry,IN_INDUSTRY
+Getty Oil,business,IS_A
+Getty Oil,petroleum industry,IN_INDUSTRY
+Getty Oil,Skelly Oil,WAS_PREVIOUSLY
+Ghana National Petroleum Corporation,business,IS_A
+Ghana National Petroleum Corporation,petroleum industry,IN_INDUSTRY
+Ghana National Petroleum Corporation,Government of Ghana,OWNED_BY
+Kuwait Oil Company,business,IS_A
+Kuwait Oil Company,petroleum industry,IN_INDUSTRY
+Yuganskneftegaz,business,IS_A
+Yuganskneftegaz,enterprise,IS_A
+Yuganskneftegaz,petroleum industry,IN_INDUSTRY
+Yuganskneftegaz,public company,IS_A
+PT Lapindo Brantas,business,IS_A
+PT Lapindo Brantas,petroleum industry,IN_INDUSTRY
+Shell Oil Company,business,IS_A
+Shell Oil Company,petroleum industry,IN_INDUSTRY
+Shell Oil Company,Royal Dutch Shell,OWNED_BY
+Maurel & Prom,business,IS_A
+Maurel & Prom,petroleum industry,IN_INDUSTRY
+Enrique Mosconi,human,IS_A
+Enrique Mosconi,petroleum industry,IN_INDUSTRY
+Maxol,business,IS_A
+Maxol,petroleum industry,IN_INDUSTRY
+Mexichem,business,IS_A
+Mexichem,petroleum industry,IN_INDUSTRY
+Pemexgate,petroleum industry,IN_INDUSTRY
+Petrobras Argentina,business,IS_A
+Petrobras Argentina,petroleum industry,IN_INDUSTRY
+Petrobras Argentina,New York Stock Exchange,TRADES_ON
+Petrohawk,business,IS_A
+Petrohawk,petroleum industry,IN_INDUSTRY
+Petrotrin,business,IS_A
+Petrotrin,petroleum industry,IN_INDUSTRY
+Jamnagar Refinery,oil refining,IS_A
+Jamnagar Refinery,petroleum industry,IN_INDUSTRY
+RasGas,oil company,IS_A
+RasGas,business,IS_A
+RasGas,petroleum industry,IN_INDUSTRY
+RAK Petroleum,business,IS_A
+RAK Petroleum,petroleum industry,IN_INDUSTRY
+Sibir Energy,business,IS_A
+Sibir Energy,enterprise,IS_A
+Sibir Energy,petroleum industry,IN_INDUSTRY
+Sibir Energy,public company,IS_A
+Singapore Petroleum Company,business,IS_A
+Singapore Petroleum Company,petroleum industry,IN_INDUSTRY
+Société Nationale des Hydrocarbures,business,IS_A
+Société Nationale des Hydrocarbures,petroleum industry,IN_INDUSTRY
+Société Nationale des Pétroles du Congo,business,IS_A
+Société Nationale des Pétroles du Congo,petroleum industry,IN_INDUSTRY
+Société Nationale Petrolière Gabonaise,business,IS_A
+Société Nationale Petrolière Gabonaise,petroleum industry,IN_INDUSTRY
+SOCO International,business,IS_A
+SOCO International,petroleum industry,IN_INDUSTRY
+SOCO International,London Stock Exchange,TRADES_ON
+Sonelgaz,business,IS_A
+Sonelgaz,petroleum industry,IN_INDUSTRY
+Türkmengaz,business,IS_A
+Türkmengaz,petroleum industry,IN_INDUSTRY
+Türkmengaz,concern,IS_A
+Tüpraş,business,IS_A
+Tüpraş,petroleum industry,IN_INDUSTRY
+Tüpraş,Borsa Istanbul,TRADES_ON
+Tüpraş,Koç Holding,OWNED_BY
+Waha Oil Company,business,IS_A
+Waha Oil Company,petroleum industry,IN_INDUSTRY
+Azienda Nazionale Idrogenazione Combustibili,business,IS_A
+Azienda Nazionale Idrogenazione Combustibili,petroleum industry,IN_INDUSTRY
+Azienda Nazionale Idrogenazione Combustibili,Eni,OWNED_BY
+Azienda Italiana Petroli Albanesi,business,IS_A
+Azienda Italiana Petroli Albanesi,petroleum industry,IN_INDUSTRY
+Hera Group,business,IS_A
+Hera Group,enterprise,IS_A
+Hera Group,petroleum industry,IN_INDUSTRY
+Hera Group,joint-stock company,IS_A
+Saudi International Petrochemical Company,business,IS_A
+Saudi International Petrochemical Company,petroleum industry,IN_INDUSTRY
+M. W. Kellogg Limited,business,IS_A
+M. W. Kellogg Limited,petroleum industry,IN_INDUSTRY
+M. W. Kellogg Limited,Halliburton,OWNED_BY
+Azpetrol,business,IS_A
+Azpetrol,petroleum industry,IN_INDUSTRY
+Bridas Corporation,business,IS_A
+Bridas Corporation,petroleum industry,IN_INDUSTRY
+Bridas Corporation,privately held company,IS_A
+Cabot Oil & Gas,business,IS_A
+Cabot Oil & Gas,enterprise,IS_A
+Cabot Oil & Gas,petroleum industry,IN_INDUSTRY
+Cabot Oil & Gas,public company,IS_A
+Cabot Oil & Gas,New York Stock Exchange,TRADES_ON
+Crescent Petroleum,business,IS_A
+Crescent Petroleum,petroleum industry,IN_INDUSTRY
+Dragon Oil,business,IS_A
+Dragon Oil,enterprise,IS_A
+Dragon Oil,petroleum industry,IN_INDUSTRY
+Dragon Oil,public company,IS_A
+Mitsui Oil Exploration,business,IS_A
+Mitsui Oil Exploration,petroleum industry,IN_INDUSTRY
+Mitsui Oil Exploration,Mitsui & Co.,OWNED_BY
+Petkim,business,IS_A
+Petkim,enterprise,IS_A
+Petkim,petroleum industry,IN_INDUSTRY
+Petkim,public company,IS_A
+Petkim,SOCAR,OWNED_BY
+Range Resources,business,IS_A
+Range Resources,enterprise,IS_A
+Range Resources,petroleum industry,IN_INDUSTRY
+Range Resources,public company,IS_A
+Range Resources,New York Stock Exchange,TRADES_ON
+Kuwait National Petroleum Company,business,IS_A
+Kuwait National Petroleum Company,petroleum industry,IN_INDUSTRY
+Kuwait Petroleum International,business,IS_A
+Kuwait Petroleum International,petroleum industry,IN_INDUSTRY
+Gazprom Promgaz,business,IS_A
+Gazprom Promgaz,enterprise,IS_A
+Gazprom Promgaz,petroleum industry,IN_INDUSTRY
+Gazprom Promgaz,joint-stock company,IS_A
+Salavatnefteorgsintez,business,IS_A
+Salavatnefteorgsintez,enterprise,IS_A
+Salavatnefteorgsintez,petroleum industry,IN_INDUSTRY
+Salavatnefteorgsintez,public company,IS_A
+Gazfond,business,IS_A
+Gazfond,petroleum industry,IN_INDUSTRY
+United Energy Systems of Ukraine,business,IS_A
+United Energy Systems of Ukraine,petroleum industry,IN_INDUSTRY
+Zarubezhneft,business,IS_A
+Zarubezhneft,enterprise,IS_A
+Zarubezhneft,petroleum industry,IN_INDUSTRY
+Zarubezhneft,joint-stock company,IS_A
+Uzbekistan GTL,petroleum industry,IN_INDUSTRY
+Nizhnekamskneftekhim,business,IS_A
+Nizhnekamskneftekhim,enterprise,IS_A
+Nizhnekamskneftekhim,petroleum industry,IN_INDUSTRY
+Nizhnekamskneftekhim,public company,IS_A
+Nizhnekamskneftekhim,Moscow Exchange,TRADES_ON
+Northgas,business,IS_A
+Northgas,petroleum industry,IN_INDUSTRY
+Northgas,closed joint-stock company,IS_A
+Northgas,Gazprom,OWNED_BY
+The Petersburg Fuel Company,business,IS_A
+The Petersburg Fuel Company,petroleum industry,IN_INDUSTRY
+Sinochem Group,business,IS_A
+Sinochem Group,petroleum industry,IN_INDUSTRY
+Salym Petroleum Development,business,IS_A
+Salym Petroleum Development,petroleum industry,IN_INDUSTRY
+Salym Petroleum Development,joint venture,IS_A
+Sakhalin Energy,business,IS_A
+Sakhalin Energy,petroleum industry,IN_INDUSTRY
+Sakhalin Energy,Gazprom,OWNED_BY
+Sakhalin Energy,Royal Dutch Shell,OWNED_BY
+Sakhalin Energy,Mitsui Group,OWNED_BY
+Sakhalin Energy,Mitsubishi,OWNED_BY
+Zavod Slantsy,business,IS_A
+Zavod Slantsy,enterprise,IS_A
+Zavod Slantsy,petroleum industry,IN_INDUSTRY
+Zavod Slantsy,open joint-stock company,IS_A
+TyumenNIIgiprogas,business,IS_A
+TyumenNIIgiprogas,enterprise,IS_A
+TyumenNIIgiprogas,petroleum industry,IN_INDUSTRY
+TyumenNIIgiprogas,private limited liability company,IS_A
+TyumenNIIgiprogas,Gazprom,OWNED_BY
+UkrGasVydobuvannya,business,IS_A
+UkrGasVydobuvannya,public company,IS_A
+UkrGasVydobuvannya,enterprise,IS_A
+UkrGasVydobuvannya,petroleum industry,IN_INDUSTRY
+UkrGasVydobuvannya,gas industry,IN_INDUSTRY
+UkrGasVydobuvannya,open joint-stock company,IS_A
+UkrTransNafta,petroleum industry,IN_INDUSTRY
+Aker Drilling,business,IS_A
+Aker Drilling,petroleum industry,IN_INDUSTRY
+YX Energi,business,IS_A
+YX Energi,petroleum industry,IN_INDUSTRY
+YX Energi,Reitan Group,OWNED_BY
+A.T. Williams Oil Co.,petroleum industry,IN_INDUSTRY
+ALDREES Petroleum and Transport Services Company,business,IS_A
+ALDREES Petroleum and Transport Services Company,petroleum industry,IN_INDUSTRY
+AOC Holdings,business,IS_A
+AOC Holdings,petroleum industry,IN_INDUSTRY
+ARVA Energetika,business,IS_A
+ARVA Energetika,petroleum industry,IN_INDUSTRY
+ATP Oil and Gas,business,IS_A
+ATP Oil and Gas,petroleum industry,IN_INDUSTRY
+ATP Oil and Gas,NASDAQ,TRADES_ON
+Aban Offshore,business,IS_A
+Aban Offshore,petroleum industry,IN_INDUSTRY
+Abbot Group,business,IS_A
+Abbot Group,petroleum industry,IN_INDUSTRY
+Abu Dhabi Company for Onshore Oil Operations,business,IS_A
+Abu Dhabi Company for Onshore Oil Operations,petroleum industry,IN_INDUSTRY
+Abu Dhabi Gas Industries Limited,business,IS_A
+Abu Dhabi Gas Industries Limited,petroleum industry,IN_INDUSTRY
+Addax Petroleum,business,IS_A
+Addax Petroleum,petroleum industry,IN_INDUSTRY
+Advantage Oil & Gas,business,IS_A
+Advantage Oil & Gas,petroleum industry,IN_INDUSTRY
+Advantage Oil & Gas,New York Stock Exchange,TRADES_ON
+Advantage Oil & Gas,Toronto Stock Exchange,TRADES_ON
+Aegean Marine Petroleum Network Inc.,business,IS_A
+Aegean Marine Petroleum Network Inc.,petroleum industry,IN_INDUSTRY
+Aegean Marine Petroleum Network Inc.,New York Stock Exchange,TRADES_ON
+American Shipping Company,business,IS_A
+American Shipping Company,petroleum industry,IN_INDUSTRY
+American Shipping Company,Oslo Stock Exchange,TRADES_ON
+Aker Holding,business,IS_A
+Aker Holding,petroleum industry,IN_INDUSTRY
+Norse Energy,business,IS_A
+Norse Energy,petroleum industry,IN_INDUSTRY
+Aloha Petroleum,business,IS_A
+Aloha Petroleum,petroleum industry,IN_INDUSTRY
+Americas Petrogas,business,IS_A
+Americas Petrogas,petroleum industry,IN_INDUSTRY
+Argos North Sea Group,corporation,IS_A
+Argos North Sea Group,petroleum industry,IN_INDUSTRY
+Argos North Sea Group,corporation,IS_A
+Anders Eldrup,human,IS_A
+Anders Eldrup,petroleum industry,IN_INDUSTRY
+Angola LNG,business,IS_A
+Angola LNG,petroleum industry,IN_INDUSTRY
+Exxon,business,IS_A
+Exxon,petroleum industry,IN_INDUSTRY
+Exxon,Tokyo Stock Exchange,TRADES_ON
+Exxon,ExxonMobil,OWNED_BY
+Aramco Training Services Company,company,IS_A
+Aramco Training Services Company,petroleum industry,IN_INDUSTRY
+Aramco Training Services Company,company,IS_A
+Ascom Group,business,IS_A
+Ascom Group,petroleum industry,IN_INDUSTRY
+Asiatic Petroleum Company,petroleum industry,IN_INDUSTRY
+Associated Oil Company,business,IS_A
+Associated Oil Company,petroleum industry,IN_INDUSTRY
+Astral Oil Works,company,IS_A
+Astral Oil Works,petroleum industry,IN_INDUSTRY
+Astral Oil Works,company,IS_A
+Athabasca Oil Corporation,business,IS_A
+Athabasca Oil Corporation,petroleum industry,IN_INDUSTRY
+Athabasca Oil Corporation,Toronto Stock Exchange,TRADES_ON
+Atlantic LNG,energy company,IS_A
+Atlantic LNG,producer,IS_A
+Atlantic LNG,petroleum industry,IN_INDUSTRY
+Atlantic Petroleum,petroleum industry,IN_INDUSTRY
+Attock Petroleum,business,IS_A
+Attock Petroleum,petroleum industry,IN_INDUSTRY
+Attock Refinery,business,IS_A
+Attock Refinery,petroleum industry,IN_INDUSTRY
+Auckland Gas Company,petroleum industry,IN_INDUSTRY
+BJ Services Company,business,IS_A
+BJ Services Company,petroleum industry,IN_INDUSTRY
+BNK Petroleum,business,IS_A
+BNK Petroleum,petroleum industry,IN_INDUSTRY
+BNK Petroleum,Toronto Stock Exchange,TRADES_ON
+BP Canada,business,IS_A
+BP Canada,petroleum industry,IN_INDUSTRY
+Bangladesh Petroleum Corporation,business,IS_A
+Bangladesh Petroleum Corporation,petroleum industry,IN_INDUSTRY
+Bankers Petroleum,business,IS_A
+Bankers Petroleum,petroleum industry,IN_INDUSTRY
+Bankers Petroleum,Toronto Stock Exchange,TRADES_ON
+Barauni Refinery,petroleum industry,IN_INDUSTRY
+Barbados National Oil Company Limited,business,IS_A
+Barbados National Oil Company Limited,petroleum industry,IN_INDUSTRY
+Baytex Energy,business,IS_A
+Baytex Energy,petroleum industry,IN_INDUSTRY
+Baytex Energy,New York Stock Exchange,TRADES_ON
+Baytex Energy,Toronto Stock Exchange,TRADES_ON
+Beach Energy,business,IS_A
+Beach Energy,petroleum industry,IN_INDUSTRY
+Behran Oil Company,business,IS_A
+Behran Oil Company,petroleum industry,IN_INDUSTRY
+Behran Oil Company,Tehran Stock Exchange,TRADES_ON
+Bharat Oman Refinery Limited,business,IS_A
+Bharat Oman Refinery Limited,petroleum industry,IN_INDUSTRY
+Bill Barrett Corporation,business,IS_A
+Bill Barrett Corporation,petroleum industry,IN_INDUSTRY
+Bill Barrett Corporation,New York Stock Exchange,TRADES_ON
+Billings Refinery,petroleum industry,IN_INDUSTRY
+Bitumount,petroleum industry,IN_INDUSTRY
+Bongaigaon Refinery and Petrochemicals Limited,business,IS_A
+Bongaigaon Refinery and Petrochemicals Limited,petroleum industry,IN_INDUSTRY
+'Bonnett''s Energy',business,IS_A
+'Bonnett''s Energy',petroleum industry,IN_INDUSTRY
+'Bonnett''s Energy',Toronto Stock Exchange,TRADES_ON
+Borouge,business,IS_A
+Borouge,petroleum industry,IN_INDUSTRY
+Borouge,ADNOC,OWNED_BY
+Bosphorus Gaz Corporation,business,IS_A
+Bosphorus Gaz Corporation,petroleum industry,IN_INDUSTRY
+Braspetro,business,IS_A
+Braspetro,petroleum industry,IN_INDUSTRY
+British Pipeline Agency,petroleum industry,IN_INDUSTRY
+Britoil,business,IS_A
+Britoil,petroleum industry,IN_INDUSTRY
+Statoil Fuel & Retail,business,IS_A
+Statoil Fuel & Retail,petroleum industry,IN_INDUSTRY
+Statoil Fuel & Retail,Alimentation Couche-Tard,OWNED_BY
+Bulgargaz,business,IS_A
+Bulgargaz,petroleum industry,IN_INDUSTRY
+Bulgartransgaz,business,IS_A
+Bulgartransgaz,petroleum industry,IN_INDUSTRY
+Bunker Oil,business,IS_A
+Bunker Oil,petroleum industry,IN_INDUSTRY
+Burford v. Sun Oil Co.,legal case,IS_A
+Burford v. Sun Oil Co.,petroleum industry,IN_INDUSTRY
+Burlington Resources,business,IS_A
+Burlington Resources,petroleum industry,IN_INDUSTRY
+Burren Energy,petroleum industry,IN_INDUSTRY
+Cairn India,business,IS_A
+Cairn India,petroleum industry,IN_INDUSTRY
+Calor Gas,business,IS_A
+Calor Gas,petroleum industry,IN_INDUSTRY
+Caribbean Petroleum Corporation,business,IS_A
+Caribbean Petroleum Corporation,petroleum industry,IN_INDUSTRY
+Caspian International Petroleum Company,business,IS_A
+Caspian International Petroleum Company,petroleum industry,IN_INDUSTRY
+Castrol India,business,IS_A
+Castrol India,petroleum industry,IN_INDUSTRY
+Castrol India,BP,OWNED_BY
+Central Energy Italian Gas Holding,petroleum industry,IN_INDUSTRY
+Ceylon Petroleum Corporation,business,IS_A
+Ceylon Petroleum Corporation,petroleum industry,IN_INDUSTRY
+Challenger LTD,business,IS_A
+Challenger LTD,petroleum industry,IN_INDUSTRY
+Charles Pratt and Company,petroleum industry,IN_INDUSTRY
+Chennai Petroleum Corporation,government-owned corporation,IS_A
+Chennai Petroleum Corporation,petroleum industry,IN_INDUSTRY
+Chesebrough Manufacturing Company,petroleum industry,IN_INDUSTRY
+Chevron Phillips Chemical,business,IS_A
+Chevron Phillips Chemical,enterprise,IS_A
+Chevron Phillips Chemical,petroleum industry,IN_INDUSTRY
+Chevron Phillips Chemical,limited liability company,IS_A
+Chevron Phillips Chemical,Chevron Corporation,OWNED_BY
+Chevron Phillips Chemical,Phillips 66,OWNED_BY
+China BlueChemical,business,IS_A
+China BlueChemical,petroleum industry,IN_INDUSTRY
+China BlueChemical,Hong Kong Stock Exchange,TRADES_ON
+China BlueChemical,CNOOC Limited,OWNED_BY
+China Clean Energy,business,IS_A
+China Clean Energy,petroleum industry,IN_INDUSTRY
+China Oilfield Services,business,IS_A
+China Oilfield Services,petroleum industry,IN_INDUSTRY
+China Oilfield Services,Shanghai Stock Exchange,TRADES_ON
+China Oilfield Services,Hong Kong Stock Exchange,TRADES_ON
+China Resources Petroleum Company Limited,business,IS_A
+China Resources Petroleum Company Limited,petroleum industry,IN_INDUSTRY
+China United Coalbed Methane,government-owned corporation,IS_A
+China United Coalbed Methane,petroleum industry,IN_INDUSTRY
+Coastal Corporation,business,IS_A
+Coastal Corporation,petroleum industry,IN_INDUSTRY
+Coffeyville Resources,petroleum industry,IN_INDUSTRY
+Colony Shale Oil Project,petroleum industry,IN_INDUSTRY
+Commonwealth Oil Refineries,subsidiary company,IS_A
+Commonwealth Oil Refineries,petroleum industry,IN_INDUSTRY
+'Commonwealth Oil Refining Company, Inc.',petroleum industry,IN_INDUSTRY
+Compañía Logística de Hidrocarburos,business,IS_A
+Compañía Logística de Hidrocarburos,petroleum industry,IN_INDUSTRY

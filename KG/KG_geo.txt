@@ -1,0 +1,3700 @@
+subject,object,predicate
+East Seaham,locality,IS_A
+East Seaham,suburb,IS_A
+East Seaham,Australia,IS_LOCATED_IN
+East Seaham,324,HAS_POPULATION
+East Seaham,2324,HAS_POSTCODE
+East Seaham,lat:-32.64,HAS_COORDINATES
+East Seaham,lon:151.748,HAS_COORDINATES
+East Tamworth,locality,IS_A
+East Tamworth,suburb,IS_A
+East Tamworth,Australia,IS_LOCATED_IN
+East Tamworth,5342,HAS_POPULATION
+East Tamworth,2340,HAS_POSTCODE
+East Tamworth,lat:-31.0897,HAS_COORDINATES
+East Tamworth,lon:150.944,HAS_COORDINATES
+East Wagga Wagga,suburb,IS_A
+East Wagga Wagga,Australia,IS_LOCATED_IN
+East Wagga Wagga,237,HAS_POPULATION
+East Wagga Wagga,2650,HAS_POSTCODE
+East Wagga Wagga,lat:-35.1212,HAS_COORDINATES
+East Wagga Wagga,lon:147.385,HAS_COORDINATES
+Eastgardens,suburb,IS_A
+Eastgardens,Australia,IS_LOCATED_IN
+Eastgardens,860,HAS_POPULATION
+Eastgardens,2036,HAS_POSTCODE
+Eastgardens,lat:-33.946,HAS_COORDINATES
+Eastgardens,lon:151.225,HAS_COORDINATES
+Eastlakes,suburb,IS_A
+Eastlakes,Australia,IS_LOCATED_IN
+Eastlakes,6912,HAS_POPULATION
+Eastlakes,2018,HAS_POSTCODE
+Eastlakes,lat:-33.925,HAS_COORDINATES
+Eastlakes,lon:151.213,HAS_COORDINATES
+Edensor Park,suburb,IS_A
+Edensor Park,Australia,IS_LOCATED_IN
+Edensor Park,9772,HAS_POPULATION
+Edensor Park,2176,HAS_POSTCODE
+Edensor Park,lat:-33.88095,HAS_COORDINATES
+Edensor Park,lon:150.87516,HAS_COORDINATES
+Edgeworth,suburb,IS_A
+Edgeworth,Australia,IS_LOCATED_IN
+Edgeworth,6207,HAS_POPULATION
+Edgeworth,2285,HAS_POSTCODE
+Edgeworth,lat:-32.915,HAS_COORDINATES
+Edgeworth,lon:151.618,HAS_COORDINATES
+Elanora Heights,suburb,IS_A
+Elanora Heights,Australia,IS_LOCATED_IN
+Elanora Heights,4357,HAS_POPULATION
+Elanora Heights,2101,HAS_POSTCODE
+Elanora Heights,lat:-33.701,HAS_COORDINATES
+Elanora Heights,lon:151.279,HAS_COORDINATES
+Elderslie,suburb,IS_A
+Elderslie,Australia,IS_LOCATED_IN
+Elderslie,6005,HAS_POPULATION
+Elderslie,2570,HAS_POSTCODE
+Elderslie,lat:-34.0546,HAS_COORDINATES
+Elderslie,lon:150.712,HAS_COORDINATES
+Eleebana,suburb,IS_A
+Eleebana,Australia,IS_LOCATED_IN
+Eleebana,5760,HAS_POPULATION
+Eleebana,2282,HAS_POSTCODE
+Eleebana,lat:-32.996,HAS_COORDINATES
+Eleebana,lon:151.635,HAS_COORDINATES
+Elermore Vale,locality,IS_A
+Elermore Vale,suburb,IS_A
+Elermore Vale,Australia,IS_LOCATED_IN
+Elermore Vale,5526,HAS_POPULATION
+Elermore Vale,2287,HAS_POSTCODE
+Elermore Vale,lat:-32.915,HAS_COORDINATES
+Elermore Vale,lon:151.668,HAS_COORDINATES
+Ellis Lane,suburb,IS_A
+Ellis Lane,Australia,IS_LOCATED_IN
+Ellis Lane,857,HAS_POPULATION
+Ellis Lane,2570,HAS_POSTCODE
+Ellis Lane,lat:-34.034,HAS_COORDINATES
+Ellis Lane,lon:150.675,HAS_COORDINATES
+Elvina Bay,suburb,IS_A
+Elvina Bay,Australia,IS_LOCATED_IN
+Elvina Bay,86,HAS_POPULATION
+Elvina Bay,2105,HAS_POSTCODE
+Elvina Bay,lat:-33.6395,HAS_COORDINATES
+Elvina Bay,lon:151.278,HAS_COORDINATES
+Emerton,suburb,IS_A
+Emerton,Australia,IS_LOCATED_IN
+Emerton,2252,HAS_POPULATION
+Emerton,2770,HAS_POSTCODE
+Emerton,lat:-33.75,HAS_COORDINATES
+Emerton,lon:150.803,HAS_COORDINATES
+Empire Bay,suburb,IS_A
+Empire Bay,Australia,IS_LOCATED_IN
+Empire Bay,2400,HAS_POPULATION
+Empire Bay,2257,HAS_POSTCODE
+Empire Bay,lat:-33.49,HAS_COORDINATES
+Empire Bay,lon:151.36,HAS_COORDINATES
+Enfield,suburb,IS_A
+Enfield,Australia,IS_LOCATED_IN
+Enfield,2833,HAS_POPULATION
+Enfield,2136,HAS_POSTCODE
+Enfield,lat:-33.890588888889,HAS_COORDINATES
+Enfield,lon:151.09246111111,HAS_COORDINATES
+Engadine,suburb,IS_A
+Engadine,Australia,IS_LOCATED_IN
+Engadine,16867,HAS_POPULATION
+Engadine,17375,HAS_POPULATION
+Engadine,2233,HAS_POSTCODE
+Engadine,lat:-34.0657,HAS_COORDINATES
+Engadine,lon:151.013,HAS_COORDINATES
+Englorie Park,suburb,IS_A
+Englorie Park,Australia,IS_LOCATED_IN
+Englorie Park,416,HAS_POPULATION
+Englorie Park,2560,HAS_POSTCODE
+Englorie Park,lat:-34.082,HAS_COORDINATES
+Englorie Park,lon:150.794,HAS_COORDINATES
+Eraring,suburb,IS_A
+Eraring,Australia,IS_LOCATED_IN
+Eraring,216,HAS_POPULATION
+Eraring,2264,HAS_POSTCODE
+Eraring,lat:-33.065,HAS_COORDINATES
+Eraring,lon:151.518,HAS_COORDINATES
+Erina,suburb,IS_A
+Erina,Australia,IS_LOCATED_IN
+Erina,4774,HAS_POPULATION
+Erina,2250,HAS_POSTCODE
+Erina,lat:-33.44,HAS_COORDINATES
+Erina,lon:151.393,HAS_COORDINATES
+Erina Heights,suburb,IS_A
+Erina Heights,Australia,IS_LOCATED_IN
+Erina Heights,421,HAS_POPULATION
+Erina Heights,2260,HAS_POSTCODE
+Erina Heights,lat:-33.432,HAS_COORDINATES
+Erina Heights,lon:151.418,HAS_COORDINATES
+Ermington,suburb,IS_A
+Ermington,Australia,IS_LOCATED_IN
+Ermington,10737,HAS_POPULATION
+Ermington,2115,HAS_POSTCODE
+Ermington,lat:-33.8115,HAS_COORDINATES
+Ermington,lon:151.062,HAS_COORDINATES
+Erskine Park,suburb,IS_A
+Erskine Park,Australia,IS_LOCATED_IN
+Erskine Park,6436,HAS_POPULATION
+Erskine Park,2759,HAS_POSTCODE
+Erskine Park,lat:-33.8132,HAS_COORDINATES
+Erskine Park,lon:150.801,HAS_COORDINATES
+Eschol Park,suburb,IS_A
+Eschol Park,Australia,IS_LOCATED_IN
+Eschol Park,2582,HAS_POPULATION
+Eschol Park,2558,HAS_POSTCODE
+Eschol Park,lat:-34.0304,HAS_COORDINATES
+Eschol Park,lon:150.809,HAS_COORDINATES
+Estella,suburb,IS_A
+Estella,Australia,IS_LOCATED_IN
+Estella,2269,HAS_POPULATION
+Estella,2650,HAS_POSTCODE
+Estella,lat:-35.0681,HAS_COORDINATES
+Estella,lon:147.354,HAS_COORDINATES
+Ettalong Beach,suburb,IS_A
+Ettalong Beach,Australia,IS_LOCATED_IN
+Ettalong Beach,4793,HAS_POPULATION
+Ettalong Beach,2257,HAS_POSTCODE
+Ettalong Beach,lat:-33.515,HAS_COORDINATES
+Ettalong Beach,lon:151.335,HAS_COORDINATES
+Eveleigh,suburb,IS_A
+Eveleigh,Australia,IS_LOCATED_IN
+Eveleigh,663,HAS_POPULATION
+Eveleigh,2015,HAS_POSTCODE
+Eveleigh,lat:-33.895,HAS_COORDINATES
+Eveleigh,lon:151.191,HAS_COORDINATES
+Failford,suburb,IS_A
+Failford,Australia,IS_LOCATED_IN
+Failford,516,HAS_POPULATION
+Failford,2430,HAS_POSTCODE
+Failford,lat:-32.0847,HAS_COORDINATES
+Failford,lon:152.444,HAS_COORDINATES
+Fairfield,suburb,IS_A
+Fairfield,Australia,IS_LOCATED_IN
+Fairfield,18081,HAS_POPULATION
+Fairfield,2165,HAS_POSTCODE
+Fairfield,lat:-33.8703,HAS_COORDINATES
+Fairfield,lon:150.956,HAS_COORDINATES
+Fairfield East,suburb,IS_A
+Fairfield East,Australia,IS_LOCATED_IN
+Fairfield East,5273,HAS_POPULATION
+Fairfield East,2165,HAS_POSTCODE
+Fairfield East,lat:-33.8718,HAS_COORDINATES
+Fairfield East,lon:150.973,HAS_COORDINATES
+Fairfield Heights,suburb,IS_A
+Fairfield Heights,Australia,IS_LOCATED_IN
+Fairfield Heights,7517,HAS_POPULATION
+Fairfield Heights,2165,HAS_POSTCODE
+Fairfield Heights,lat:-33.8685,HAS_COORDINATES
+Fairfield Heights,lon:150.942,HAS_COORDINATES
+Fairfield Heights,lat:-33.86445,HAS_COORDINATES
+Fairfield Heights,lon:150.93884,HAS_COORDINATES
+Fairfield West,suburb,IS_A
+Fairfield West,Australia,IS_LOCATED_IN
+Fairfield West,11575,HAS_POPULATION
+Fairfield West,2165,HAS_POSTCODE
+Fairfield West,lat:-33.8711,HAS_COORDINATES
+Fairfield West,lon:150.923,HAS_COORDINATES
+Fairy Meadow,suburb,IS_A
+Fairy Meadow,Australia,IS_LOCATED_IN
+Fairy Meadow,7405,HAS_POPULATION
+Fairy Meadow,2519,HAS_POSTCODE
+Fairy Meadow,lat:-34.4006,HAS_COORDINATES
+Fairy Meadow,lon:150.892,HAS_COORDINATES
+Farmborough Heights,suburb,IS_A
+Farmborough Heights,Australia,IS_LOCATED_IN
+Farmborough Heights,4198,HAS_POPULATION
+Farmborough Heights,2526,HAS_POSTCODE
+Farmborough Heights,lat:-34.4556,HAS_COORDINATES
+Farmborough Heights,lon:150.819,HAS_COORDINATES
+Fassifern,suburb,IS_A
+Fassifern,Australia,IS_LOCATED_IN
+Fassifern,601,HAS_POPULATION
+Fassifern,2283,HAS_POSTCODE
+Fassifern,lat:-32.987,HAS_COORDINATES
+Fassifern,lon:151.585,HAS_COORDINATES
+Fennell Bay,suburb,IS_A
+Fennell Bay,Australia,IS_LOCATED_IN
+Fennell Bay,1613,HAS_POPULATION
+Fennell Bay,2283,HAS_POSTCODE
+Fennell Bay,lat:-32.994,HAS_COORDINATES
+Fennell Bay,lon:151.598,HAS_COORDINATES
+Fennell Bay,lat:-32.9922,HAS_COORDINATES
+Fennell Bay,lon:151.60008,HAS_COORDINATES
+Fern Bay,suburb,IS_A
+Fern Bay,Australia,IS_LOCATED_IN
+Fern Bay,2763,HAS_POPULATION
+Fern Bay,2295,HAS_POSTCODE
+Fern Bay,lat:-32.8739,HAS_COORDINATES
+Fern Bay,lon:151.795,HAS_COORDINATES
+Fiddletown,suburb,IS_A
+Fiddletown,Australia,IS_LOCATED_IN
+Fiddletown,233,HAS_POPULATION
+Fiddletown,2159,HAS_POSTCODE
+Fiddletown,lat:-33.6026,HAS_COORDINATES
+Fiddletown,lon:151.05,HAS_COORDINATES
+Figtree,suburb,IS_A
+Figtree,Australia,IS_LOCATED_IN
+Figtree,11564,HAS_POPULATION
+Figtree,2525,HAS_POSTCODE
+Figtree,lat:-34.4333,HAS_COORDINATES
+Figtree,lon:150.85,HAS_COORDINATES
+Fingal Bay,suburb,IS_A
+Fingal Bay,Australia,IS_LOCATED_IN
+Fingal Bay,1614,HAS_POPULATION
+Fingal Bay,2315,HAS_POSTCODE
+Fingal Bay,lat:-32.75,HAS_COORDINATES
+Fingal Bay,lon:152.167,HAS_COORDINATES
+Fingal Head,suburb,IS_A
+Fingal Head,Australia,IS_LOCATED_IN
+Fingal Head,544,HAS_POPULATION
+Fingal Head,592,HAS_POPULATION
+Fingal Head,2487,HAS_POSTCODE
+Fingal Head,lat:-28.2,HAS_COORDINATES
+Fingal Head,lon:153.567,HAS_COORDINATES
+Fishermans Bay,suburb,IS_A
+Fishermans Bay,Australia,IS_LOCATED_IN
+Fishermans Bay,63,HAS_POPULATION
+Fishermans Bay,2316,HAS_POSTCODE
+Fishermans Bay,lat:-32.7878,HAS_COORDINATES
+Fishermans Bay,lon:152.09,HAS_COORDINATES
+Fishing Point,suburb,IS_A
+Fishing Point,Australia,IS_LOCATED_IN
+Fishing Point,1039,HAS_POPULATION
+Fishing Point,2283,HAS_POSTCODE
+Fishing Point,lat:-33.057,HAS_COORDINATES
+Fishing Point,lon:151.596,HAS_COORDINATES
+Fletcher,suburb,IS_A
+Fletcher,Australia,IS_LOCATED_IN
+Fletcher,5136,HAS_POPULATION
+Fletcher,2287,HAS_POSTCODE
+Fletcher,lat:-32.865,HAS_COORDINATES
+Fletcher,lon:151.635,HAS_COORDINATES
+Forest Glen,suburb,IS_A
+Forest Glen,Australia,IS_LOCATED_IN
+Forest Glen,65,HAS_POPULATION
+Forest Glen,2157,HAS_POSTCODE
+Forest Glen,lat:-33.5505,HAS_COORDINATES
+Forest Glen,lon:151.02,HAS_COORDINATES
+Forest Hill,suburb,IS_A
+Forest Hill,Australia,IS_LOCATED_IN
+Forest Hill,2274,HAS_POPULATION
+Forest Hill,2651,HAS_POSTCODE
+Forest Hill,lat:-35.15,HAS_COORDINATES
+Forest Hill,lon:147.46666666667,HAS_COORDINATES
+Forestville,suburb,IS_A
+Forestville,Australia,IS_LOCATED_IN
+Forestville,8329,HAS_POPULATION
+Forestville,2087,HAS_POSTCODE
+Forestville,lat:-33.7613,HAS_COORDINATES
+Forestville,lon:151.211,HAS_COORDINATES
+Forresters Beach,suburb,IS_A
+Forresters Beach,Australia,IS_LOCATED_IN
+Forresters Beach,2496,HAS_POPULATION
+Forresters Beach,2900,HAS_POPULATION
+Forresters Beach,2260,HAS_POSTCODE
+Forresters Beach,lat:-33.407,HAS_COORDINATES
+Forresters Beach,lon:151.476,HAS_COORDINATES
+Frenchs Forest,suburb,IS_A
+Frenchs Forest,Australia,IS_LOCATED_IN
+Frenchs Forest,13473,HAS_POPULATION
+Frenchs Forest,2086,HAS_POSTCODE
+Frenchs Forest,lat:-33.749,HAS_COORDINATES
+Frenchs Forest,lon:151.233,HAS_COORDINATES
+Freshwater,suburb,IS_A
+Freshwater,Australia,IS_LOCATED_IN
+Freshwater,8866,HAS_POPULATION
+Freshwater,2096,HAS_POSTCODE
+Freshwater,lat:-33.7749,HAS_COORDINATES
+Freshwater,lon:151.288,HAS_COORDINATES
+Fullerton Cove,suburb,IS_A
+Fullerton Cove,Australia,IS_LOCATED_IN
+Fullerton Cove,566,HAS_POPULATION
+Fullerton Cove,2318,HAS_POSTCODE
+Fullerton Cove,lat:-32.8433,HAS_COORDINATES
+Fullerton Cove,lon:151.826,HAS_COORDINATES
+Galston,suburb,IS_A
+Galston,Australia,IS_LOCATED_IN
+Galston,3139,HAS_POPULATION
+Galston,2159,HAS_POSTCODE
+Galston,lat:-33.65,HAS_COORDINATES
+Galston,lon:151.043,HAS_COORDINATES
+Garden Suburb,suburb,IS_A
+Garden Suburb,Australia,IS_LOCATED_IN
+Garden Suburb,1910,HAS_POPULATION
+Garden Suburb,2289,HAS_POSTCODE
+Garden Suburb,lat:-32.949,HAS_COORDINATES
+Garden Suburb,lon:151.651,HAS_COORDINATES
+Georges Hall,suburb,IS_A
+Georges Hall,Australia,IS_LOCATED_IN
+Georges Hall,9038,HAS_POPULATION
+Georges Hall,2198,HAS_POSTCODE
+Georges Hall,lat:-33.9122,HAS_COORDINATES
+Georges Hall,lon:150.986,HAS_COORDINATES
+Georgetown,suburb,IS_A
+Georgetown,Australia,IS_LOCATED_IN
+Georgetown,1960,HAS_POPULATION
+Georgetown,2298,HAS_POSTCODE
+Georgetown,lat:-32.898,HAS_COORDINATES
+Georgetown,lon:151.735,HAS_COORDINATES
+Heathcote,suburb,IS_A
+Heathcote,Australia,IS_LOCATED_IN
+Heathcote,6013,HAS_POPULATION
+Heathcote,2233,HAS_POSTCODE
+Heathcote,lat:-34.085061111111,HAS_COORDINATES
+Heathcote,lon:151.00808055556,HAS_COORDINATES
+Gilead,suburb,IS_A
+Gilead,Australia,IS_LOCATED_IN
+Gilead,417,HAS_POPULATION
+Gilead,2560,HAS_POSTCODE
+Gilead,lat:-34.1177,HAS_COORDINATES
+Gilead,lon:150.78,HAS_COORDINATES
+Gledswood Hills,suburb,IS_A
+Gledswood Hills,Australia,IS_LOCATED_IN
+Gledswood Hills,22,HAS_POPULATION
+Gledswood Hills,2557,HAS_POSTCODE
+Gledswood Hills,lat:-34.0117,HAS_COORDINATES
+Gledswood Hills,lon:150.78,HAS_COORDINATES
+Glen Alpine,suburb,IS_A
+Glen Alpine,Australia,IS_LOCATED_IN
+Glen Alpine,4559,HAS_POPULATION
+Glen Alpine,2560,HAS_POSTCODE
+Glen Alpine,lat:-34.09,HAS_COORDINATES
+Glen Alpine,lon:150.785,HAS_COORDINATES
+Glen Alpine,lat:-34.086,HAS_COORDINATES
+Glen Alpine,lon:150.78512,HAS_COORDINATES
+Myuna Bay,suburb,IS_A
+Myuna Bay,Australia,IS_LOCATED_IN
+Myuna Bay,11,HAS_POPULATION
+Myuna Bay,2264,HAS_POSTCODE
+Myuna Bay,lat:-33.062,HAS_COORDINATES
+Myuna Bay,lon:151.546,HAS_COORDINATES
+Nabiac,suburb,IS_A
+Nabiac,Australia,IS_LOCATED_IN
+Nabiac,1252,HAS_POPULATION
+Nabiac,2312,HAS_POSTCODE
+Nabiac,lat:-32.1,HAS_COORDINATES
+Nabiac,lon:152.383,HAS_COORDINATES
+Narara,suburb,IS_A
+Narara,Australia,IS_LOCATED_IN
+Narara,7934,HAS_POPULATION
+Narara,2250,HAS_POSTCODE
+Narara,lat:-33.398,HAS_COORDINATES
+Narara,lon:151.351,HAS_COORDINATES
+Narellan,suburb,IS_A
+Narellan,Australia,IS_LOCATED_IN
+Narellan,3616,HAS_POPULATION
+Narellan,2567,HAS_POSTCODE
+Narellan,lat:-34.0451,HAS_COORDINATES
+Narellan,lon:150.737,HAS_COORDINATES
+Narellan Vale,suburb,IS_A
+Narellan Vale,Australia,IS_LOCATED_IN
+Narellan Vale,7193,HAS_POPULATION
+Narellan Vale,2567,HAS_POSTCODE
+Narellan Vale,lat:-34.0504,HAS_COORDINATES
+Narellan Vale,lon:150.748,HAS_COORDINATES
+Naremburn,suburb,IS_A
+Naremburn,Australia,IS_LOCATED_IN
+Naremburn,5884,HAS_POPULATION
+Naremburn,2065,HAS_POSTCODE
+Naremburn,lat:-33.8192,HAS_COORDINATES
+Naremburn,lon:151.2,HAS_COORDINATES
+Nelsons Plains,suburb,IS_A
+Nelsons Plains,Australia,IS_LOCATED_IN
+Nelsons Plains,362,HAS_POPULATION
+Nelsons Plains,2324,HAS_POSTCODE
+Nelsons Plains,lat:-32.715,HAS_COORDINATES
+Nelsons Plains,lon:151.718,HAS_COORDINATES
+Neutral Bay,suburb,IS_A
+Neutral Bay,Australia,IS_LOCATED_IN
+Neutral Bay,10488,HAS_POPULATION
+Neutral Bay,2089,HAS_POSTCODE
+Neutral Bay,lat:-33.8345,HAS_COORDINATES
+Neutral Bay,lon:151.218,HAS_COORDINATES
+New Lambton,suburb,IS_A
+New Lambton,Australia,IS_LOCATED_IN
+New Lambton,10048,HAS_POPULATION
+New Lambton,2305,HAS_POSTCODE
+New Lambton,lat:-32.9278,HAS_COORDINATES
+New Lambton,lon:151.711,HAS_COORDINATES
+New Lambton Heights,suburb,IS_A
+New Lambton Heights,Australia,IS_LOCATED_IN
+New Lambton Heights,2454,HAS_POPULATION
+New Lambton Heights,2305,HAS_POSTCODE
+New Lambton Heights,lat:-32.915,HAS_COORDINATES
+New Lambton Heights,lon:151.701,HAS_COORDINATES
+Newcastle East,locality,IS_A
+Newcastle East,suburb,IS_A
+Newcastle East,Australia,IS_LOCATED_IN
+Newcastle East,1004,HAS_POPULATION
+Newcastle East,2300,HAS_POSTCODE
+Newcastle East,lat:-32.9292,HAS_COORDINATES
+Newcastle East,lon:151.788,HAS_COORDINATES
+Newcastle West,suburb,IS_A
+Newcastle West,Australia,IS_LOCATED_IN
+Newcastle West,618,HAS_POPULATION
+Newcastle West,2302,HAS_POSTCODE
+Newcastle West,lat:-32.9287,HAS_COORDINATES
+Newcastle West,lon:151.761,HAS_COORDINATES
+Niagara Park,suburb,IS_A
+Niagara Park,Australia,IS_LOCATED_IN
+Niagara Park,2743,HAS_POPULATION
+Niagara Park,2250,HAS_POSTCODE
+Niagara Park,lat:-33.382,HAS_COORDINATES
+Niagara Park,lon:151.351,HAS_COORDINATES
+Niangala,suburb,IS_A
+Niangala,Australia,IS_LOCATED_IN
+Niangala,121,HAS_POPULATION
+Niangala,2354,HAS_POSTCODE
+Niangala,lat:-31.2983,HAS_COORDINATES
+Niangala,lon:151.409,HAS_COORDINATES
+Norah Head,suburb,IS_A
+Norah Head,point,IS_A
+Norah Head,Australia,IS_LOCATED_IN
+Norah Head,1129,HAS_POPULATION
+Norah Head,2263,HAS_POSTCODE
+Norah Head,lat:-33.28333,HAS_COORDINATES
+Norah Head,lon:151.58333,HAS_COORDINATES
+Norah Head,lat:-33.2833,HAS_COORDINATES
+Norah Head,lon:151.567,HAS_COORDINATES
+Noraville,suburb,IS_A
+Noraville,Australia,IS_LOCATED_IN
+Noraville,2918,HAS_POPULATION
+Noraville,2263,HAS_POSTCODE
+Noraville,lat:-33.265,HAS_COORDINATES
+Noraville,lon:151.568,HAS_COORDINATES
+Nords Wharf,suburb,IS_A
+Nords Wharf,Australia,IS_LOCATED_IN
+Nords Wharf,886,HAS_POPULATION
+Nords Wharf,2281,HAS_POSTCODE
+Nords Wharf,lat:-33.132,HAS_COORDINATES
+Nords Wharf,lon:151.601,HAS_COORDINATES
+North Arm Cove,suburb,IS_A
+North Arm Cove,Australia,IS_LOCATED_IN
+North Arm Cove,445,HAS_POPULATION
+North Arm Cove,2324,HAS_POSTCODE
+North Arm Cove,lat:-32.6253,HAS_COORDINATES
+North Arm Cove,lon:152.044,HAS_COORDINATES
+North Avoca,suburb,IS_A
+North Avoca,Australia,IS_LOCATED_IN
+North Avoca,2200,HAS_POPULATION
+North Avoca,2260,HAS_POSTCODE
+North Avoca,lat:-33.457,HAS_COORDINATES
+North Avoca,lon:151.435,HAS_COORDINATES
+North Balgowlah,suburb,IS_A
+North Balgowlah,Australia,IS_LOCATED_IN
+North Balgowlah,3667,HAS_POPULATION
+North Balgowlah,2093,HAS_POSTCODE
+North Balgowlah,lat:-33.791,HAS_COORDINATES
+North Balgowlah,lon:151.244,HAS_COORDINATES
+North Epping,suburb,IS_A
+North Epping,Australia,IS_LOCATED_IN
+North Epping,4526,HAS_POPULATION
+North Epping,2121,HAS_POSTCODE
+North Epping,lat:-33.7623,HAS_COORDINATES
+North Epping,lon:151.101,HAS_COORDINATES
+North Epping,lat:-33.75944,HAS_COORDINATES
+North Epping,lon:151.09248,HAS_COORDINATES
+North Gosford,suburb,IS_A
+North Gosford,Australia,IS_LOCATED_IN
+North Gosford,3700,HAS_POPULATION
+North Gosford,2250,HAS_POSTCODE
+North Gosford,lat:-33.415,HAS_COORDINATES
+North Gosford,lon:151.351,HAS_COORDINATES
+North Lambton,suburb,IS_A
+North Lambton,Australia,IS_LOCATED_IN
+North Lambton,3306,HAS_POPULATION
+North Lambton,2299,HAS_POSTCODE
+North Lambton,lat:-32.904,HAS_COORDINATES
+North Lambton,lon:151.704,HAS_COORDINATES
+North Narrabeen,suburb,IS_A
+North Narrabeen,Australia,IS_LOCATED_IN
+North Narrabeen,5852,HAS_POPULATION
+North Narrabeen,2101,HAS_POSTCODE
+North Narrabeen,lat:-33.7065,HAS_COORDINATES
+North Narrabeen,lon:151.288,HAS_COORDINATES
+North Parramatta,suburb,IS_A
+North Parramatta,Australia,IS_LOCATED_IN
+North Parramatta,13248,HAS_POPULATION
+North Parramatta,2151,HAS_POSTCODE
+North Parramatta,lat:-33.8032,HAS_COORDINATES
+North Parramatta,lon:151.005,HAS_COORDINATES
+North Richmond,suburb,IS_A
+North Richmond,Australia,IS_LOCATED_IN
+North Richmond,4977,HAS_POPULATION
+North Richmond,2754,HAS_POSTCODE
+North Richmond,lat:-33.5893,HAS_COORDINATES
+North Richmond,lon:150.711,HAS_COORDINATES
+North Rocks,suburb,IS_A
+North Rocks,Australia,IS_LOCATED_IN
+North Rocks,7965,HAS_POPULATION
+North Rocks,4563,HAS_POSTCODE
+North Rocks,lat:-33.7761,HAS_COORDINATES
+North Rocks,lon:151.02,HAS_COORDINATES
+North St Marys,suburb,IS_A
+North St Marys,Australia,IS_LOCATED_IN
+North St Marys,3921,HAS_POPULATION
+North St Marys,2760,HAS_POSTCODE
+North St Marys,lat:-33.749,HAS_COORDINATES
+North St Marys,lon:150.782,HAS_COORDINATES
+North Tamworth,suburb,IS_A
+North Tamworth,Australia,IS_LOCATED_IN
+North Tamworth,5141,HAS_POPULATION
+North Tamworth,2340,HAS_POSTCODE
+North Tamworth,lat:-31.0781,HAS_COORDINATES
+North Tamworth,lon:150.926,HAS_COORDINATES
+North Turramurra,suburb,IS_A
+North Turramurra,Australia,IS_LOCATED_IN
+North Turramurra,4257,HAS_POPULATION
+North Turramurra,2074,HAS_POSTCODE
+North Turramurra,lat:-33.7262,HAS_COORDINATES
+North Turramurra,lon:151.147,HAS_COORDINATES
+North Wagga Wagga,suburb,IS_A
+North Wagga Wagga,Australia,IS_LOCATED_IN
+North Wagga Wagga,720,HAS_POPULATION
+North Wagga Wagga,2650,HAS_POSTCODE
+North Wagga Wagga,lat:-35.0957,HAS_COORDINATES
+North Wagga Wagga,lon:147.378,HAS_COORDINATES
+North Wahroonga,locality,IS_A
+North Wahroonga,suburb,IS_A
+North Wahroonga,Australia,IS_LOCATED_IN
+North Wahroonga,1998,HAS_POPULATION
+North Wahroonga,2076,HAS_POSTCODE
+North Wahroonga,lat:-33.701,HAS_COORDINATES
+North Wahroonga,lon:151.126,HAS_COORDINATES
+North Willoughby,suburb,IS_A
+North Willoughby,Australia,IS_LOCATED_IN
+North Willoughby,4172,HAS_POPULATION
+North Willoughby,2068,HAS_POSTCODE
+North Willoughby,lat:-33.795,HAS_COORDINATES
+North Willoughby,lon:151.204,HAS_COORDINATES
+Northbridge,suburb,IS_A
+Northbridge,Australia,IS_LOCATED_IN
+Northbridge,6347,HAS_POPULATION
+Northbridge,2063,HAS_POSTCODE
+Northbridge,lat:-33.8133,HAS_COORDINATES
+Northbridge,lon:151.217,HAS_COORDINATES
+Northmead,suburb,IS_A
+Northmead,Australia,IS_LOCATED_IN
+Northmead,11215,HAS_POPULATION
+Northmead,2152,HAS_POSTCODE
+Northmead,lat:-33.7817,HAS_COORDINATES
+Northmead,lon:151.002,HAS_COORDINATES
+Northwood,suburb,IS_A
+Northwood,Australia,IS_LOCATED_IN
+Northwood,982,HAS_POPULATION
+Northwood,2066,HAS_POSTCODE
+Northwood,lat:-33.8281,HAS_COORDINATES
+Northwood,lon:151.176,HAS_COORDINATES
+Oak Flats,suburb,IS_A
+Oak Flats,Australia,IS_LOCATED_IN
+Oak Flats,6415,HAS_POPULATION
+Oak Flats,2529,HAS_POSTCODE
+Oak Flats,lat:-34.56194444,HAS_COORDINATES
+Oak Flats,lon:150.81888889,HAS_COORDINATES
+Oakhurst,suburb,IS_A
+Oakhurst,Australia,IS_LOCATED_IN
+Oakhurst,6955,HAS_POPULATION
+Oakhurst,2761,HAS_POSTCODE
+Oakhurst,lat:-33.732,HAS_COORDINATES
+Oakhurst,lon:150.835,HAS_COORDINATES
+Oakville,suburb,IS_A
+Oakville,Australia,IS_LOCATED_IN
+Oakville,1964,HAS_POPULATION
+Oakville,2765,HAS_POSTCODE
+Oakville,lat:-33.6222,HAS_COORDINATES
+Oakville,lon:150.867,HAS_COORDINATES
+Oatlands,suburb,IS_A
+Oatlands,Australia,IS_LOCATED_IN
+Oatlands,5660,HAS_POPULATION
+Oatlands,2117,HAS_POSTCODE
+Oatlands,lat:-33.794,HAS_COORDINATES
+Oatlands,lon:151.032,HAS_COORDINATES
+Oatley,suburb,IS_A
+Oatley,Australia,IS_LOCATED_IN
+Oatley,10486,HAS_POPULATION
+Oatley,2223,HAS_POSTCODE
+Oatley,lat:-33.9812,HAS_COORDINATES
+Oatley,lon:151.075,HAS_COORDINATES
+Old Guildford,suburb,IS_A
+Old Guildford,Australia,IS_LOCATED_IN
+Old Guildford,2663,HAS_POPULATION
+Old Guildford,2161,HAS_POSTCODE
+Old Guildford,lat:-33.865769444444,HAS_COORDINATES
+Old Guildford,lon:150.98346111111,HAS_COORDINATES
+Old Toongabbie,suburb,IS_A
+Old Toongabbie,Australia,IS_LOCATED_IN
+Old Toongabbie,3133,HAS_POPULATION
+Old Toongabbie,2146,HAS_POSTCODE
+Old Toongabbie,lat:-33.787,HAS_COORDINATES
+Old Toongabbie,lon:150.966,HAS_COORDINATES
+Oran Park,suburb,IS_A
+Oran Park,Australia,IS_LOCATED_IN
+Oran Park,4765,HAS_POPULATION
+Oran Park,2570,HAS_POSTCODE
+Oran Park,lat:-34.003,HAS_COORDINATES
+Oran Park,lon:150.743,HAS_COORDINATES
+Osterley,suburb,IS_A
+Osterley,Australia,IS_LOCATED_IN
+Osterley,117,HAS_POPULATION
+Osterley,2324,HAS_POSTCODE
+Osterley,lat:-32.7233,HAS_COORDINATES
+Osterley,lon:151.701,HAS_COORDINATES
+Otford,suburb,IS_A
+Otford,Australia,IS_LOCATED_IN
+Otford,369,HAS_POPULATION
+Otford,2508,HAS_POSTCODE
+Otford,lat:-34.2167,HAS_COORDINATES
+Otford,lon:151,HAS_COORDINATES
+Ourimbah,suburb,IS_A
+Ourimbah,Australia,IS_LOCATED_IN
+Ourimbah,3951,HAS_POPULATION
+Ourimbah,2258,HAS_POSTCODE
+Ourimbah,lat:-33.365,HAS_COORDINATES
+Ourimbah,lon:151.368,HAS_COORDINATES
+Oxley Vale,suburb,IS_A
+Oxley Vale,Australia,IS_LOCATED_IN
+Oxley Vale,3742,HAS_POPULATION
+Oxley Vale,2340,HAS_POSTCODE
+Oxley Vale,lat:-31.0486,HAS_COORDINATES
+Oxley Vale,lon:150.885,HAS_COORDINATES
+Padstow Heights,suburb,IS_A
+Padstow Heights,Australia,IS_LOCATED_IN
+Padstow Heights,3540,HAS_POPULATION
+Padstow Heights,2211,HAS_POSTCODE
+Padstow Heights,lat:-33.973,HAS_COORDINATES
+Padstow Heights,lon:151.035,HAS_COORDINATES
+Padstow,suburb,IS_A
+Padstow,Australia,IS_LOCATED_IN
+Padstow,13306,HAS_POPULATION
+Padstow,2211,HAS_POSTCODE
+Padstow,lat:-33.9559,HAS_COORDINATES
+Padstow,lon:151.032,HAS_COORDINATES
+Pagewood,suburb,IS_A
+Pagewood,Australia,IS_LOCATED_IN
+Pagewood,3805,HAS_POPULATION
+Pagewood,2035,HAS_POSTCODE
+Pagewood,lat:-33.9421,HAS_COORDINATES
+Pagewood,lon:151.223,HAS_COORDINATES
+Palm Grove,suburb,IS_A
+Palm Grove,Australia,IS_LOCATED_IN
+Palm Grove,106,HAS_POPULATION
+Palm Grove,2258,HAS_POSTCODE
+Palm Grove,lat:-33.324,HAS_COORDINATES
+Palm Grove,lon:151.31,HAS_COORDINATES
+Panania,suburb,IS_A
+Panania,Australia,IS_LOCATED_IN
+Panania,12419,HAS_POPULATION
+Panania,2213,HAS_POSTCODE
+Panania,lat:-33.9579,HAS_COORDINATES
+Panania,lon:151.002,HAS_COORDINATES
+Parklea,suburb,IS_A
+Parklea,Australia,IS_LOCATED_IN
+Parklea,3465,HAS_POPULATION
+Parklea,2768,HAS_POSTCODE
+Parklea,lat:-33.7291,HAS_COORDINATES
+Parklea,lon:150.919,HAS_COORDINATES
+Paterson,suburb,IS_A
+Paterson,Australia,IS_LOCATED_IN
+Paterson,892,HAS_POPULATION
+Paterson,2421,HAS_POSTCODE
+Paterson,lat:-32.5833,HAS_COORDINATES
+Paterson,lon:151.6,HAS_COORDINATES
+Patonga,suburb,IS_A
+Patonga,Australia,IS_LOCATED_IN
+Patonga,206,HAS_POPULATION
+Patonga,2256,HAS_POSTCODE
+Patonga,lat:-33.549,HAS_COORDINATES
+Patonga,lon:151.268,HAS_COORDINATES
+Malabar,suburb,IS_A
+Malabar,Australia,IS_LOCATED_IN
+Malabar,5420,HAS_POPULATION
+Malabar,2036,HAS_POSTCODE
+Malabar,lat:-33.9656,HAS_COORDINATES
+Malabar,lon:151.249,HAS_COORDINATES
+Coogee,suburb,IS_A
+Coogee,Australia,IS_LOCATED_IN
+Coogee,15212,HAS_POPULATION
+Coogee,2034,HAS_POSTCODE
+Coogee,lat:-33.919,HAS_COORDINATES
+Coogee,lon:151.255,HAS_COORDINATES
+Clovelly,suburb,IS_A
+Clovelly,Australia,IS_LOCATED_IN
+Clovelly,4736,HAS_POPULATION
+Clovelly,2031,HAS_POSTCODE
+Clovelly,lat:-33.9121,HAS_COORDINATES
+Clovelly,lon:151.263,HAS_COORDINATES
+Alexandria,suburb,IS_A
+Alexandria,Australia,IS_LOCATED_IN
+Alexandria,7050,HAS_POPULATION
+Alexandria,8262,HAS_POPULATION
+Alexandria,2015,HAS_POSTCODE
+Alexandria,lat:-33.9017,HAS_COORDINATES
+Alexandria,lon:151.2,HAS_COORDINATES
+Ultimo,suburb,IS_A
+Ultimo,Australia,IS_LOCATED_IN
+Ultimo,Pyrmont,SHARES_BORDER_WITH
+Ultimo,Haymarket,SHARES_BORDER_WITH
+Ultimo,7111,HAS_POPULATION
+Ultimo,2007,HAS_POSTCODE
+Ultimo,lat:-33.8822,HAS_COORDINATES
+Ultimo,lon:151.197,HAS_COORDINATES
+Mascot,suburb,IS_A
+Mascot,Australia,IS_LOCATED_IN
+Mascot,14772,HAS_POPULATION
+Mascot,2020,HAS_POSTCODE
+Mascot,lat:-33.9291,HAS_COORDINATES
+Mascot,lon:151.18793,HAS_COORDINATES
+Pyrmont,suburb,IS_A
+Pyrmont,Australia,IS_LOCATED_IN
+Pyrmont,Ultimo,SHARES_BORDER_WITH
+Pyrmont,12813,HAS_POPULATION
+Pyrmont,2009,HAS_POSTCODE
+Pyrmont,lat:-33.875,HAS_COORDINATES
+Pyrmont,lon:151.196,HAS_COORDINATES
+Kensington,suburb,IS_A
+Kensington,Australia,IS_LOCATED_IN
+Kensington,15004,HAS_POPULATION
+Kensington,2033,HAS_POSTCODE
+Kensington,lat:-33.9089,HAS_COORDINATES
+Kensington,lon:151.223,HAS_COORDINATES
+Tamarama,suburb,IS_A
+Tamarama,Australia,IS_LOCATED_IN
+Tamarama,1622,HAS_POPULATION
+Tamarama,2026,HAS_POSTCODE
+Tamarama,lat:-33.898,HAS_COORDINATES
+Tamarama,lon:151.268,HAS_COORDINATES
+Vaucluse,suburb,IS_A
+Vaucluse,Australia,IS_LOCATED_IN
+Vaucluse,9337,HAS_POPULATION
+Vaucluse,2030,HAS_POSTCODE
+Vaucluse,lat:-33.8558,HAS_COORDINATES
+Vaucluse,lon:151.271,HAS_COORDINATES
+Chippendale,suburb,IS_A
+Chippendale,Australia,IS_LOCATED_IN
+Chippendale,8617,HAS_POPULATION
+Chippendale,2008,HAS_POSTCODE
+Chippendale,lat:-33.8863,HAS_COORDINATES
+Chippendale,lon:151.2,HAS_COORDINATES
+La Perouse,suburb,IS_A
+La Perouse,Australia,IS_LOCATED_IN
+La Perouse,399,HAS_POPULATION
+La Perouse,2036,HAS_POSTCODE
+La Perouse,lat:-33.9888,HAS_COORDINATES
+La Perouse,lon:151.232,HAS_COORDINATES
+Woollahra,suburb,IS_A
+Woollahra,Australia,IS_LOCATED_IN
+Woollahra,7405,HAS_POPULATION
+Woollahra,2025,HAS_POSTCODE
+Woollahra,lat:-33.8833,HAS_COORDINATES
+Woollahra,lon:151.25,HAS_COORDINATES
+Bellevue Hill,suburb,IS_A
+Bellevue Hill,Australia,IS_LOCATED_IN
+Bellevue Hill,10716,HAS_POPULATION
+Bellevue Hill,2023,HAS_POSTCODE
+Bellevue Hill,lat:-33.881,HAS_COORDINATES
+Bellevue Hill,lon:151.253,HAS_COORDINATES
+Waverley,suburb,IS_A
+Waverley,Australia,IS_LOCATED_IN
+Waverley,4346,HAS_POPULATION
+Waverley,2024,HAS_POSTCODE
+Waverley,lat:-33.8978,HAS_COORDINATES
+Waverley,lon:151.25,HAS_COORDINATES
+Double Bay,suburb,IS_A
+Double Bay,Australia,IS_LOCATED_IN
+Double Bay,4687,HAS_POPULATION
+Double Bay,4642,HAS_POPULATION
+Double Bay,2028,HAS_POSTCODE
+Double Bay,lat:-33.8775,HAS_COORDINATES
+Double Bay,lon:151.241,HAS_COORDINATES
+Beaconsfield,suburb,IS_A
+Beaconsfield,Australia,IS_LOCATED_IN
+Beaconsfield,987,HAS_POPULATION
+Beaconsfield,2015,HAS_POSTCODE
+Beaconsfield,lat:-33.911,HAS_COORDINATES
+Beaconsfield,lon:151.2,HAS_COORDINATES
+Rosebery,suburb,IS_A
+Rosebery,Australia,IS_LOCATED_IN
+Rosebery,10117,HAS_POPULATION
+Rosebery,2018,HAS_POSTCODE
+Rosebery,lat:-33.9237,HAS_COORDINATES
+Rosebery,lon:151.205,HAS_COORDINATES
+Elizabeth Bay,suburb,IS_A
+Elizabeth Bay,Australia,IS_LOCATED_IN
+Elizabeth Bay,5215,HAS_POPULATION
+Elizabeth Bay,2011,HAS_POSTCODE
+Elizabeth Bay,lat:-33.8714,HAS_COORDINATES
+Elizabeth Bay,lon:151.228,HAS_COORDINATES
+Camperdown,suburb,IS_A
+Camperdown,Australia,IS_LOCATED_IN
+Camperdown,7866,HAS_POPULATION
+Camperdown,10341,HAS_POPULATION
+Camperdown,2050,HAS_POSTCODE
+Camperdown,lat:-33.890130555556,HAS_COORDINATES
+Camperdown,lon:151.17988055556,HAS_COORDINATES
+Potts Point,suburb,IS_A
+Potts Point,Australia,IS_LOCATED_IN
+Potts Point,9423,HAS_POPULATION
+Potts Point,2011,HAS_POSTCODE
+Potts Point,lat:-33.868,HAS_COORDINATES
+Potts Point,lon:151.224,HAS_COORDINATES
+Haymarket,suburb,IS_A
+Haymarket,Australia,IS_LOCATED_IN
+Haymarket,Ultimo,SHARES_BORDER_WITH
+Haymarket,Surry Hills,SHARES_BORDER_WITH
+Haymarket,7353,HAS_POPULATION
+Haymarket,2000,HAS_POSTCODE
+Haymarket,lat:-33.8809,HAS_COORDINATES
+Haymarket,lon:151.203,HAS_COORDINATES
+Rushcutters Bay,suburb,IS_A
+Rushcutters Bay,Australia,IS_LOCATED_IN
+Rushcutters Bay,2547,HAS_POPULATION
+Rushcutters Bay,2011,HAS_POSTCODE
+Rushcutters Bay,lat:-33.8774,HAS_COORDINATES
+Rushcutters Bay,lon:151.228,HAS_COORDINATES
+Zetland,suburb,IS_A
+Zetland,Australia,IS_LOCATED_IN
+Zetland,10078,HAS_POPULATION
+Zetland,2017,HAS_POSTCODE
+Zetland,lat:-33.908,HAS_COORDINATES
+Zetland,lon:151.2105,HAS_COORDINATES
+Darlington,suburb,IS_A
+Darlington,Australia,IS_LOCATED_IN
+Darlington,3097,HAS_POPULATION
+Darlington,2008,HAS_POSTCODE
+Darlington,lat:-33.8903,HAS_COORDINATES
+Darlington,lon:151.197,HAS_COORDINATES
+Bradbury,suburb,IS_A
+Bradbury,Australia,IS_LOCATED_IN
+Bradbury,8800,HAS_POPULATION
+Bradbury,2560,HAS_POSTCODE
+Bradbury,lat:-34.0873,HAS_COORDINATES
+Bradbury,lon:150.816,HAS_COORDINATES
+Cheltenham,suburb,IS_A
+Cheltenham,Australia,IS_LOCATED_IN
+Cheltenham,2243,HAS_POPULATION
+Cheltenham,2119,HAS_POSTCODE
+Cheltenham,lat:-33.7584,HAS_COORDINATES
+Cheltenham,lon:151.076,HAS_COORDINATES
+Chester Hill,suburb,IS_A
+Chester Hill,Australia,IS_LOCATED_IN
+Chester Hill,12814,HAS_POPULATION
+Chester Hill,2162,HAS_POSTCODE
+Chester Hill,lat:-33.8784,HAS_COORDINATES
+Chester Hill,lon:151.004,HAS_COORDINATES
+Chullora,suburb,IS_A
+Chullora,Australia,IS_LOCATED_IN
+Chullora,0,HAS_POPULATION
+Chullora,2190,HAS_POSTCODE
+Chullora,lat:-33.8908,HAS_COORDINATES
+Chullora,lon:151.048,HAS_COORDINATES
+Daceyville,suburb,IS_A
+Daceyville,Australia,IS_LOCATED_IN
+Daceyville,1209,HAS_POPULATION
+Daceyville,2032,HAS_POSTCODE
+Daceyville,lat:-33.9279,HAS_COORDINATES
+Daceyville,lon:151.223,HAS_COORDINATES
+Kingsford,suburb,IS_A
+Kingsford,Australia,IS_LOCATED_IN
+Kingsford,15482,HAS_POPULATION
+Kingsford,2032,HAS_POSTCODE
+Kingsford,lat:-33.9246,HAS_COORDINATES
+Kingsford,lon:151.228,HAS_COORDINATES
+Matraville,suburb,IS_A
+Matraville,Australia,IS_LOCATED_IN
+Matraville,9804,HAS_POPULATION
+Matraville,2036,HAS_POSTCODE
+Matraville,lat:-33.9613,HAS_COORDINATES
+Matraville,lon:151.232,HAS_COORDINATES
+Hillsdale,suburb,IS_A
+Hillsdale,Australia,IS_LOCATED_IN
+Hillsdale,5501,HAS_POPULATION
+Hillsdale,2036,HAS_POSTCODE
+Hillsdale,lat:-33.9549,HAS_COORDINATES
+Hillsdale,lon:151.229,HAS_COORDINATES
+Banksmeadow,suburb,IS_A
+Banksmeadow,Australia,IS_LOCATED_IN
+Banksmeadow,18,HAS_POPULATION
+Banksmeadow,2019,HAS_POSTCODE
+Banksmeadow,lat:-33.9573,HAS_COORDINATES
+Banksmeadow,lon:151.207,HAS_COORDINATES
+Dawes Point,suburb,IS_A
+Dawes Point,Australia,IS_LOCATED_IN
+Dawes Point,357,HAS_POPULATION
+Dawes Point,2000,HAS_POSTCODE
+Dawes Point,lat:-33.856,HAS_COORDINATES
+Dawes Point,lon:151.207,HAS_COORDINATES
+Dawes Point,lat:-33.85607,HAS_COORDINATES
+Dawes Point,lon:151.20767,HAS_COORDINATES
+Botany,suburb,IS_A
+Botany,Australia,IS_LOCATED_IN
+Botany,10817,HAS_POPULATION
+Botany,2019,HAS_POSTCODE
+Botany,lat:-33.9451,HAS_COORDINATES
+Botany,lon:151.199,HAS_COORDINATES
+Little Bay,suburb,IS_A
+Little Bay,Australia,IS_LOCATED_IN
+Little Bay,4477,HAS_POPULATION
+Little Bay,2036,HAS_POSTCODE
+Little Bay,lat:-33.9805,HAS_COORDINATES
+Little Bay,lon:151.243,HAS_COORDINATES
+Condell Park,suburb,IS_A
+Condell Park,Australia,IS_LOCATED_IN
+Condell Park,11574,HAS_POPULATION
+Condell Park,2200,HAS_POSTCODE
+Condell Park,lat:-33.925,HAS_COORDINATES
+Condell Park,lon:151.008,HAS_COORDINATES
+Croydon,suburb,IS_A
+Croydon,Australia,IS_LOCATED_IN
+Croydon,10612,HAS_POPULATION
+Croydon,2132,HAS_POSTCODE
+Croydon,lat:-33.879,HAS_COORDINATES
+Croydon,lon:151.116,HAS_COORDINATES
+Croydon Park,suburb,IS_A
+Croydon Park,Australia,IS_LOCATED_IN
+Croydon Park,11012,HAS_POPULATION
+Croydon Park,2133,HAS_POSTCODE
+Croydon Park,lat:-33.8968,HAS_COORDINATES
+Croydon Park,lon:151.11,HAS_COORDINATES
+Hurlstone Park,suburb,IS_A
+Hurlstone Park,Australia,IS_LOCATED_IN
+Hurlstone Park,4692,HAS_POPULATION
+Hurlstone Park,2193,HAS_POSTCODE
+Hurlstone Park,lat:-33.9106,HAS_COORDINATES
+Hurlstone Park,lon:151.129,HAS_COORDINATES
+Lidcombe,suburb,IS_A
+Lidcombe,Australia,IS_LOCATED_IN
+Lidcombe,19627,HAS_POPULATION
+Lidcombe,2141,HAS_POSTCODE
+Lidcombe,lat:-33.8646,HAS_COORDINATES
+Lidcombe,lon:151.046,HAS_COORDINATES
+Ebenezer,suburb,IS_A
+Ebenezer,Australia,IS_LOCATED_IN
+Ebenezer,993,HAS_POPULATION
+Ebenezer,2756,HAS_POSTCODE
+Ebenezer,lat:-33.5318,HAS_COORDINATES
+Ebenezer,lon:150.868,HAS_COORDINATES
+Loftus,suburb,IS_A
+Loftus,Australia,IS_LOCATED_IN
+Loftus,Sutherland,SHARES_BORDER_WITH
+Loftus,4135,HAS_POPULATION
+Loftus,2232,HAS_POSTCODE
+Loftus,lat:-34.0465,HAS_COORDINATES
+Loftus,lon:151.047,HAS_COORDINATES
+Gateshead,locality,IS_A
+Gateshead,suburb,IS_A
+Gateshead,Australia,IS_LOCATED_IN
+Gateshead,3145,HAS_POPULATION
+Gateshead,2290,HAS_POSTCODE
+Gateshead,lat:-32.982,HAS_COORDINATES
+Gateshead,lon:151.693,HAS_COORDINATES
+Milperra,suburb,IS_A
+Milperra,Australia,IS_LOCATED_IN
+Milperra,3952,HAS_POPULATION
+Milperra,2214,HAS_POSTCODE
+Milperra,lat:-33.9428,HAS_COORDINATES
+Milperra,lon:150.98,HAS_COORDINATES
+Harrington,suburb,IS_A
+Harrington,Australia,IS_LOCATED_IN
+Harrington,3033,HAS_POPULATION
+Harrington,2427,HAS_POSTCODE
+Harrington,lat:-31.8667,HAS_COORDINATES
+Harrington,lon:152.683,HAS_COORDINATES
+Morning Bay,suburb,IS_A
+Morning Bay,Australia,IS_LOCATED_IN
+Morning Bay,39,HAS_POPULATION
+Morning Bay,2105,HAS_POSTCODE
+Morning Bay,lat:-33.627,HAS_COORDINATES
+Morning Bay,lon:151.287,HAS_COORDINATES
+Keiraville,suburb,IS_A
+Keiraville,Australia,IS_LOCATED_IN
+Keiraville,3569,HAS_POPULATION
+Keiraville,2500,HAS_POSTCODE
+Keiraville,lat:-34.3833,HAS_COORDINATES
+Keiraville,lon:150.867,HAS_COORDINATES
+Kemps Creek,suburb,IS_A
+Kemps Creek,Australia,IS_LOCATED_IN
+Kemps Creek,2268,HAS_POPULATION
+Kemps Creek,2178,HAS_POSTCODE
+Kemps Creek,lat:-33.8746,HAS_COORDINATES
+Kemps Creek,lon:150.799,HAS_COORDINATES
+Martinsville,suburb,IS_A
+Martinsville,Australia,IS_LOCATED_IN
+Martinsville,361,HAS_POPULATION
+Martinsville,2265,HAS_POSTCODE
+Martinsville,lat:-33.057,HAS_COORDINATES
+Martinsville,lon:151.41,HAS_COORDINATES
+Merewether Heights,suburb,IS_A
+Merewether Heights,Australia,IS_LOCATED_IN
+Merewether Heights,1400,HAS_POPULATION
+Merewether Heights,2291,HAS_POSTCODE
+Merewether Heights,lat:-32.949,HAS_COORDINATES
+Merewether Heights,lon:151.735,HAS_COORDINATES
+Mount Vernon,suburb,IS_A
+Mount Vernon,Australia,IS_LOCATED_IN
+Mount Vernon,1573,HAS_POPULATION
+Mount Vernon,2178,HAS_POSTCODE
+Mount Vernon,lat:-33.857,HAS_COORDINATES
+Mount Vernon,lon:150.81,HAS_COORDINATES
+Newington,suburb,IS_A
+Newington,Australia,IS_LOCATED_IN
+Newington,5802,HAS_POPULATION
+Newington,2127,HAS_POSTCODE
+Newington,lat:-33.839,HAS_COORDINATES
+Newington,lon:151.055,HAS_COORDINATES
+Canterbury,suburb,IS_A
+Canterbury,Australia,IS_LOCATED_IN
+Canterbury,7233,HAS_POPULATION
+Canterbury,2193,HAS_POSTCODE
+Canterbury,lat:-33.9126,HAS_COORDINATES
+Canterbury,lon:151.118,HAS_COORDINATES
+Manly Vale,suburb,IS_A
+Manly Vale,Australia,IS_LOCATED_IN
+Manly Vale,6160,HAS_POPULATION
+Manly Vale,2093,HAS_POSTCODE
+Manly Vale,lat:-33.783,HAS_COORDINATES
+Manly Vale,lon:151.2622,HAS_COORDINATES
+Bilgola Beach,suburb,IS_A
+Bilgola Beach,Australia,IS_LOCATED_IN
+Bilgola Beach,240,HAS_POPULATION
+Bilgola Beach,2107,HAS_POSTCODE
+Bilgola Beach,lat:-33.6456,HAS_COORDINATES
+Bilgola Beach,lon:151.318,HAS_COORDINATES
+Rockdale,suburb,IS_A
+Rockdale,Australia,IS_LOCATED_IN
+Rockdale,15534,HAS_POPULATION
+Rockdale,2216,HAS_POSTCODE
+Rockdale,lat:-33.9533,HAS_COORDINATES
+Rockdale,lon:151.14,HAS_COORDINATES
+Birchgrove,suburb,IS_A
+Birchgrove,Australia,IS_LOCATED_IN
+Birchgrove,3303,HAS_POPULATION
+Birchgrove,2041,HAS_POSTCODE
+Birchgrove,lat:-33.8527,HAS_COORDINATES
+Birchgrove,lon:151.18,HAS_COORDINATES
+Prospect,suburb,IS_A
+Prospect,Australia,IS_LOCATED_IN
+Prospect,4716,HAS_POPULATION
+Prospect,2148,HAS_POSTCODE
+Prospect,lat:-33.8045,HAS_COORDINATES
+Prospect,lon:150.915,HAS_COORDINATES
+Emu Heights,suburb,IS_A
+Emu Heights,Australia,IS_LOCATED_IN
+Emu Heights,3289,HAS_POPULATION
+Emu Heights,2750,HAS_POSTCODE
+Emu Heights,lat:-33.7352,HAS_COORDINATES
+Emu Heights,lon:150.65,HAS_COORDINATES
+Pendle Hill,suburb,IS_A
+Pendle Hill,Australia,IS_LOCATED_IN
+Pendle Hill,7247,HAS_POPULATION
+Pendle Hill,2145,HAS_POSTCODE
+Pendle Hill,lat:-33.8074,HAS_COORDINATES
+Pendle Hill,lon:150.955,HAS_COORDINATES
+Oxley Park,suburb,IS_A
+Oxley Park,Australia,IS_LOCATED_IN
+Oxley Park,3112,HAS_POPULATION
+Oxley Park,2760,HAS_POSTCODE
+Oxley Park,lat:-33.7709,HAS_COORDINATES
+Oxley Park,lon:150.793,HAS_COORDINATES
+Werrington,suburb,IS_A
+Werrington,Australia,IS_LOCATED_IN
+Werrington,4031,HAS_POPULATION
+Werrington,2747,HAS_POSTCODE
+Werrington,lat:-33.7594,HAS_COORDINATES
+Werrington,lon:150.747,HAS_COORDINATES
+St Marys,suburb,IS_A
+St Marys,Australia,IS_LOCATED_IN
+St Marys,12195,HAS_POPULATION
+St Marys,2760,HAS_POSTCODE
+St Marys,lat:-33.7607,HAS_COORDINATES
+St Marys,lon:150.777,HAS_COORDINATES
+Kingswood,suburb,IS_A
+Kingswood,Australia,IS_LOCATED_IN
+Kingswood,9301,HAS_POPULATION
+Kingswood,2747,HAS_POSTCODE
+Kingswood,lat:-33.759,HAS_COORDINATES
+Kingswood,lon:150.72,HAS_COORDINATES
+Claremont Meadows,suburb,IS_A
+Claremont Meadows,Australia,IS_LOCATED_IN
+Claremont Meadows,4776,HAS_POPULATION
+Claremont Meadows,2747,HAS_POSTCODE
+Claremont Meadows,lat:-33.779,HAS_COORDINATES
+Claremont Meadows,lon:150.753,HAS_COORDINATES
+Eastern Creek,suburb,IS_A
+Eastern Creek,Australia,IS_LOCATED_IN
+Eastern Creek,827,HAS_POPULATION
+Eastern Creek,2766,HAS_POSTCODE
+Eastern Creek,lat:-33.7946,HAS_COORDINATES
+Eastern Creek,lon:150.862,HAS_COORDINATES
+Orchard Hills,suburb,IS_A
+Orchard Hills,Australia,IS_LOCATED_IN
+Orchard Hills,1877,HAS_POPULATION
+Orchard Hills,2748,HAS_POSTCODE
+Orchard Hills,lat:-33.7814,HAS_COORDINATES
+Orchard Hills,lon:150.736,HAS_COORDINATES
+Cambridge Park,suburb,IS_A
+Cambridge Park,Australia,IS_LOCATED_IN
+Cambridge Park,6726,HAS_POPULATION
+Cambridge Park,2747,HAS_POSTCODE
+Cambridge Park,lat:-33.7483,HAS_COORDINATES
+Cambridge Park,lon:150.734,HAS_COORDINATES
+Werrington County,locality,IS_A
+Werrington County,suburb,IS_A
+Werrington County,Australia,IS_LOCATED_IN
+Werrington County,3645,HAS_POPULATION
+Werrington County,2747,HAS_POSTCODE
+Werrington County,lat:-33.765,HAS_COORDINATES
+Werrington County,lon:150.751,HAS_COORDINATES
+Leonay,suburb,IS_A
+Leonay,Australia,IS_LOCATED_IN
+Leonay,2518,HAS_POPULATION
+Leonay,2750,HAS_POSTCODE
+Leonay,lat:-33.7651,HAS_COORDINATES
+Leonay,lon:150.646,HAS_COORDINATES
+Girraween,suburb,IS_A
+Girraween,Australia,IS_LOCATED_IN
+Girraween,5590,HAS_POPULATION
+Girraween,2145,HAS_POSTCODE
+Girraween,lat:-33.8013,HAS_COORDINATES
+Girraween,lon:150.943,HAS_COORDINATES
+Minchinbury,suburb,IS_A
+Minchinbury,Australia,IS_LOCATED_IN
+Minchinbury,5619,HAS_POPULATION
+Minchinbury,2770,HAS_POSTCODE
+Minchinbury,lat:-33.7833,HAS_COORDINATES
+Minchinbury,lon:150.833,HAS_COORDINATES
+Shoal Bay,suburb,IS_A
+Shoal Bay,Australia,IS_LOCATED_IN
+Shoal Bay,1864,HAS_POPULATION
+Shoal Bay,2315,HAS_POSTCODE
+Shoal Bay,lat:-32.7269,HAS_COORDINATES
+Shoal Bay,lon:152.173,HAS_COORDINATES
+Silverwater,suburb,IS_A
+Silverwater,Australia,IS_LOCATED_IN
+Silverwater,4166,HAS_POPULATION
+Silverwater,2128,HAS_POSTCODE
+Silverwater,lat:-33.83,HAS_COORDINATES
+Silverwater,lon:151.051,HAS_COORDINATES
+Splitters Creek,suburb,IS_A
+Splitters Creek,Australia,IS_LOCATED_IN
+Splitters Creek,267,HAS_POPULATION
+Splitters Creek,2640,HAS_POSTCODE
+Splitters Creek,lat:-36.06,HAS_COORDINATES
+Splitters Creek,lon:146.84,HAS_COORDINATES
+Springdale Heights,suburb,IS_A
+Springdale Heights,Australia,IS_LOCATED_IN
+Springdale Heights,2036,HAS_POPULATION
+Springdale Heights,2641,HAS_POSTCODE
+Springdale Heights,lat:-36.033,HAS_COORDINATES
+Springdale Heights,lon:146.95,HAS_COORDINATES
+Hurstville,suburb,IS_A
+Hurstville,Australia,IS_LOCATED_IN
+Hurstville,29822,HAS_POPULATION
+Hurstville,2220,HAS_POSTCODE
+Hurstville,lat:-33.968111111111,HAS_COORDINATES
+Hurstville,lon:151.10408055556,HAS_COORDINATES
+Table Top,suburb,IS_A
+Table Top,Australia,IS_LOCATED_IN
+Table Top,1425,HAS_POPULATION
+Table Top,2640,HAS_POSTCODE
+Table Top,lat:-35.9833,HAS_COORDINATES
+Table Top,lon:147,HAS_COORDINATES
+Thurgoona,suburb,IS_A
+Thurgoona,Australia,IS_LOCATED_IN
+Thurgoona,8656,HAS_POPULATION
+Thurgoona,2640,HAS_POSTCODE
+Thurgoona,lat:-36.05,HAS_COORDINATES
+Thurgoona,lon:146.983,HAS_COORDINATES
+Homebush,suburb,IS_A
+Homebush,Australia,IS_LOCATED_IN
+Homebush,7007,HAS_POPULATION
+Homebush,2140,HAS_POSTCODE
+Homebush,lat:-33.8641,HAS_COORDINATES
+Homebush,lon:151.082,HAS_COORDINATES
+Tumbi Umbi,suburb,IS_A
+Tumbi Umbi,Australia,IS_LOCATED_IN
+Tumbi Umbi,5108,HAS_POPULATION
+Tumbi Umbi,2261,HAS_POSTCODE
+Tumbi Umbi,lat:-33.365,HAS_COORDINATES
+Tumbi Umbi,lon:151.443,HAS_COORDINATES
+Hamilton Valley,suburb,IS_A
+Hamilton Valley,Australia,IS_LOCATED_IN
+Hamilton Valley,566,HAS_POPULATION
+Hamilton Valley,2641,HAS_POSTCODE
+Hamilton Valley,lat:-36.038,HAS_COORDINATES
+Hamilton Valley,lon:146.92,HAS_COORDINATES
+Harris Park,suburb,IS_A
+Harris Park,Australia,IS_LOCATED_IN
+Harris Park,5799,HAS_POPULATION
+Harris Park,2150,HAS_POSTCODE
+Harris Park,lat:-33.8248,HAS_COORDINATES
+Harris Park,lon:151.005,HAS_COORDINATES
+Harris Park,lat:-33.82285,HAS_COORDINATES
+Harris Park,lon:151.00781,HAS_COORDINATES
+Lilli Pilli,suburb,IS_A
+Lilli Pilli,Australia,IS_LOCATED_IN
+Lilli Pilli,1390,HAS_POPULATION
+Lilli Pilli,2229,HAS_POSTCODE
+Lilli Pilli,lat:-34.0683,HAS_COORDINATES
+Lilli Pilli,lon:151.116,HAS_COORDINATES
+Oyster Bay,suburb,IS_A
+Oyster Bay,Australia,IS_LOCATED_IN
+Oyster Bay,5488,HAS_POPULATION
+Oyster Bay,2225,HAS_POSTCODE
+Oyster Bay,lat:-34.0075,HAS_COORDINATES
+Oyster Bay,lon:151.075,HAS_COORDINATES
+Taren Point,suburb,IS_A
+Taren Point,Australia,IS_LOCATED_IN
+Taren Point,1734,HAS_POPULATION
+Taren Point,2229,HAS_POSTCODE
+Taren Point,lat:-34.0191,HAS_COORDINATES
+Taren Point,lon:151.12,HAS_COORDINATES
+Woolooware,suburb,IS_A
+Woolooware,Australia,IS_LOCATED_IN
+Woolooware,4210,HAS_POPULATION
+Woolooware,3962,HAS_POPULATION
+Woolooware,2230,HAS_POSTCODE
+Woolooware,lat:-34.0479,HAS_COORDINATES
+Woolooware,lon:151.141,HAS_COORDINATES
+Portland,suburb,IS_A
+Portland,human settlement,IS_A
+Portland,Australia,IS_LOCATED_IN
+Portland,2424,HAS_POPULATION
+Portland,2847,HAS_POSTCODE
+Portland,lat:-33.35,HAS_COORDINATES
+Portland,lon:149.983,HAS_COORDINATES
+Mount Colah,suburb,IS_A
+Mount Colah,Australia,IS_LOCATED_IN
+Mount Colah,7095,HAS_POPULATION
+Mount Colah,2079,HAS_POSTCODE
+Mount Colah,lat:-33.6638,HAS_COORDINATES
+Mount Colah,lon:151.113,HAS_COORDINATES
+Yowie Bay,suburb,IS_A
+Yowie Bay,Australia,IS_LOCATED_IN
+Yowie Bay,3074,HAS_POPULATION
+Yowie Bay,2228,HAS_POSTCODE
+Yowie Bay,lat:-34.049722222222,HAS_COORDINATES
+Yowie Bay,lon:151.10333333333,HAS_COORDINATES
+Blacktown,suburb,IS_A
+Blacktown,Australia,IS_LOCATED_IN
+Blacktown,47176,HAS_POPULATION
+Blacktown,2148,HAS_POSTCODE
+Blacktown,lat:-33.771,HAS_COORDINATES
+Blacktown,lon:150.906,HAS_COORDINATES
+Willoughby,suburb,IS_A
+Willoughby,Australia,IS_LOCATED_IN
+Willoughby,6540,HAS_POPULATION
+Willoughby,2068,HAS_POSTCODE
+Willoughby,lat:-33.8074,HAS_COORDINATES
+Willoughby,lon:151.201,HAS_COORDINATES
+Palm Beach,suburb,IS_A
+Palm Beach,Australia,IS_LOCATED_IN
+Palm Beach,1593,HAS_POPULATION
+Palm Beach,2108,HAS_POSTCODE
+Palm Beach,lat:-33.601111111111,HAS_COORDINATES
+Palm Beach,lon:151.32166666667,HAS_COORDINATES
+Whale Beach,suburb,IS_A
+Whale Beach,Australia,IS_LOCATED_IN
+Whale Beach,253,HAS_POPULATION
+Whale Beach,2107,HAS_POSTCODE
+Whale Beach,lat:-33.6127,HAS_COORDINATES
+Whale Beach,lon:151.327,HAS_COORDINATES
+Marrickville,suburb,IS_A
+Marrickville,Australia,IS_LOCATED_IN
+Marrickville,26592,HAS_POPULATION
+Marrickville,2204,HAS_POSTCODE
+Marrickville,lat:-33.905,HAS_COORDINATES
+Marrickville,lon:151.155,HAS_COORDINATES
+Stanmore,suburb,IS_A
+Stanmore,Australia,IS_LOCATED_IN
+Stanmore,7938,HAS_POPULATION
+Stanmore,2048,HAS_POSTCODE
+Stanmore,lat:-33.8942,HAS_COORDINATES
+Stanmore,lon:151.1644,HAS_COORDINATES
+Abbotsbury,suburb,IS_A
+Abbotsbury,Australia,IS_LOCATED_IN
+Abbotsbury,4194,HAS_POPULATION
+Abbotsbury,4253,HAS_POPULATION
+Abbotsbury,2176,HAS_POSTCODE
+Abbotsbury,lat:-33.875,HAS_COORDINATES
+Abbotsbury,lon:150.862,HAS_COORDINATES
+Abbotsford,suburb,IS_A
+Abbotsford,Australia,IS_LOCATED_IN
+Abbotsford,5373,HAS_POPULATION
+Abbotsford,2046,HAS_POSTCODE
+Abbotsford,lat:-33.8521,HAS_COORDINATES
+Abbotsford,lon:151.127,HAS_COORDINATES
+Glendenning,suburb,IS_A
+Glendenning,Australia,IS_LOCATED_IN
+Glendenning,5131,HAS_POPULATION
+Glendenning,2761,HAS_POSTCODE
+Glendenning,lat:-33.749,HAS_COORDINATES
+Glendenning,lon:150.851,HAS_COORDINATES
+Glenfield,suburb,IS_A
+Glenfield,Australia,IS_LOCATED_IN
+Glenfield,9633,HAS_POPULATION
+Glenfield,2167,HAS_POSTCODE
+Glenfield,lat:-33.965,HAS_COORDINATES
+Glenfield,lon:150.893,HAS_COORDINATES
+Glenfield Park,suburb,IS_A
+Glenfield Park,Australia,IS_LOCATED_IN
+Glenfield Park,5232,HAS_POPULATION
+Glenfield Park,2650,HAS_POSTCODE
+Glenfield Park,lat:-35.1361,HAS_COORDINATES
+Glenfield Park,lon:147.332,HAS_COORDINATES
+Glenhaven,suburb,IS_A
+Glenhaven,Australia,IS_LOCATED_IN
+Glenhaven,6501,HAS_POPULATION
+Glenhaven,2156,HAS_POSTCODE
+Glenhaven,lat:-33.7055,HAS_COORDINATES
+Glenhaven,lon:151.003,HAS_COORDINATES
+Glenmore Park,suburb,IS_A
+Glenmore Park,Australia,IS_LOCATED_IN
+Glenmore Park,23004,HAS_POPULATION
+Glenmore Park,2745,HAS_POSTCODE
+Glenmore Park,lat:-33.79,HAS_COORDINATES
+Glenmore Park,lon:150.676,HAS_COORDINATES
+Glenning Valley,suburb,IS_A
+Glenning Valley,Australia,IS_LOCATED_IN
+Glenning Valley,2019,HAS_POPULATION
+Glenning Valley,2261,HAS_POSTCODE
+Glenning Valley,lat:-33.348,HAS_COORDINATES
+Glenning Valley,lon:151.418,HAS_COORDINATES
+Glenorie,suburb,IS_A
+Glenorie,Australia,IS_LOCATED_IN
+Glenorie,3497,HAS_POPULATION
+Glenorie,2157,HAS_POSTCODE
+Glenorie,lat:-33.6022,HAS_COORDINATES
+Glenorie,lon:151.002,HAS_COORDINATES
+Glenworth Valley,suburb,IS_A
+Glenworth Valley,Australia,IS_LOCATED_IN
+Glenworth Valley,10,HAS_POPULATION
+Glenworth Valley,2250,HAS_POSTCODE
+Glenworth Valley,lat:-33.415,HAS_COORDINATES
+Glenworth Valley,lon:151.185,HAS_COORDINATES
+Glossodia,suburb,IS_A
+Glossodia,Australia,IS_LOCATED_IN
+Glossodia,2828,HAS_POPULATION
+Glossodia,2756,HAS_POSTCODE
+Glossodia,lat:-33.5343,HAS_COORDINATES
+Glossodia,lon:150.782,HAS_COORDINATES
+Googong,suburb,IS_A
+Googong,Australia,IS_LOCATED_IN
+Googong,2690,HAS_POPULATION
+Googong,2620,HAS_POSTCODE
+Googong,lat:-35.4333,HAS_COORDINATES
+Googong,lon:149.217,HAS_COORDINATES
+Gordon,suburb,IS_A
+Gordon,Australia,IS_LOCATED_IN
+Gordon,7668,HAS_POPULATION
+Gordon,2072,HAS_POSTCODE
+Gordon,lat:-33.7573,HAS_COORDINATES
+Gordon,lon:151.149,HAS_COORDINATES
+Gorokan,suburb,IS_A
+Gorokan,Australia,IS_LOCATED_IN
+Gorokan,8367,HAS_POPULATION
+Gorokan,2263,HAS_POSTCODE
+Gorokan,lat:-33.257,HAS_COORDINATES
+Gorokan,lon:151.518,HAS_COORDINATES
+Gosforth,suburb,IS_A
+Gosforth,Australia,IS_LOCATED_IN
+Gosforth,84,HAS_POPULATION
+Gosforth,2320,HAS_POSTCODE
+Gosforth,lat:-32.6486,HAS_COORDINATES
+Gosforth,lon:151.485,HAS_COORDINATES
+Granville,suburb,IS_A
+Granville,Australia,IS_LOCATED_IN
+Granville,15332,HAS_POPULATION
+Granville,2142,HAS_POSTCODE
+Granville,lat:-33.8404,HAS_COORDINATES
+Granville,lon:151.0079,HAS_COORDINATES
+Grasmere,suburb,IS_A
+Grasmere,geographic region,IS_A
+Grasmere,Australia,IS_LOCATED_IN
+Grasmere,1963,HAS_POPULATION
+Grasmere,2570,HAS_POSTCODE
+Grasmere,lat:-34.057,HAS_COORDINATES
+Grasmere,lon:150.667,HAS_COORDINATES
+Grays Point,suburb,IS_A
+Grays Point,Australia,IS_LOCATED_IN
+Grays Point,3125,HAS_POPULATION
+Grays Point,2232,HAS_POSTCODE
+Grays Point,lat:-34.0551,HAS_COORDINATES
+Grays Point,lon:151.075,HAS_COORDINATES
+Great Mackerel Beach,suburb,IS_A
+Great Mackerel Beach,Australia,IS_LOCATED_IN
+Great Mackerel Beach,36,HAS_POPULATION
+Great Mackerel Beach,2108,HAS_POSTCODE
+Great Mackerel Beach,lat:-33.5917,HAS_COORDINATES
+Great Mackerel Beach,lon:151.301,HAS_COORDINATES
+Green Point,suburb,IS_A
+Green Point,Australia,IS_LOCATED_IN
+Green Point,6405,HAS_POPULATION
+Green Point,2251,HAS_POSTCODE
+Green Point,lat:-33.465,HAS_COORDINATES
+Green Point,lon:151.36,HAS_COORDINATES
+Green Valley,suburb,IS_A
+Green Valley,Australia,IS_LOCATED_IN
+Green Valley,12516,HAS_POPULATION
+Green Valley,2168,HAS_POSTCODE
+Green Valley,lat:-33.906,HAS_COORDINATES
+Green Valley,lon:150.867,HAS_COORDINATES
+Greenfield Park,suburb,IS_A
+Greenfield Park,Australia,IS_LOCATED_IN
+Greenfield Park,5092,HAS_POPULATION
+Greenfield Park,2176,HAS_POSTCODE
+Greenfield Park,lat:-33.8768,HAS_COORDINATES
+Greenfield Park,lon:150.888,HAS_COORDINATES
+Greengrove,suburb,IS_A
+Greengrove,Australia,IS_LOCATED_IN
+Greengrove,20,HAS_POPULATION
+Greengrove,2250,HAS_POSTCODE
+Greengrove,lat:-33.39,HAS_COORDINATES
+Greengrove,lon:151.143,HAS_COORDINATES
+Greenleigh,suburb,IS_A
+Greenleigh,Australia,IS_LOCATED_IN
+Greenleigh,684,HAS_POPULATION
+Greenleigh,2620,HAS_POSTCODE
+Greenleigh,lat:-35.36111111,HAS_COORDINATES
+Greenleigh,lon:149.25444444,HAS_COORDINATES
+Greenwich,suburb,IS_A
+Greenwich,Australia,IS_LOCATED_IN
+Greenwich,5613,HAS_POPULATION
+Greenwich,2065,HAS_POSTCODE
+Greenwich,lat:-33.833,HAS_COORDINATES
+Greenwich,lon:151.184,HAS_COORDINATES
+Gregadoo,suburb,IS_A
+Gregadoo,Australia,IS_LOCATED_IN
+Gregadoo,239,HAS_POPULATION
+Gregadoo,2650,HAS_POSTCODE
+Gregadoo,lat:-35.2294,HAS_COORDINATES
+Gregadoo,lon:147.423,HAS_COORDINATES
+Gregory Hills,suburb,IS_A
+Gregory Hills,Australia,IS_LOCATED_IN
+Gregory Hills,4985,HAS_POPULATION
+Gregory Hills,2557,HAS_POSTCODE
+Gregory Hills,lat:-33.9917,HAS_COORDINATES
+Gregory Hills,lon:150.767,HAS_COORDINATES
+Greta,suburb,IS_A
+Greta,Australia,IS_LOCATED_IN
+Greta,2830,HAS_POPULATION
+Greta,2334,HAS_POSTCODE
+Greta,lat:-32.6872,HAS_COORDINATES
+Greta,lon:151.384,HAS_COORDINATES
+Grose Vale,suburb,IS_A
+Grose Vale,Australia,IS_LOCATED_IN
+Grose Vale,1265,HAS_POPULATION
+Grose Vale,2753,HAS_POSTCODE
+Grose Vale,lat:-33.584,HAS_COORDINATES
+Grose Vale,lon:150.674,HAS_COORDINATES
+Grose Wold,suburb,IS_A
+Grose Wold,Australia,IS_LOCATED_IN
+Grose Wold,635,HAS_POPULATION
+Grose Wold,2753,HAS_POSTCODE
+Grose Wold,lat:-33.5986,HAS_COORDINATES
+Grose Wold,lon:150.685,HAS_COORDINATES
+Guildford,suburb,IS_A
+Guildford,Australia,IS_LOCATED_IN
+Guildford,22331,HAS_POPULATION
+Guildford,2161,HAS_POSTCODE
+Guildford,lat:-33.85465,HAS_COORDINATES
+Guildford,lon:150.98408055556,HAS_COORDINATES
+Gumly Gumly,suburb,IS_A
+Gumly Gumly,Australia,IS_LOCATED_IN
+Gumly Gumly,312,HAS_POPULATION
+Gumly Gumly,2652,HAS_POSTCODE
+Gumly Gumly,lat:-35.1267,HAS_COORDINATES
+Gumly Gumly,lon:147.428,HAS_COORDINATES
+Gwandalan,suburb,IS_A
+Gwandalan,Australia,IS_LOCATED_IN
+Gwandalan,3273,HAS_POPULATION
+Gwandalan,2259,HAS_POSTCODE
+Gwandalan,lat:-33.132,HAS_COORDINATES
+Gwandalan,lon:151.585,HAS_COORDINATES
+Gwynneville,suburb,IS_A
+Gwynneville,Australia,IS_LOCATED_IN
+Gwynneville,3100,HAS_POPULATION
+Gwynneville,2500,HAS_POSTCODE
+Gwynneville,lat:-34.4161,HAS_COORDINATES
+Gwynneville,lon:150.884,HAS_COORDINATES
+Gymea,suburb,IS_A
+Gymea,Australia,IS_LOCATED_IN
+Gymea,7589,HAS_POPULATION
+Gymea,2227,HAS_POSTCODE
+Gymea,lat:-34.0333,HAS_COORDINATES
+Gymea,lon:151.086,HAS_COORDINATES
+Gymea Bay,suburb,IS_A
+Gymea Bay,Australia,IS_LOCATED_IN
+Gymea Bay,6892,HAS_POPULATION
+Gymea Bay,2227,HAS_POSTCODE
+Gymea Bay,lat:-34.0496,HAS_COORDINATES
+Gymea Bay,lon:151.086,HAS_COORDINATES
+Halekulani,suburb,IS_A
+Halekulani,Australia,IS_LOCATED_IN
+Halekulani,2538,HAS_POPULATION
+Halekulani,2262,HAS_POSTCODE
+Halekulani,lat:-33.219,HAS_COORDINATES
+Halekulani,lon:151.551,HAS_COORDINATES
+Hamilton,locality,IS_A
+Hamilton,suburb,IS_A
+Hamilton,Australia,IS_LOCATED_IN
+Hamilton,4229,HAS_POPULATION
+Hamilton,2303,HAS_POSTCODE
+Hamilton,lat:-32.915,HAS_COORDINATES
+Hamilton,lon:151.751,HAS_COORDINATES
+Hamilton South,suburb,IS_A
+Hamilton South,Australia,IS_LOCATED_IN
+Hamilton South,3876,HAS_POPULATION
+Hamilton South,2303,HAS_POSTCODE
+Hamilton South,lat:-32.931,HAS_COORDINATES
+Hamilton South,lon:151.751,HAS_COORDINATES
+Hamlyn Terrace,suburb,IS_A
+Hamlyn Terrace,Australia,IS_LOCATED_IN
+Hamlyn Terrace,6069,HAS_POPULATION
+Hamlyn Terrace,2259,HAS_POSTCODE
+Hamlyn Terrace,lat:-33.255,HAS_COORDINATES
+Hamlyn Terrace,lon:151.473,HAS_COORDINATES
+Hassall Grove,suburb,IS_A
+Hassall Grove,Australia,IS_LOCATED_IN
+Hassall Grove,4505,HAS_POPULATION
+Hassall Grove,2761,HAS_POSTCODE
+Hassall Grove,lat:-33.7333,HAS_COORDINATES
+Hassall Grove,lon:150.833,HAS_COORDINATES
+Seven Hills,suburb,IS_A
+Seven Hills,Australia,IS_LOCATED_IN
+Seven Hills,19326,HAS_POPULATION
+Seven Hills,2147,HAS_POSTCODE
+Seven Hills,lat:-33.7777,HAS_COORDINATES
+Seven Hills,lon:150.942,HAS_COORDINATES
+Heatherbrae,suburb,IS_A
+Heatherbrae,Australia,IS_LOCATED_IN
+Heatherbrae,512,HAS_POPULATION
+Heatherbrae,2324,HAS_POSTCODE
+Heatherbrae,lat:-32.7817,HAS_COORDINATES
+Heatherbrae,lon:151.734,HAS_COORDINATES
+Hebersham,suburb,IS_A
+Hebersham,Australia,IS_LOCATED_IN
+Hebersham,5685,HAS_POPULATION
+Hebersham,2770,HAS_POSTCODE
+Hebersham,lat:-33.7527,HAS_COORDINATES
+Hebersham,lon:150.983,HAS_COORDINATES
+Heckenberg,suburb,IS_A
+Heckenberg,Australia,IS_LOCATED_IN
+Heckenberg,3094,HAS_POPULATION
+Heckenberg,2168,HAS_POSTCODE
+Heckenberg,lat:-33.9107,HAS_COORDINATES
+Heckenberg,lon:150.889,HAS_COORDINATES
+Hillsborough,suburb,IS_A
+Hillsborough,Australia,IS_LOCATED_IN
+Hillsborough,652,HAS_POPULATION
+Hillsborough,2290,HAS_POSTCODE
+Hillsborough,lat:-32.949,HAS_COORDINATES
+Hillsborough,lon:151.668,HAS_COORDINATES
+Hinchinbrook,suburb,IS_A
+Hinchinbrook,Australia,IS_LOCATED_IN
+Hinchinbrook,11222,HAS_POPULATION
+Hinchinbrook,2168,HAS_POSTCODE
+Hinchinbrook,lat:-33.915,HAS_COORDINATES
+Hinchinbrook,lon:150.868,HAS_COORDINATES
+Lucas Heights,suburb,IS_A
+Lucas Heights,Australia,IS_LOCATED_IN
+Lucas Heights,0,HAS_POPULATION
+Lucas Heights,2234,HAS_POSTCODE
+Lucas Heights,lat:-34.049,HAS_COORDINATES
+Lucas Heights,lon:150.975,HAS_COORDINATES
+Hobartville,suburb,IS_A
+Hobartville,Australia,IS_LOCATED_IN
+Hobartville,2744,HAS_POPULATION
+Hobartville,2753,HAS_POSTCODE
+Hobartville,lat:-33.6046,HAS_COORDINATES
+Hobartville,lon:150.743,HAS_COORDINATES
+Holmesville,suburb,IS_A
+Holmesville,Australia,IS_LOCATED_IN
+Holmesville,1365,HAS_POPULATION
+Holmesville,2286,HAS_POSTCODE
+Holmesville,lat:-32.915,HAS_COORDINATES
+Holmesville,lon:151.568,HAS_COORDINATES
+Homebush West,suburb,IS_A
+Homebush West,Australia,IS_LOCATED_IN
+Homebush West,8609,HAS_POPULATION
+Homebush West,2140,HAS_POSTCODE
+Homebush West,lat:-33.868,HAS_COORDINATES
+Homebush West,lon:151.071,HAS_COORDINATES
+Horningsea Park,suburb,IS_A
+Horningsea Park,Australia,IS_LOCATED_IN
+Horningsea Park,3729,HAS_POPULATION
+Horningsea Park,2171,HAS_POSTCODE
+Horningsea Park,lat:-33.944,HAS_COORDINATES
+Horningsea Park,lon:150.844,HAS_COORDINATES
+Horsfield Bay,suburb,IS_A
+Horsfield Bay,Australia,IS_LOCATED_IN
+Horsfield Bay,544,HAS_POPULATION
+Horsfield Bay,2256,HAS_POSTCODE
+Horsfield Bay,lat:-33.492,HAS_COORDINATES
+Horsfield Bay,lon:151.304,HAS_COORDINATES
+Horsley,suburb,IS_A
+Horsley,Australia,IS_LOCATED_IN
+Horsley,8221,HAS_POPULATION
+Horsley,2530,HAS_POSTCODE
+Horsley,lat:-34.4833,HAS_COORDINATES
+Horsley,lon:150.767,HAS_COORDINATES
+Horsley Park,suburb,IS_A
+Horsley Park,Australia,IS_LOCATED_IN
+Horsley Park,1837,HAS_POPULATION
+Horsley Park,2175,HAS_POSTCODE
+Horsley Park,lat:-33.8583,HAS_COORDINATES
+Horsley Park,lon:150.855,HAS_COORDINATES
+Horsley Park,lat:-33.84322,HAS_COORDINATES
+Horsley Park,lon:150.84889,HAS_COORDINATES
+Hunters Hill,suburb,IS_A
+Hunters Hill,Australia,IS_LOCATED_IN
+Hunters Hill,9528,HAS_POPULATION
+Hunters Hill,2110,HAS_POSTCODE
+Hunters Hill,lat:-33.8337,HAS_COORDINATES
+Hunters Hill,lon:151.144,HAS_COORDINATES
+Huntingwood,suburb,IS_A
+Huntingwood,Australia,IS_LOCATED_IN
+Huntingwood,0,HAS_POPULATION
+Huntingwood,2148,HAS_POSTCODE
+Huntingwood,lat:-33.799,HAS_COORDINATES
+Huntingwood,lon:150.885,HAS_COORDINATES
+Huntleys Point,suburb,IS_A
+Huntleys Point,Australia,IS_LOCATED_IN
+Huntleys Point,144,HAS_POPULATION
+Huntleys Point,2111,HAS_POSTCODE
+Huntleys Point,lat:-33.839,HAS_COORDINATES
+Huntleys Point,lon:151.147,HAS_COORDINATES
+Huntleys Point,lat:-33.84046,HAS_COORDINATES
+Huntleys Point,lon:151.14016,HAS_COORDINATES
+Hyams Beach,suburb,IS_A
+Hyams Beach,Australia,IS_LOCATED_IN
+Hyams Beach,112,HAS_POPULATION
+Hyams Beach,2540,HAS_POSTCODE
+Hyams Beach,lat:-35.10025,HAS_COORDINATES
+Hyams Beach,lon:150.69191,HAS_COORDINATES
+Hyams Beach,lat:-35.0985,HAS_COORDINATES
+Hyams Beach,lon:150.7012,HAS_COORDINATES
+Illawong,suburb,IS_A
+Illawong,Australia,IS_LOCATED_IN
+Illawong,7271,HAS_POPULATION
+Illawong,2234,HAS_POSTCODE
+Illawong,lat:-34.0006,HAS_COORDINATES
+Illawong,lon:151.036,HAS_COORDINATES
+Ingleburn,suburb,IS_A
+Ingleburn,Australia,IS_LOCATED_IN
+Ingleburn,15039,HAS_POPULATION
+Ingleburn,2565,HAS_POSTCODE
+Ingleburn,lat:-33.9856,HAS_COORDINATES
+Ingleburn,lon:150.854,HAS_COORDINATES
+Ingleside,suburb,IS_A
+Ingleside,Australia,IS_LOCATED_IN
+Ingleside,974,HAS_POPULATION
+Ingleside,2101,HAS_POSTCODE
+Ingleside,lat:-33.6823,HAS_COORDINATES
+Ingleside,lon:151.263,HAS_COORDINATES
+Ingleside,lat:-33.68462,HAS_COORDINATES
+Ingleside,lon:151.26354,HAS_COORDINATES
+Islington,suburb,IS_A
+Islington,Australia,IS_LOCATED_IN
+Islington,1883,HAS_POPULATION
+Islington,2296,HAS_POSTCODE
+Islington,lat:-32.9158,HAS_COORDINATES
+Islington,lon:151.746,HAS_COORDINATES
+Jamisontown,suburb,IS_A
+Jamisontown,Australia,IS_LOCATED_IN
+Jamisontown,5500,HAS_POPULATION
+Jamisontown,2750,HAS_POSTCODE
+Jamisontown,lat:-33.7683,HAS_COORDINATES
+Jamisontown,lon:150.672,HAS_COORDINATES
+Jannali,suburb,IS_A
+Jannali,Australia,IS_LOCATED_IN
+Jannali,6184,HAS_POPULATION
+Jannali,2226,HAS_POSTCODE
+Jannali,lat:-34.0169,HAS_COORDINATES
+Jannali,lon:151.065,HAS_COORDINATES
+Jilliby,suburb,IS_A
+Jilliby,Australia,IS_LOCATED_IN
+Jilliby,1646,HAS_POPULATION
+Jilliby,2259,HAS_POSTCODE
+Jilliby,lat:-33.249,HAS_COORDINATES
+Jilliby,lon:151.385,HAS_COORDINATES
+Monterey,suburb,IS_A
+Monterey,Australia,IS_LOCATED_IN
+Monterey,4532,HAS_POPULATION
+Monterey,2217,HAS_POSTCODE
+Monterey,lat:-33.9738,HAS_COORDINATES
+Monterey,lon:151.148,HAS_COORDINATES
+Waterfall,suburb,IS_A
+Waterfall,Australia,IS_LOCATED_IN
+Waterfall,494,HAS_POPULATION
+Waterfall,2233,HAS_POSTCODE
+Waterfall,lat:-34.1333,HAS_COORDINATES
+Waterfall,lon:151,HAS_COORDINATES
+Pennant Hills,suburb,IS_A
+Pennant Hills,Australia,IS_LOCATED_IN
+Pennant Hills,7287,HAS_POPULATION
+Pennant Hills,2120,HAS_POSTCODE
+Pennant Hills,lat:-33.7424,HAS_COORDINATES
+Pennant Hills,lon:151.066,HAS_COORDINATES
+Sefton,suburb,IS_A
+Sefton,Australia,IS_LOCATED_IN
+Sefton,5808,HAS_POPULATION
+Sefton,2162,HAS_POSTCODE
+Sefton,lat:-33.8884,HAS_COORDINATES
+Sefton,lon:151.007,HAS_COORDINATES
+Rozelle,suburb,IS_A
+Rozelle,Australia,IS_LOCATED_IN
+Rozelle,8725,HAS_POPULATION
+Rozelle,2039,HAS_POSTCODE
+Rozelle,lat:-33.8649,HAS_COORDINATES
+Rozelle,lon:151.167,HAS_COORDINATES
+Riverview,suburb,IS_A
+Riverview,Australia,IS_LOCATED_IN
+Riverview,3354,HAS_POPULATION
+Riverview,2066,HAS_POSTCODE
+Riverview,lat:-33.8247,HAS_COORDINATES
+Riverview,lon:151.162,HAS_COORDINATES
+Riverwood,suburb,IS_A
+Riverwood,Australia,IS_LOCATED_IN
+Riverwood,12103,HAS_POPULATION
+Riverwood,2210,HAS_POSTCODE
+Riverwood,lat:-33.95,HAS_COORDINATES
+Riverwood,lon:151.05,HAS_COORDINATES
+Roselands,suburb,IS_A
+Roselands,Australia,IS_LOCATED_IN
+Roselands,11579,HAS_POPULATION
+Roselands,2196,HAS_POSTCODE
+Roselands,lat:-33.9317,HAS_COORDINATES
+Roselands,lon:151.085,HAS_COORDINATES
+Punchbowl,suburb,IS_A
+Punchbowl,Australia,IS_LOCATED_IN
+Punchbowl,20236,HAS_POPULATION
+Punchbowl,2196,HAS_POSTCODE
+Punchbowl,lat:-33.9333,HAS_COORDINATES
+Punchbowl,lon:151.05,HAS_COORDINATES
+Mortlake,suburb,IS_A
+Mortlake,Australia,IS_LOCATED_IN
+Mortlake,1063,HAS_POPULATION
+Mortlake,2137,HAS_POSTCODE
+Mortlake,lat:-33.8437,HAS_COORDINATES
+Mortlake,lon:151.106,HAS_COORDINATES
+Tempe,suburb,IS_A
+Tempe,Australia,IS_LOCATED_IN
+Tempe,3556,HAS_POPULATION
+Tempe,2044,HAS_POSTCODE
+Tempe,lat:-33.9252,HAS_COORDINATES
+Tempe,lon:151.158,HAS_COORDINATES
+South Hurstville,suburb,IS_A
+South Hurstville,Australia,IS_LOCATED_IN
+South Hurstville,5147,HAS_POPULATION
+South Hurstville,2221,HAS_POSTCODE
+South Hurstville,lat:-33.98,HAS_COORDINATES
+South Hurstville,lon:151.104,HAS_COORDINATES
+Hurstville Grove,suburb,IS_A
+Hurstville Grove,Australia,IS_LOCATED_IN
+Hurstville Grove,2663,HAS_POPULATION
+Hurstville Grove,2220,HAS_POSTCODE
+Hurstville Grove,lat:-33.9797,HAS_COORDINATES
+Hurstville Grove,lon:151.093,HAS_COORDINATES
+Potts Hill,suburb,IS_A
+Potts Hill,Australia,IS_LOCATED_IN
+Potts Hill,893,HAS_POPULATION
+Potts Hill,2143,HAS_POSTCODE
+Potts Hill,lat:-33.89,HAS_COORDINATES
+Potts Hill,lon:151.03,HAS_COORDINATES
+Lakemba,suburb,IS_A
+Lakemba,Australia,IS_LOCATED_IN
+Lakemba,17023,HAS_POPULATION
+Lakemba,2195,HAS_POSTCODE
+Lakemba,lat:-33.9317,HAS_COORDINATES
+Lakemba,lon:151.085,HAS_COORDINATES
+Kings Langley,suburb,IS_A
+Kings Langley,Australia,IS_LOCATED_IN
+Kings Langley,9353,HAS_POPULATION
+Kings Langley,2147,HAS_POSTCODE
+Kings Langley,lat:-33.75,HAS_COORDINATES
+Kings Langley,lon:150.917,HAS_COORDINATES
+St Peters,suburb,IS_A
+St Peters,Australia,IS_LOCATED_IN
+St Peters,3145,HAS_POPULATION
+St Peters,2044,HAS_POSTCODE
+St Peters,lat:-33.9095,HAS_COORDINATES
+St Peters,lon:151.177,HAS_COORDINATES
+St Leonards,suburb,IS_A
+St Leonards,Australia,IS_LOCATED_IN
+St Leonards,5495,HAS_POPULATION
+St Leonards,2065,HAS_POSTCODE
+St Leonards,lat:-33.8261,HAS_COORDINATES
+St Leonards,lon:151.19,HAS_COORDINATES
+Kingsgrove,suburb,IS_A
+Kingsgrove,Australia,IS_LOCATED_IN
+Kingsgrove,12446,HAS_POPULATION
+Kingsgrove,2208,HAS_POSTCODE
+Kingsgrove,lat:-33.9391,HAS_COORDINATES
+Kingsgrove,lon:151.101,HAS_COORDINATES
+Kogarah Bay,suburb,IS_A
+Kogarah Bay,Australia,IS_LOCATED_IN
+Kogarah Bay,2022,HAS_POPULATION
+Kogarah Bay,2217,HAS_POSTCODE
+Kogarah Bay,lat:-33.9834,HAS_COORDINATES
+Kogarah Bay,lon:151.122,HAS_COORDINATES
+Kogarah Bay,lat:-33.97951,HAS_COORDINATES
+Kogarah Bay,lon:151.12119,HAS_COORDINATES
+Woolwich,suburb,IS_A
+Woolwich,Australia,IS_LOCATED_IN
+Woolwich,814,HAS_POPULATION
+Woolwich,2110,HAS_POSTCODE
+Woolwich,lat:-33.8417,HAS_COORDINATES
+Woolwich,lon:151.17,HAS_COORDINATES
+Sans Souci,suburb,IS_A
+Sans Souci,Australia,IS_LOCATED_IN
+Sans Souci,10304,HAS_POPULATION
+Sans Souci,2219,HAS_POSTCODE
+Sans Souci,lat:-33.989,HAS_COORDINATES
+Sans Souci,lon:151.139,HAS_COORDINATES
+Turrella,suburb,IS_A
+Turrella,Australia,IS_LOCATED_IN
+Turrella,2511,HAS_POPULATION
+Turrella,2205,HAS_POSTCODE
+Turrella,lat:-33.933,HAS_COORDINATES
+Turrella,lon:151.141,HAS_COORDINATES
+Sydenham,suburb,IS_A
+Sydenham,Australia,IS_LOCATED_IN
+Sydenham,1145,HAS_POPULATION
+Sydenham,2044,HAS_POSTCODE
+Sydenham,lat:-33.9181,HAS_COORDINATES
+Sydenham,lon:151.163,HAS_COORDINATES
+Kyle Bay,suburb,IS_A
+Kyle Bay,Australia,IS_LOCATED_IN
+Kyle Bay,1035,HAS_POPULATION
+Kyle Bay,2221,HAS_POSTCODE
+Kyle Bay,lat:-33.9892,HAS_COORDINATES
+Kyle Bay,lon:151.095,HAS_COORDINATES
+Kanahooka,suburb,IS_A
+Kanahooka,Australia,IS_LOCATED_IN
+Kanahooka,5575,HAS_POPULATION
+Kanahooka,2530,HAS_POSTCODE
+Kanahooka,lat:-34.4917,HAS_COORDINATES
+Kanahooka,lon:150.808,HAS_COORDINATES
+Kangaroo Point,suburb,IS_A
+Kangaroo Point,Australia,IS_LOCATED_IN
+Kangaroo Point,560,HAS_POPULATION
+Kangaroo Point,2224,HAS_POSTCODE
+Kangaroo Point,lat:-34.002,HAS_COORDINATES
+Kangaroo Point,lon:151.096,HAS_COORDINATES
+Kangy Angy,suburb,IS_A
+Kangy Angy,Australia,IS_LOCATED_IN
+Kangy Angy,306,HAS_POPULATION
+Kangy Angy,2258,HAS_POSTCODE
+Kangy Angy,lat:-33.324,HAS_COORDINATES
+Kangy Angy,lon:151.385,HAS_COORDINATES
+Kanwal,suburb,IS_A
+Kanwal,Australia,IS_LOCATED_IN
+Kanwal,4099,HAS_POPULATION
+Kanwal,2259,HAS_POSTCODE
+Kanwal,lat:-33.265,HAS_COORDINATES
+Kanwal,lon:151.485,HAS_COORDINATES
+Kareela,suburb,IS_A
+Kareela,Australia,IS_LOCATED_IN
+Kareela,3459,HAS_POPULATION
+Kareela,2232,HAS_POSTCODE
+Kareela,lat:-34.015,HAS_COORDINATES
+Kareela,lon:151.08,HAS_COORDINATES
+Kearns,suburb,IS_A
+Kearns,Australia,IS_LOCATED_IN
+Kearns,2745,HAS_POPULATION
+Kearns,2558,HAS_POSTCODE
+Kearns,lat:-34.0237,HAS_COORDINATES
+Kearns,lon:150.806,HAS_COORDINATES
+Kellyville,suburb,IS_A
+Kellyville,Australia,IS_LOCATED_IN
+Kellyville,27971,HAS_POPULATION
+Kellyville,2155,HAS_POSTCODE
+Kellyville,lat:-33.7105,HAS_COORDINATES
+Kellyville,lon:150.951,HAS_COORDINATES
+Kellyville Ridge,suburb,IS_A
+Kellyville Ridge,Australia,IS_LOCATED_IN
+Kellyville Ridge,10468,HAS_POPULATION
+Kellyville Ridge,2155,HAS_POSTCODE
+Kellyville Ridge,lat:-33.703,HAS_COORDINATES
+Kellyville Ridge,lon:150.919,HAS_COORDINATES
+Kembla Heights,locality,IS_A
+Kembla Heights,suburb,IS_A
+Kembla Heights,Australia,IS_LOCATED_IN
+Kembla Heights,119,HAS_POPULATION
+Kembla Heights,2526,HAS_POSTCODE
+Kembla Heights,lat:-34.4306,HAS_COORDINATES
+Kembla Heights,lon:150.807,HAS_COORDINATES
+Kemblawarra,suburb,IS_A
+Kemblawarra,Australia,IS_LOCATED_IN
+Kemblawarra,2505,HAS_POSTCODE
+Kemblawarra,lat:-34.4917,HAS_COORDINATES
+Kemblawarra,lon:150.892,HAS_COORDINATES
+Kenthurst,suburb,IS_A
+Kenthurst,Australia,IS_LOCATED_IN
+Kenthurst,5037,HAS_POPULATION
+Kenthurst,2156,HAS_POSTCODE
+Kenthurst,lat:-33.6693,HAS_COORDINATES
+Kenthurst,lon:151.002,HAS_COORDINATES
+Eastwood,suburb,IS_A
+Eastwood,Australia,IS_LOCATED_IN
+Eastwood,17865,HAS_POPULATION
+Eastwood,2122,HAS_POSTCODE
+Eastwood,lat:-33.7904,HAS_COORDINATES
+Eastwood,lon:151.082,HAS_COORDINATES
+Cottage Point,suburb,IS_A
+Cottage Point,Australia,IS_LOCATED_IN
+Cottage Point,98,HAS_POPULATION
+Cottage Point,2084,HAS_POSTCODE
+Cottage Point,lat:-33.6209,HAS_COORDINATES
+Cottage Point,lon:151.202,HAS_COORDINATES
+Gladesville,suburb,IS_A
+Gladesville,Australia,IS_LOCATED_IN
+Gladesville,11827,HAS_POPULATION
+Gladesville,2111,HAS_POSTCODE
+Gladesville,lat:-33.8333,HAS_COORDINATES
+Gladesville,lon:151.117,HAS_COORDINATES
+Epping,suburb,IS_A
+Epping,Australia,IS_LOCATED_IN
+Epping,23688,HAS_POPULATION
+Epping,2121,HAS_POSTCODE
+Epping,lat:-33.7746,HAS_COORDINATES
+Epping,lon:151.079,HAS_COORDINATES
+Rose Bay,suburb,IS_A
+Rose Bay,Australia,IS_LOCATED_IN
+Rose Bay,10053,HAS_POPULATION
+Rose Bay,2029,HAS_POSTCODE
+Rose Bay,lat:-33.87521,HAS_COORDINATES
+Rose Bay,lon:151.25557,HAS_COORDINATES
+Watsons Bay,suburb,IS_A
+Watsons Bay,Australia,IS_LOCATED_IN
+Watsons Bay,918,HAS_POPULATION
+Watsons Bay,850,HAS_POPULATION
+Watsons Bay,2030,HAS_POSTCODE
+Watsons Bay,lat:-33.85,HAS_COORDINATES
+Watsons Bay,lon:151.26666667,HAS_COORDINATES
+Ryde,suburb,IS_A
+Ryde,Australia,IS_LOCATED_IN
+Ryde,26499,HAS_POPULATION
+Ryde,2112,HAS_POSTCODE
+Ryde,lat:-33.815277777778,HAS_COORDINATES
+Ryde,lon:151.10111111111,HAS_COORDINATES
+Hornsby,suburb,IS_A
+Hornsby,Australia,IS_LOCATED_IN
+Hornsby,19863,HAS_POPULATION
+Hornsby,22168,HAS_POPULATION
+Hornsby,2077,HAS_POSTCODE
+Hornsby,lat:-33.7049,HAS_COORDINATES
+Hornsby,lon:151.09901,HAS_COORDINATES
+Newport,suburb,IS_A
+Newport,Australia,IS_LOCATED_IN
+Newport,9301,HAS_POPULATION
+Newport,2106,HAS_POSTCODE
+Newport,lat:-33.6564,HAS_COORDINATES
+Newport,lon:151.314,HAS_COORDINATES
+Darlinghurst,suburb,IS_A
+Darlinghurst,Australia,IS_LOCATED_IN
+Darlinghurst,11320,HAS_POPULATION
+Darlinghurst,2010,HAS_POSTCODE
+Darlinghurst,lat:-33.8833,HAS_COORDINATES
+Darlinghurst,lon:151.225,HAS_COORDINATES
+Redfern,suburb,IS_A
+Redfern,Australia,IS_LOCATED_IN
+Redfern,13213,HAS_POPULATION
+Redfern,2016,HAS_POSTCODE
+Redfern,lat:-33.89334,HAS_COORDINATES
+Redfern,lon:151.20461,HAS_COORDINATES
+Paddington,suburb,IS_A
+Paddington,Australia,IS_LOCATED_IN
+Paddington,12911,HAS_POPULATION
+Paddington,2021,HAS_POSTCODE
+Paddington,lat:-33.8848,HAS_COORDINATES
+Paddington,lon:151.226,HAS_COORDINATES
+Burwood,suburb,IS_A
+Burwood,Australia,IS_LOCATED_IN
+Burwood,16030,HAS_POPULATION
+Burwood,2134,HAS_POSTCODE
+Burwood,lat:-33.8772,HAS_COORDINATES
+Burwood,lon:151.105,HAS_COORDINATES
+Beverly Hills,suburb,IS_A
+Beverly Hills,Australia,IS_LOCATED_IN
+Beverly Hills,10156,HAS_POPULATION
+Beverly Hills,2209,HAS_POSTCODE
+Beverly Hills,lat:-33.9513,HAS_COORDINATES
+Beverly Hills,lon:151.07938,HAS_COORDINATES
+Narwee,suburb,IS_A
+Narwee,Australia,IS_LOCATED_IN
+Narwee,5618,HAS_POPULATION
+Narwee,2209,HAS_POSTCODE
+Narwee,lat:-33.9476,HAS_COORDINATES
+Narwee,lon:151.071,HAS_COORDINATES
+Chipping Norton,suburb,IS_A
+Chipping Norton,Australia,IS_LOCATED_IN
+Chipping Norton,9001,HAS_POPULATION
+Chipping Norton,2170,HAS_POSTCODE
+Chipping Norton,lat:-33.869444444444,HAS_COORDINATES
+Chipping Norton,lon:151.20833333333,HAS_COORDINATES
+Fitzroy Falls,suburb,IS_A
+Fitzroy Falls,Australia,IS_LOCATED_IN
+Fitzroy Falls,216,HAS_POPULATION
+Fitzroy Falls,2577,HAS_POSTCODE
+Fitzroy Falls,lat:-34.65,HAS_COORDINATES
+Fitzroy Falls,lon:150.48333333333,HAS_COORDINATES
+Centennial Park,suburb,IS_A
+Centennial Park,urban park,IS_A
+Centennial Park,Australia,IS_LOCATED_IN
+Centennial Park,2376,HAS_POPULATION
+Centennial Park,2021,HAS_POSTCODE
+Centennial Park,lat:-33.9011,HAS_COORDINATES
+Centennial Park,lon:151.23,HAS_COORDINATES
+Sydney Olympic Park,suburb,IS_A
+Sydney Olympic Park,precinct,IS_A
+Sydney Olympic Park,Australia,IS_LOCATED_IN
+Sydney Olympic Park,1736,HAS_POPULATION
+Sydney Olympic Park,2127,HAS_POSTCODE
+Sydney Olympic Park,lat:-33.848,HAS_COORDINATES
+Sydney Olympic Park,lon:151.065,HAS_COORDINATES
+Cabramatta,suburb,IS_A
+Cabramatta,Australia,IS_LOCATED_IN
+Cabramatta,21783,HAS_POPULATION
+Cabramatta,2166,HAS_POSTCODE
+Cabramatta,lat:-33.894444444444,HAS_COORDINATES
+Cabramatta,lon:150.9375,HAS_COORDINATES
+Rodd Point,suburb,IS_A
+Rodd Point,Australia,IS_LOCATED_IN
+Rodd Point,1376,HAS_POPULATION
+Rodd Point,2046,HAS_POSTCODE
+Rodd Point,lat:-33.8661,HAS_COORDINATES
+Rodd Point,lon:151.144,HAS_COORDINATES
+Five Dock,suburb,IS_A
+Five Dock,Australia,IS_LOCATED_IN
+Five Dock,9356,HAS_POPULATION
+Five Dock,2046,HAS_POSTCODE
+Five Dock,lat:-33.8651,HAS_COORDINATES
+Five Dock,lon:151.129,HAS_COORDINATES
+Barangaroo,suburb,IS_A
+Barangaroo,Australia,IS_LOCATED_IN
+Barangaroo,189,HAS_POPULATION
+Barangaroo,2000,HAS_POSTCODE
+Barangaroo,lat:-33.8611,HAS_COORDINATES
+Barangaroo,lon:151.203,HAS_COORDINATES
+Bondi Beach,suburb,IS_A
+Bondi Beach,Australia,IS_LOCATED_IN
+Bondi Beach,11656,HAS_POPULATION
+Bondi Beach,2026,HAS_POSTCODE
+Bondi Beach,lat:-33.8925,HAS_COORDINATES
+Bondi Beach,lon:151.278611,HAS_COORDINATES
+Bondi Beach,lat:-33.89103,HAS_COORDINATES
+Bondi Beach,lon:151.27157,HAS_COORDINATES
+Clemton Park,suburb,IS_A
+Clemton Park,Australia,IS_LOCATED_IN
+Clemton Park,1666,HAS_POPULATION
+Clemton Park,2206,HAS_POSTCODE
+Clemton Park,lat:-33.93,HAS_COORDINATES
+Clemton Park,lon:151.106,HAS_COORDINATES
+Lewisham,suburb,IS_A
+Lewisham,Australia,IS_LOCATED_IN
+Lewisham,3164,HAS_POPULATION
+Lewisham,2049,HAS_POSTCODE
+Lewisham,lat:-33.8949,HAS_COORDINATES
+Lewisham,lon:151.144,HAS_COORDINATES
+Lewisham,lat:-33.89719,HAS_COORDINATES
+Lewisham,lon:151.14883,HAS_COORDINATES
+Auburn,suburb,IS_A
+Auburn,Australia,IS_LOCATED_IN
+Auburn,37366,HAS_POPULATION
+Auburn,2144,HAS_POSTCODE
+Auburn,lat:-33.8656,HAS_COORDINATES
+Auburn,lon:151.024,HAS_COORDINATES
+Cremorne,suburb,IS_A
+Cremorne,Australia,IS_LOCATED_IN
+Cremorne,11048,HAS_POPULATION
+Cremorne,11227,HAS_POPULATION
+Cremorne,2090,HAS_POSTCODE
+Cremorne,lat:-33.8335,HAS_COORDINATES
+Cremorne,lon:151.227,HAS_COORDINATES
+Wentworth Point,suburb,IS_A
+Wentworth Point,Australia,IS_LOCATED_IN
+Wentworth Point,6994,HAS_POPULATION
+Wentworth Point,2127,HAS_POSTCODE
+Wentworth Point,lat:-33.848,HAS_COORDINATES
+Wentworth Point,lon:151.065,HAS_COORDINATES
+Avalon Beach,suburb,IS_A
+Avalon Beach,Australia,IS_LOCATED_IN
+Avalon Beach,9905,HAS_POPULATION
+Avalon Beach,2107,HAS_POSTCODE
+Avalon Beach,lat:-33.633580555556,HAS_COORDINATES
+Avalon Beach,lon:151.33256944444,HAS_COORDINATES
+Penshurst,suburb,IS_A
+Penshurst,Australia,IS_LOCATED_IN
+Penshurst,12786,HAS_POPULATION
+Penshurst,2222,HAS_POSTCODE
+Penshurst,lat:-33.9655,HAS_COORDINATES
+Penshurst,lon:151.095,HAS_COORDINATES
+Blackwall,suburb,IS_A
+Blackwall,Australia,IS_LOCATED_IN
+Blackwall,1888,HAS_POPULATION
+Blackwall,2256,HAS_POSTCODE
+Blackwall,lat:-33.503,HAS_COORDINATES
+Blackwall,lon:151.326,HAS_COORDINATES
+Bondi,suburb,IS_A
+Bondi,Australia,IS_LOCATED_IN
+Bondi,10045,HAS_POPULATION
+Bondi,2026,HAS_POSTCODE
+Bondi,lat:-33.8919,HAS_COORDINATES
+Bondi,lon:151.261,HAS_COORDINATES
+Bondi Junction,suburb,IS_A
+Bondi Junction,Australia,IS_LOCATED_IN
+Bondi Junction,9445,HAS_POPULATION
+Bondi Junction,2022,HAS_POSTCODE
+Bondi Junction,lat:-33.8914,HAS_COORDINATES
+Bondi Junction,lon:151.25,HAS_COORDINATES
+Randwick,suburb,IS_A
+Randwick,Australia,IS_LOCATED_IN
+Randwick,29986,HAS_POPULATION
+Randwick,2031,HAS_POSTCODE
+Randwick,lat:-33.9164,HAS_COORDINATES
+Randwick,lon:151.237,HAS_COORDINATES
+Lane Cove,suburb,IS_A
+Lane Cove,Australia,IS_LOCATED_IN
+Lane Cove,10817,HAS_POPULATION
+Lane Cove,2066,HAS_POSTCODE
+Lane Cove,lat:-33.8169,HAS_COORDINATES
+Lane Cove,lon:151.169,HAS_COORDINATES
+Haberfield,suburb,IS_A
+Haberfield,Australia,IS_LOCATED_IN
+Haberfield,6457,HAS_POPULATION
+Haberfield,2045,HAS_POSTCODE
+Haberfield,lat:-33.8833,HAS_COORDINATES
+Haberfield,lon:151.142,HAS_COORDINATES
+Campbelltown,suburb,IS_A
+Campbelltown,city,IS_A
+Campbelltown,Australia,IS_LOCATED_IN
+Campbelltown,12566,HAS_POPULATION
+Campbelltown,2360,HAS_POSTCODE
+Campbelltown,lat:-34.065,HAS_COORDINATES
+Campbelltown,lon:150.814,HAS_COORDINATES
+Mona Vale,suburb,IS_A
+Mona Vale,Australia,IS_LOCATED_IN
+Mona Vale,10670,HAS_POPULATION
+Mona Vale,2103,HAS_POSTCODE
+Mona Vale,lat:-33.676,HAS_COORDINATES
+Mona Vale,lon:151.307,HAS_COORDINATES
+Alfords Point,suburb,IS_A
+Alfords Point,Australia,IS_LOCATED_IN
+Alfords Point,3109,HAS_POPULATION
+Alfords Point,2234,HAS_POSTCODE
+Alfords Point,lat:-33.9848,HAS_COORDINATES
+Alfords Point,lon:151.021,HAS_COORDINATES
+Arndell Park,suburb,IS_A
+Arndell Park,Australia,IS_LOCATED_IN
+Arndell Park,27,HAS_POPULATION
+Arndell Park,2148,HAS_POSTCODE
+Arndell Park,lat:-33.79,HAS_COORDINATES
+Arndell Park,lon:150.876,HAS_COORDINATES
+Allambie Heights,suburb,IS_A
+Allambie Heights,Australia,IS_LOCATED_IN
+Allambie Heights,7009,HAS_POPULATION
+Allambie Heights,2100,HAS_POSTCODE
+Allambie Heights,lat:-33.7624,HAS_COORDINATES
+Allambie Heights,lon:151.25,HAS_COORDINATES
+Artarmon,suburb,IS_A
+Artarmon,Australia,IS_LOCATED_IN
+Artarmon,9523,HAS_POPULATION
+Artarmon,2064,HAS_POSTCODE
+Artarmon,lat:-33.8089,HAS_COORDINATES
+Artarmon,lon:151.183,HAS_COORDINATES
+Petersham,suburb,IS_A
+Petersham,Australia,IS_LOCATED_IN
+Petersham,8116,HAS_POPULATION
+Petersham,2049,HAS_POSTCODE
+Petersham,lat:-33.8961,HAS_COORDINATES
+Petersham,lon:151.154,HAS_COORDINATES
+Ambarvale,suburb,IS_A
+Ambarvale,Australia,IS_LOCATED_IN
+Ambarvale,7374,HAS_POPULATION
+Ambarvale,2560,HAS_POSTCODE
+Ambarvale,lat:-34.0833,HAS_COORDINATES
+Ambarvale,lon:150.801,HAS_COORDINATES
+Agnes Banks,suburb,IS_A
+Agnes Banks,Australia,IS_LOCATED_IN
+Agnes Banks,911,HAS_POPULATION
+Agnes Banks,2753,HAS_POSTCODE
+Agnes Banks,lat:-33.6153,HAS_COORDINATES
+Agnes Banks,lon:150.716,HAS_COORDINATES
+Allawah,suburb,IS_A
+Allawah,Australia,IS_LOCATED_IN
+Allawah,5706,HAS_POPULATION
+Allawah,2218,HAS_POSTCODE
+Allawah,lat:-33.9749,HAS_COORDINATES
+Allawah,lon:151.1167,HAS_COORDINATES
+Acacia Gardens,suburb,IS_A
+Acacia Gardens,Australia,IS_LOCATED_IN
+Acacia Gardens,3798,HAS_POPULATION
+Acacia Gardens,2763,HAS_POSTCODE
+Acacia Gardens,lat:-33.7322,HAS_COORDINATES
+Acacia Gardens,lon:150.917,HAS_COORDINATES
+Annangrove,suburb,IS_A
+Annangrove,Australia,IS_LOCATED_IN
+Annangrove,1397,HAS_POPULATION
+Annangrove,2156,HAS_POSTCODE
+Annangrove,lat:-33.6525,HAS_COORDINATES
+Annangrove,lon:150.941,HAS_COORDINATES
+Airds,suburb,IS_A
+Airds,Australia,IS_LOCATED_IN
+Airds,2926,HAS_POPULATION
+Airds,2560,HAS_POSTCODE
+Airds,lat:-34.0916,HAS_COORDINATES
+Airds,lon:150.825,HAS_COORDINATES
+Carss Park,suburb,IS_A
+Carss Park,Australia,IS_LOCATED_IN
+Carss Park,1252,HAS_POPULATION
+Carss Park,2221,HAS_POSTCODE
+Carss Park,lat:-33.9872,HAS_COORDINATES
+Carss Park,lon:151.119,HAS_COORDINATES
+Parramatta,central business district,IS_A
+Parramatta,suburb,IS_A
+Parramatta,Australia,IS_LOCATED_IN
+Parramatta,25798,HAS_POPULATION
+Parramatta,2150,HAS_POSTCODE
+Parramatta,lat:-33.815,HAS_COORDINATES
+Parramatta,lon:151.00111111111,HAS_COORDINATES
+Cherrybrook,suburb,IS_A
+Cherrybrook,Australia,IS_LOCATED_IN
+Cherrybrook,18765,HAS_POPULATION
+Cherrybrook,2126,HAS_POSTCODE
+Cherrybrook,lat:-33.7251,HAS_COORDINATES
+Cherrybrook,lon:151.049,HAS_COORDINATES
+Meadowbank,suburb,IS_A
+Meadowbank,Australia,IS_LOCATED_IN
+Meadowbank,4408,HAS_POPULATION
+Meadowbank,2114,HAS_POSTCODE
+Meadowbank,lat:-33.8169,HAS_COORDINATES
+Meadowbank,lon:151.083,HAS_COORDINATES
+Minto Heights,suburb,IS_A
+Minto Heights,Australia,IS_LOCATED_IN
+Minto Heights,377,HAS_POPULATION
+Minto Heights,2566,HAS_POSTCODE
+Minto Heights,lat:-34.031,HAS_COORDINATES
+Minto Heights,lon:150.874,HAS_COORDINATES
+Waterloo,suburb,IS_A
+Waterloo,Australia,IS_LOCATED_IN
+Waterloo,14616,HAS_POPULATION
+Waterloo,2017,HAS_POSTCODE
+Waterloo,lat:-33.9004,HAS_COORDINATES
+Waterloo,lon:151.20664,HAS_COORDINATES
+Rhodes,suburb,IS_A
+Rhodes,Australia,IS_LOCATED_IN
+Rhodes,11906,HAS_POPULATION
+Rhodes,2138,HAS_POSTCODE
+Rhodes,lat:-33.82821,HAS_COORDINATES
+Rhodes,lon:151.08569,HAS_COORDINATES
+Bexley,suburb,IS_A
+Bexley,Australia,IS_LOCATED_IN
+Bexley,19733,HAS_POPULATION
+Bexley,2207,HAS_POSTCODE
+Bexley,lat:-33.9568,HAS_COORDINATES
+Bexley,lon:151.126,HAS_COORDINATES
+Badgerys Creek,suburb,IS_A
+Badgerys Creek,Australia,IS_LOCATED_IN
+Badgerys Creek,225,HAS_POPULATION
+Badgerys Creek,2555,HAS_POSTCODE
+Badgerys Creek,lat:-33.8796,HAS_COORDINATES
+Badgerys Creek,lon:150.752,HAS_COORDINATES
+Rookwood,suburb,IS_A
+Rookwood,Australia,IS_LOCATED_IN
+Rookwood,3,HAS_POPULATION
+Rookwood,2141,HAS_POSTCODE
+Rookwood,lat:-33.8728,HAS_COORDINATES
+Rookwood,lon:151.056,HAS_COORDINATES
+Hammondville,suburb,IS_A
+Hammondville,Australia,IS_LOCATED_IN
+Hammondville,3493,HAS_POPULATION
+Hammondville,2170,HAS_POSTCODE
+Hammondville,lat:-33.9521,HAS_COORDINATES
+Hammondville,lon:150.961,HAS_COORDINATES
+Stanwell Park,suburb,IS_A
+Stanwell Park,Australia,IS_LOCATED_IN
+Stanwell Park,1410,HAS_POPULATION
+Stanwell Park,2508,HAS_POSTCODE
+Stanwell Park,lat:-34.228888888889,HAS_COORDINATES
+Stanwell Park,lon:150.98333333333,HAS_COORDINATES
+Kirribilli,suburb,IS_A
+Kirribilli,Australia,IS_LOCATED_IN
+Kirribilli,3820,HAS_POPULATION
+Kirribilli,2061,HAS_POSTCODE
+Kirribilli,lat:-33.8504,HAS_COORDINATES
+Kirribilli,lon:151.215,HAS_COORDINATES
+Manly,suburb,IS_A
+Manly,Australia,IS_LOCATED_IN
+Manly,Fairlight,SHARES_BORDER_WITH
+Manly,Manly Vale,SHARES_BORDER_WITH
+Manly,Queenscliff,SHARES_BORDER_WITH
+Manly,North Manly,SHARES_BORDER_WITH
+Manly,15866,HAS_POPULATION
+Manly,2095,HAS_POSTCODE
+Manly,lat:-33.796667,HAS_COORDINATES
+Manly,lon:151.2875,HAS_COORDINATES
+South Albury,suburb,IS_A
+South Albury,Australia,IS_LOCATED_IN
+South Albury,1379,HAS_POPULATION
+South Albury,2640,HAS_POSTCODE
+South Albury,lat:-36.093,HAS_COORDINATES
+South Albury,lon:146.915,HAS_COORDINATES
+Shellharbour,suburb,IS_A
+Shellharbour,Australia,IS_LOCATED_IN
+Shellharbour,3561,HAS_POPULATION
+Shellharbour,2529,HAS_POSTCODE
+Shellharbour,lat:-34.5833,HAS_COORDINATES
+Shellharbour,lon:150.867,HAS_COORDINATES
+Beverley Park,suburb,IS_A
+Beverley Park,Australia,IS_LOCATED_IN
+Beverley Park,2393,HAS_POPULATION
+Beverley Park,2217,HAS_POSTCODE
+Beverley Park,lat:-33.979,HAS_COORDINATES
+Beverley Park,lon:151.128,HAS_COORDINATES
+Nelson,suburb,IS_A
+Nelson,Australia,IS_LOCATED_IN
+Nelson,454,HAS_POPULATION
+Nelson,2765,HAS_POSTCODE
+Nelson,lat:-33.6457,HAS_COORDINATES
+Nelson,lon:150.922,HAS_COORDINATES
+Balgowlah Heights,suburb,IS_A
+Balgowlah Heights,Australia,IS_LOCATED_IN
+Balgowlah Heights,3342,HAS_POPULATION
+Balgowlah Heights,2093,HAS_POSTCODE
+Balgowlah Heights,lat:-33.8064,HAS_COORDINATES
+Balgowlah Heights,lon:151.257,HAS_COORDINATES
+Terrigal,suburb,IS_A
+Terrigal,Australia,IS_LOCATED_IN
+Terrigal,11349,HAS_POPULATION
+Terrigal,2260,HAS_POSTCODE
+Terrigal,lat:-33.448,HAS_COORDINATES
+Terrigal,lon:151.444,HAS_COORDINATES
+Yoogali,suburb,IS_A
+Yoogali,Australia,IS_LOCATED_IN
+Yoogali,1231,HAS_POPULATION
+Yoogali,2680,HAS_POSTCODE
+Yoogali,lat:-34.3,HAS_COORDINATES
+Yoogali,lon:146.08333333333,HAS_COORDINATES
+Lavington,suburb,IS_A
+Lavington,Australia,IS_LOCATED_IN
+Lavington,12302,HAS_POPULATION
+Lavington,12472,HAS_POPULATION
+Lavington,2641,HAS_POSTCODE
+Lavington,lat:-36.05,HAS_COORDINATES
+Lavington,lon:146.933,HAS_COORDINATES
+Forrest Hill,suburb,IS_A
+Forrest Hill,Australia,IS_LOCATED_IN
+Forrest Hill,2640,HAS_POSTCODE
+Forrest Hill,lat:-36.073,HAS_COORDINATES
+Forrest Hill,lon:146.89,HAS_COORDINATES
+Regents Park,suburb,IS_A
+Regents Park,Australia,IS_LOCATED_IN
+Regents Park,4926,HAS_POPULATION
+Regents Park,2143,HAS_POSTCODE
+Regents Park,lat:-33.8857,HAS_COORDINATES
+Regents Park,lon:151.028,HAS_COORDINATES
+East Albury,suburb,IS_A
+East Albury,Australia,IS_LOCATED_IN
+East Albury,6098,HAS_POPULATION
+East Albury,2640,HAS_POSTCODE
+East Albury,lat:-36.075,HAS_COORDINATES
+East Albury,lon:146.93,HAS_COORDINATES
+Williamtown,suburb,IS_A
+Williamtown,Australia,IS_LOCATED_IN
+Williamtown,885,HAS_POPULATION
+Williamtown,2318,HAS_POSTCODE
+Williamtown,lat:-32.815,HAS_COORDINATES
+Williamtown,lon:151.843,HAS_COORDINATES
+Winston Hills,suburb,IS_A
+Winston Hills,Australia,IS_LOCATED_IN
+Winston Hills,11674,HAS_POPULATION
+Winston Hills,2153,HAS_POSTCODE
+Winston Hills,lat:-33.7775,HAS_COORDINATES
+Winston Hills,lon:150.978,HAS_COORDINATES
+Woolloomooloo,suburb,IS_A
+Woolloomooloo,Australia,IS_LOCATED_IN
+Woolloomooloo,4011,HAS_POPULATION
+Woolloomooloo,2011,HAS_POSTCODE
+Woolloomooloo,lat:-33.8704,HAS_COORDINATES
+Woolloomooloo,lon:151.2223,HAS_COORDINATES
+Cronulla,suburb,IS_A
+Cronulla,Australia,IS_LOCATED_IN
+Cronulla,18070,HAS_POPULATION
+Cronulla,2230,HAS_POSTCODE
+Cronulla,lat:-34.0574,HAS_COORDINATES
+Cronulla,lon:151.152,HAS_COORDINATES
+Summer Hill,suburb,IS_A
+Summer Hill,Australia,IS_LOCATED_IN
+Summer Hill,7311,HAS_POPULATION
+Summer Hill,2130,HAS_POSTCODE
+Summer Hill,lat:-33.8915,HAS_COORDINATES
+Summer Hill,lon:151.138,HAS_COORDINATES
+North Albury,suburb,IS_A
+North Albury,Australia,IS_LOCATED_IN
+North Albury,6058,HAS_POPULATION
+North Albury,2640,HAS_POSTCODE
+North Albury,lat:-36.06,HAS_COORDINATES
+North Albury,lon:146.93,HAS_COORDINATES
+Ashbury,suburb,IS_A
+Ashbury,Australia,IS_LOCATED_IN
+Ashbury,3329,HAS_POPULATION
+Ashbury,2193,HAS_POSTCODE
+Ashbury,lat:-33.9032,HAS_COORDINATES
+Ashbury,lon:151.116,HAS_COORDINATES
+Balmain,suburb,IS_A
+Balmain,Australia,IS_LOCATED_IN
+Balmain,10453,HAS_POPULATION
+Balmain,2041,HAS_POSTCODE
+Balmain,lat:-33.859,HAS_COORDINATES
+Balmain,lon:151.179,HAS_COORDINATES
+Bass Hill,suburb,IS_A
+Bass Hill,Australia,IS_LOCATED_IN
+Bass Hill,9069,HAS_POPULATION
+Bass Hill,2197,HAS_POSTCODE
+Bass Hill,lat:-33.9009,HAS_COORDINATES
+Bass Hill,lon:150.995,HAS_COORDINATES
+Bateau Bay,suburb,IS_A
+Bateau Bay,Australia,IS_LOCATED_IN
+Bateau Bay,12146,HAS_POPULATION
+Bateau Bay,2261,HAS_POSTCODE
+Bateau Bay,lat:-33.382,HAS_COORDINATES
+Bateau Bay,lon:151.485,HAS_COORDINATES
+Phillip Bay,suburb,IS_A
+Phillip Bay,Australia,IS_LOCATED_IN
+Phillip Bay,704,HAS_POPULATION
+Phillip Bay,2036,HAS_POSTCODE
+Phillip Bay,lat:-33.9827,HAS_COORDINATES
+Phillip Bay,lon:151.229,HAS_COORDINATES
+Chifley,suburb,IS_A
+Chifley,Australia,IS_LOCATED_IN
+Chifley,3233,HAS_POPULATION
+Chifley,2036,HAS_POSTCODE
+Chifley,lat:-33.969,HAS_COORDINATES
+Chifley,lon:151.24,HAS_COORDINATES
+Berala,suburb,IS_A
+Berala,Australia,IS_LOCATED_IN
+Berala,9049,HAS_POPULATION
+Berala,2141,HAS_POSTCODE
+Berala,lat:-33.8749,HAS_COORDINATES
+Berala,lon:151.031,HAS_COORDINATES
+Berala,lat:-33.87197,HAS_COORDINATES
+Berala,lon:151.03386,HAS_COORDINATES
+Millers Point,suburb,IS_A
+Millers Point,Australia,IS_LOCATED_IN
+Millers Point,1482,HAS_POPULATION
+Millers Point,2000,HAS_POSTCODE
+Millers Point,lat:-33.8609,HAS_COORDINATES
+Millers Point,lon:151.203,HAS_COORDINATES
+Darling Point,suburb,IS_A
+Darling Point,neighborhood,IS_A
+Darling Point,Australia,IS_LOCATED_IN
+Darling Point,4190,HAS_POPULATION
+Darling Point,2027,HAS_POSTCODE
+Darling Point,lat:-33.8702,HAS_COORDINATES
+Darling Point,lon:151.237,HAS_COORDINATES
+Queens Park,suburb,IS_A
+Queens Park,Australia,IS_LOCATED_IN
+Queens Park,3066,HAS_POPULATION
+Queens Park,2022,HAS_POSTCODE
+Queens Park,lat:-33.901,HAS_COORDINATES
+Queens Park,lon:151.248,HAS_COORDINATES
+Moore Park,suburb,IS_A
+Moore Park,Australia,IS_LOCATED_IN
+Moore Park,28,HAS_POPULATION
+Moore Park,2021,HAS_POSTCODE
+Moore Park,lat:-33.8965,HAS_COORDINATES
+Moore Park,lon:151.22,HAS_COORDINATES
+Erskineville,suburb,IS_A
+Erskineville,Australia,IS_LOCATED_IN
+Erskineville,8014,HAS_POPULATION
+Erskineville,2043,HAS_POSTCODE
+Erskineville,lat:-33.9048,HAS_COORDINATES
+Erskineville,lon:151.185,HAS_COORDINATES
+Forest Lodge,suburb,IS_A
+Forest Lodge,Australia,IS_LOCATED_IN
+Forest Lodge,4583,HAS_POPULATION
+Forest Lodge,2037,HAS_POSTCODE
+Forest Lodge,lat:-33.884,HAS_COORDINATES
+Forest Lodge,lon:151.182,HAS_COORDINATES
+Dover Heights,suburb,IS_A
+Dover Heights,Australia,IS_LOCATED_IN
+Dover Heights,3802,HAS_POPULATION
+Dover Heights,2030,HAS_POSTCODE
+Dover Heights,lat:-33.87185,HAS_COORDINATES
+Dover Heights,lon:151.27837,HAS_COORDINATES
+Point Piper,suburb,IS_A
+Point Piper,Australia,IS_LOCATED_IN
+Point Piper,1424,HAS_POPULATION
+Point Piper,2027,HAS_POSTCODE
+Point Piper,lat:-33.87045,HAS_COORDINATES
+Point Piper,lon:151.25097,HAS_COORDINATES
+Birrong,suburb,IS_A
+Birrong,Australia,IS_LOCATED_IN
+Birrong,3103,HAS_POPULATION
+Birrong,2143,HAS_POSTCODE
+Birrong,lat:-33.893,HAS_COORDINATES
+Birrong,lon:151.023,HAS_COORDINATES
+Maroubra,suburb,IS_A
+Maroubra,Australia,IS_LOCATED_IN
+Maroubra,30688,HAS_POPULATION
+Maroubra,2035,HAS_POSTCODE
+Maroubra,lat:-33.9495,HAS_COORDINATES
+Maroubra,lon:151.244,HAS_COORDINATES
+Bronte,suburb,IS_A
+Bronte,Australia,IS_LOCATED_IN
+Bronte,6733,HAS_POPULATION
+Bronte,2024,HAS_POSTCODE
+Bronte,lat:-33.9053,HAS_COORDINATES
+Bronte,lon:151.261,HAS_COORDINATES
+Annandale,suburb,IS_A
+Annandale,Australia,IS_LOCATED_IN
+Annandale,9451,HAS_POPULATION
+Annandale,2038,HAS_POSTCODE
+Annandale,lat:-33.8814,HAS_COORDINATES
+Annandale,lon:151.171,HAS_COORDINATES
+Surry Hills,suburb,IS_A
+Surry Hills,Australia,IS_LOCATED_IN
+Surry Hills,16412,HAS_POPULATION
+Surry Hills,2010,HAS_POSTCODE
+Surry Hills,lat:-33.886111111111,HAS_COORDINATES
+Surry Hills,lon:151.21111111111,HAS_COORDINATES
+Port Kembla,suburb,IS_A
+Port Kembla,Australia,IS_LOCATED_IN
+Port Kembla,5014,HAS_POPULATION
+Port Kembla,2505,HAS_POSTCODE
+Port Kembla,lat:-34.4667,HAS_COORDINATES
+Port Kembla,lon:150.9,HAS_COORDINATES
+Mosman,suburb,IS_A
+Mosman,Australia,IS_LOCATED_IN
+Mosman,28475,HAS_POPULATION
+Mosman,2088,HAS_POSTCODE
+Mosman,lat:-33.829166666667,HAS_COORDINATES
+Mosman,lon:151.24416666667,HAS_COORDINATES
+Kurnell,suburb,IS_A
+Kurnell,Australia,IS_LOCATED_IN
+Kurnell,2267,HAS_POPULATION
+Kurnell,2231,HAS_POSTCODE
+Kurnell,lat:-34.0172,HAS_COORDINATES
+Kurnell,lon:151.216,HAS_COORDINATES
+Asquith,suburb,IS_A
+Asquith,Australia,IS_LOCATED_IN
+Asquith,3376,HAS_POPULATION
+Asquith,2077,HAS_POSTCODE
+Asquith,lat:-33.689,HAS_COORDINATES
+Asquith,lon:151.105,HAS_COORDINATES
+North Ryde,suburb,IS_A
+North Ryde,Australia,IS_LOCATED_IN
+North Ryde,10860,HAS_POPULATION
+North Ryde,2113,HAS_POSTCODE
+North Ryde,lat:-33.7924,HAS_COORDINATES
+North Ryde,lon:151.12,HAS_COORDINATES
+Newtown,suburb,IS_A
+Newtown,Australia,IS_LOCATED_IN
+Newtown,14148,HAS_POPULATION
+Newtown,2042,HAS_POSTCODE
+Newtown,lat:-33.897,HAS_COORDINATES
+Newtown,lon:151.1793,HAS_COORDINATES
+Sydney Central Business District,central business district,IS_A
+Sydney Central Business District,suburb,IS_A
+Sydney Central Business District,Australia,IS_LOCATED_IN
+Sydney Central Business District,17252,HAS_POPULATION
+Sydney Central Business District,2000,HAS_POSTCODE
+Sydney Central Business District,lat:-33.867222,HAS_COORDINATES
+Sydney Central Business District,lon:151.2075,HAS_COORDINATES
+Mount Pleasant,suburb,IS_A
+Mount Pleasant,Australia,IS_LOCATED_IN
+Mount Pleasant,1370,HAS_POPULATION
+Mount Pleasant,2519,HAS_POSTCODE
+Mount Pleasant,lat:-34.3833,HAS_COORDINATES
+Mount Pleasant,lon:150.867,HAS_COORDINATES
+Mount Pleasant,lat:-33.48333,HAS_COORDINATES
+Mount Pleasant,lon:151.35,HAS_COORDINATES
+Lake Albert,suburb,IS_A
+Lake Albert,Australia,IS_LOCATED_IN
+Lake Albert,6192,HAS_POPULATION
+Lake Albert,2650,HAS_POSTCODE
+Lake Albert,lat:-35.166,HAS_COORDINATES
+Lake Albert,lon:147.381,HAS_COORDINATES
+Ashfield,suburb,IS_A
+Ashfield,Australia,IS_LOCATED_IN
+Ashfield,23841,HAS_POPULATION
+Ashfield,2131,HAS_POSTCODE
+Ashfield,lat:-33.8889,HAS_COORDINATES
+Ashfield,lon:151.1249,HAS_COORDINATES
+Bankstown,suburb,IS_A
+Bankstown,Australia,IS_LOCATED_IN
+Bankstown,32113,HAS_POPULATION
+Bankstown,2200,HAS_POSTCODE
+Bankstown,lat:-33.918169444444,HAS_COORDINATES
+Bankstown,lon:151.03496944444,HAS_COORDINATES
+Toronto,suburb,IS_A
+Toronto,Australia,IS_LOCATED_IN
+Toronto,5602,HAS_POPULATION
+Toronto,2283,HAS_POSTCODE
+Toronto,lat:-33.016194444444,HAS_COORDINATES
+Toronto,lon:151.58258333333,HAS_COORDINATES
+Leichhardt,suburb,IS_A
+Leichhardt,Australia,IS_LOCATED_IN
+Leichhardt,14625,HAS_POPULATION
+Leichhardt,2040,HAS_POSTCODE
+Leichhardt,lat:-33.8847,HAS_COORDINATES
+Leichhardt,lon:151.157,HAS_COORDINATES
+Glebe,suburb,IS_A
+Glebe,Australia,IS_LOCATED_IN
+Glebe,11532,HAS_POPULATION
+Glebe,2037,HAS_POSTCODE
+Glebe,lat:-33.8798,HAS_COORDINATES
+Glebe,lon:151.185,HAS_COORDINATES
+Peakhurst Heights,suburb,IS_A
+Peakhurst Heights,Australia,IS_LOCATED_IN
+Peakhurst Heights,2336,HAS_POPULATION
+Peakhurst Heights,2210,HAS_POSTCODE
+Peakhurst Heights,lat:-33.9817,HAS_COORDINATES
+Peakhurst Heights,lon:151.051,HAS_COORDINATES
+Pearl Beach,suburb,IS_A
+Pearl Beach,Australia,IS_LOCATED_IN
+Pearl Beach,536,HAS_POPULATION
+Pearl Beach,2256,HAS_POSTCODE
+Pearl Beach,lat:-33.542,HAS_COORDINATES
+Pearl Beach,lon:151.308,HAS_COORDINATES
+Peats Ridge,suburb,IS_A
+Peats Ridge,Australia,IS_LOCATED_IN
+Peats Ridge,377,HAS_POPULATION
+Peats Ridge,2250,HAS_POSTCODE
+Peats Ridge,lat:-33.332,HAS_COORDINATES
+Peats Ridge,lon:151.235,HAS_COORDINATES
+Pelaw Main,suburb,IS_A
+Pelaw Main,Australia,IS_LOCATED_IN
+Pelaw Main,1021,HAS_POPULATION
+Pelaw Main,2327,HAS_POSTCODE
+Pelaw Main,lat:-32.83,HAS_COORDINATES
+Pelaw Main,lon:151.481,HAS_COORDINATES
+Pemulwuy,suburb,IS_A
+Pemulwuy,Australia,IS_LOCATED_IN
+Pemulwuy,5009,HAS_POPULATION
+Pemulwuy,2145,HAS_POSTCODE
+Pemulwuy,lat:-33.817,HAS_COORDINATES
+Pemulwuy,lon:150.926,HAS_COORDINATES
+Phegans Bay,suburb,IS_A
+Phegans Bay,Australia,IS_LOCATED_IN
+Phegans Bay,432,HAS_POPULATION
+Phegans Bay,2256,HAS_POSTCODE
+Phegans Bay,lat:-33.488,HAS_COORDINATES
+Phegans Bay,lon:151.31,HAS_COORDINATES
+Picketts Valley,suburb,IS_A
+Picketts Valley,Australia,IS_LOCATED_IN
+Picketts Valley,218,HAS_POPULATION
+Picketts Valley,2251,HAS_POSTCODE
+Picketts Valley,lat:-33.457,HAS_COORDINATES
+Picketts Valley,lon:151.41,HAS_COORDINATES
+Picnic Point,locality,IS_A
+Picnic Point,suburb,IS_A
+Picnic Point,Australia,IS_LOCATED_IN
+Picnic Point,6160,HAS_POPULATION
+Picnic Point,2213,HAS_POSTCODE
+Picnic Point,lat:-33.9693,HAS_COORDINATES
+Picnic Point,lon:151.006,HAS_COORDINATES
+Pitt Town,suburb,IS_A
+Pitt Town,Australia,IS_LOCATED_IN
+Pitt Town,3033,HAS_POPULATION
+Pitt Town,2756,HAS_POSTCODE
+Pitt Town,lat:-33.5872,HAS_COORDINATES
+Pitt Town,lon:150.855,HAS_COORDINATES
+Pleasure Point,locality,IS_A
+Pleasure Point,suburb,IS_A
+Pleasure Point,Australia,IS_LOCATED_IN
+Pleasure Point,528,HAS_POPULATION
+Pleasure Point,2172,HAS_POSTCODE
+Pleasure Point,lat:-33.9678,HAS_COORDINATES
+Pleasure Point,lon:150.978,HAS_COORDINATES
+Plumpton,locality,IS_A
+Plumpton,suburb,IS_A
+Plumpton,Australia,IS_LOCATED_IN
+Plumpton,9209,HAS_POPULATION
+Plumpton,2761,HAS_POSTCODE
+Plumpton,lat:-33.7531,HAS_COORDINATES
+Plumpton,lon:150.839,HAS_COORDINATES
+Point Clare,suburb,IS_A
+Point Clare,Australia,IS_LOCATED_IN
+Point Clare,3731,HAS_POPULATION
+Point Clare,2250,HAS_POSTCODE
+Point Clare,lat:-33.44,HAS_COORDINATES
+Point Clare,lon:151.326,HAS_COORDINATES
+Point Frederick,suburb,IS_A
+Point Frederick,Australia,IS_LOCATED_IN
+Point Frederick,1927,HAS_POPULATION
+Point Frederick,2250,HAS_POSTCODE
+Point Frederick,lat:-33.432,HAS_COORDINATES
+Point Frederick,lon:151.335,HAS_COORDINATES
+Port Botany,suburb,IS_A
+Port Botany,Australia,IS_LOCATED_IN
+Port Botany,0,HAS_POPULATION
+Port Botany,2036,HAS_POSTCODE
+Port Botany,lat:-33.976,HAS_COORDINATES
+Port Botany,lon:151.218,HAS_COORDINATES
+Prairiewood,locality,IS_A
+Prairiewood,suburb,IS_A
+Prairiewood,Australia,IS_LOCATED_IN
+Prairiewood,3246,HAS_POPULATION
+Prairiewood,2176,HAS_POSTCODE
+Prairiewood,lat:-33.861,HAS_COORDINATES
+Prairiewood,lon:150.905,HAS_COORDINATES
+Prestons,locality,IS_A
+Prestons,suburb,IS_A
+Prestons,Australia,IS_LOCATED_IN
+Prestons,15313,HAS_POPULATION
+Prestons,2170,HAS_POSTCODE
+Prestons,lat:-33.9429,HAS_COORDINATES
+Prestons,lon:150.871,HAS_COORDINATES
+Primbee,locality,IS_A
+Primbee,suburb,IS_A
+Primbee,Australia,IS_LOCATED_IN
+Primbee,1640,HAS_POPULATION
+Primbee,2502,HAS_POSTCODE
+Primbee,lat:-34.5008,HAS_COORDINATES
+Primbee,lon:150.882,HAS_COORDINATES
+Pymble,suburb,IS_A
+Pymble,Australia,IS_LOCATED_IN
+Pymble,11051,HAS_POPULATION
+Pymble,2073,HAS_POSTCODE
+Pymble,lat:-33.7631,HAS_COORDINATES
+Pymble,lon:151.135,HAS_COORDINATES
+Pyree,suburb,IS_A
+Pyree,Australia,IS_LOCATED_IN
+Pyree,101,HAS_POPULATION
+Pyree,2540,HAS_POSTCODE
+Pyree,lat:-34.9081,HAS_COORDINATES
+Pyree,lon:150.686,HAS_COORDINATES
+Queenscliff,suburb,IS_A
+Queenscliff,Australia,IS_LOCATED_IN
+Queenscliff,3376,HAS_POPULATION
+Queenscliff,2096,HAS_POSTCODE
+Queenscliff,lat:-33.7825,HAS_COORDINATES
+Queenscliff,lon:151.28472222222,HAS_COORDINATES
+Raby,locality,IS_A
+Raby,suburb,IS_A
+Raby,Australia,IS_LOCATED_IN
+Raby,5944,HAS_POPULATION
+Raby,2566,HAS_POSTCODE
+Raby,lat:-34.0251,HAS_COORDINATES
+Raby,lon:150.814,HAS_COORDINATES
+Ramsgate Beach,locality,IS_A
+Ramsgate Beach,suburb,IS_A
+Ramsgate Beach,Australia,IS_LOCATED_IN
+Ramsgate Beach,1660,HAS_POPULATION
+Ramsgate Beach,2217,HAS_POSTCODE
+Ramsgate Beach,lat:-33.982,HAS_COORDINATES
+Ramsgate Beach,lon:151.148,HAS_COORDINATES
+Ramsgate,suburb,IS_A
+Ramsgate,Australia,IS_LOCATED_IN
+Ramsgate,1114,HAS_POPULATION
+Ramsgate,2217,HAS_POSTCODE
+Ramsgate,lat:-33.9819,HAS_COORDINATES
+Ramsgate,lon:151.14,HAS_COORDINATES
+Rankin Park,suburb,IS_A
+Rankin Park,Australia,IS_LOCATED_IN
+Rankin Park,2460,HAS_POPULATION
+Rankin Park,2287,HAS_POSTCODE
+Rankin Park,lat:-32.932,HAS_COORDINATES
+Rankin Park,lon:151.668,HAS_COORDINATES
+Rathmines,suburb,IS_A
+Rathmines,Australia,IS_LOCATED_IN
+Rathmines,1905,HAS_POPULATION
+Rathmines,2283,HAS_POSTCODE
+Rathmines,lat:-33.043,HAS_COORDINATES
+Rathmines,lon:151.596,HAS_COORDINATES
+Redhead,suburb,IS_A
+Redhead,Australia,IS_LOCATED_IN
+Redhead,3516,HAS_POPULATION
+Redhead,2290,HAS_POSTCODE
+Redhead,lat:-33.01,HAS_COORDINATES
+Redhead,lon:151.723,HAS_COORDINATES
+Regentville,suburb,IS_A
+Regentville,Australia,IS_LOCATED_IN
+Regentville,809,HAS_POPULATION
+Regentville,2745,HAS_POSTCODE
+Regentville,lat:-33.7783,HAS_COORDINATES
+Regentville,lon:150.66,HAS_COORDINATES
+Regentville,lat:-33.77517,HAS_COORDINATES
+Regentville,lon:150.66552,HAS_COORDINATES
+Revesby,suburb,IS_A
+Revesby,Australia,IS_LOCATED_IN
+Revesby,14176,HAS_POPULATION
+Revesby,2212,HAS_POSTCODE
+Revesby,lat:-33.95,HAS_COORDINATES
+Revesby,lon:151.01,HAS_COORDINATES
+Revesby Heights,suburb,IS_A
+Revesby Heights,Australia,IS_LOCATED_IN
+Revesby Heights,1667,HAS_POPULATION
+Revesby Heights,2212,HAS_POSTCODE
+Revesby Heights,lat:-33.9681,HAS_COORDINATES
+Revesby Heights,lon:151.018,HAS_COORDINATES
+Riverstone,suburb,IS_A
+Riverstone,Australia,IS_LOCATED_IN
+Riverstone,7247,HAS_POPULATION
+Riverstone,2765,HAS_POSTCODE
+Riverstone,lat:-33.6819,HAS_COORDINATES
+Riverstone,lon:150.859,HAS_COORDINATES
+Rocky Point,suburb,IS_A
+Rocky Point,Australia,IS_LOCATED_IN
+Rocky Point,262,HAS_POPULATION
+Rocky Point,2259,HAS_POSTCODE
+Rocky Point,lat:-33.297,HAS_COORDINATES
+Rocky Point,lon:151.468,HAS_COORDINATES
+Rogans Hill,suburb,IS_A
+Rogans Hill,Australia,IS_LOCATED_IN
+Rogans Hill,lat:-33.7333,HAS_COORDINATES
+Rogans Hill,lon:151.017,HAS_COORDINATES
+Rooty Hill,suburb,IS_A
+Rooty Hill,Australia,IS_LOCATED_IN
+Rooty Hill,14704,HAS_POPULATION
+Rooty Hill,2766,HAS_POSTCODE
+Rooty Hill,lat:-33.7715,HAS_COORDINATES
+Rooty Hill,lon:150.844,HAS_COORDINATES
+Ropes Crossing,suburb,IS_A
+Ropes Crossing,Australia,IS_LOCATED_IN
+Ropes Crossing,6171,HAS_POPULATION
+Ropes Crossing,2760,HAS_POSTCODE
+Ropes Crossing,lat:-33.733,HAS_COORDINATES
+Ropes Crossing,lon:150.791,HAS_COORDINATES
+Rosehill,suburb,IS_A
+Rosehill,Australia,IS_LOCATED_IN
+Rosehill,3806,HAS_POPULATION
+Rosehill,2142,HAS_POSTCODE
+Rosehill,lat:-33.8272,HAS_COORDINATES
+Rosehill,lon:151.017,HAS_COORDINATES
+Roseville Chase,suburb,IS_A
+Roseville Chase,Australia,IS_LOCATED_IN
+Roseville Chase,1616,HAS_POPULATION
+Roseville Chase,2069,HAS_POSTCODE
+Roseville Chase,lat:-33.7818,HAS_COORDINATES
+Roseville Chase,lon:151.196,HAS_COORDINATES
+Rouse Hill,suburb,IS_A
+Rouse Hill,Australia,IS_LOCATED_IN
+Rouse Hill,7965,HAS_POPULATION
+Rouse Hill,2155,HAS_POSTCODE
+Rouse Hill,lat:-33.6816,HAS_COORDINATES
+Rouse Hill,lon:150.916,HAS_COORDINATES
+Rouse Hill,lat:-33.68207,HAS_COORDINATES
+Rouse Hill,lon:150.9154,HAS_COORDINATES
+Ruse,suburb,IS_A
+Ruse,Australia,IS_LOCATED_IN
+Ruse,5584,HAS_POPULATION
+Ruse,2560,HAS_POSTCODE
+Ruse,lat:-34.071,HAS_COORDINATES
+Ruse,lon:150.842,HAS_COORDINATES
+Russell Vale,locality,IS_A
+Russell Vale,suburb,IS_A
+Russell Vale,Australia,IS_LOCATED_IN
+Russell Vale,1547,HAS_POPULATION
+Russell Vale,2517,HAS_POSTCODE
+Russell Vale,lat:-34.358,HAS_COORDINATES
+Russell Vale,lon:150.901,HAS_COORDINATES
+Rydalmere,suburb,IS_A
+Rydalmere,Australia,IS_LOCATED_IN
+Rydalmere,6642,HAS_POPULATION
+Rydalmere,2116,HAS_POSTCODE
+Rydalmere,lat:-33.8111,HAS_COORDINATES
+Rydalmere,lon:151.036,HAS_COORDINATES
+Sackville,suburb,IS_A
+Sackville,Australia,IS_LOCATED_IN
+Sackville,298,HAS_POPULATION
+Sackville,2756,HAS_POSTCODE
+Sackville,lat:-33.4833,HAS_COORDINATES
+Sackville,lon:150.9,HAS_COORDINATES
+Sackville North,suburb,IS_A
+Sackville North,Australia,IS_LOCATED_IN
+Sackville North,312,HAS_POPULATION
+Sackville North,2756,HAS_POSTCODE
+Sackville North,lat:-33.4817,HAS_COORDINATES
+Sackville North,lon:150.885,HAS_COORDINATES
+Sadleir,locality,IS_A
+Sadleir,suburb,IS_A
+Sadleir,Australia,IS_LOCATED_IN
+Sadleir,3135,HAS_POPULATION
+Sadleir,2168,HAS_POSTCODE
+Sadleir,lat:-33.9125,HAS_COORDINATES
+Sadleir,lon:150.88,HAS_COORDINATES
+Salamander Bay,locality,IS_A
+Salamander Bay,suburb,IS_A
+Salamander Bay,Australia,IS_LOCATED_IN
+Salamander Bay,4815,HAS_POPULATION
+Salamander Bay,2317,HAS_POSTCODE
+Salamander Bay,lat:-32.7292,HAS_COORDINATES
+Salamander Bay,lon:152.089,HAS_COORDINATES
+Salt Ash,suburb,IS_A
+Salt Ash,Australia,IS_LOCATED_IN
+Salt Ash,1128,HAS_POPULATION
+Salt Ash,2318,HAS_POSTCODE
+Salt Ash,lat:-32.7944,HAS_COORDINATES
+Salt Ash,lon:151.922,HAS_COORDINATES
+San Isidore,suburb,IS_A
+San Isidore,Australia,IS_LOCATED_IN
+San Isidore,381,HAS_POPULATION
+San Isidore,2650,HAS_POSTCODE
+San Isidore,lat:-35.1108,HAS_COORDINATES
+San Isidore,lon:147.287,HAS_COORDINATES
+San Remo,suburb,IS_A
+San Remo,Australia,IS_LOCATED_IN
+San Remo,4351,HAS_POPULATION
+San Remo,2262,HAS_POSTCODE
+San Remo,lat:-33.199,HAS_COORDINATES
+San Remo,lon:151.518,HAS_COORDINATES
+Sanctuary Point,town,IS_A
+Sanctuary Point,suburb,IS_A
+Sanctuary Point,Australia,IS_LOCATED_IN
+Sanctuary Point,7225,HAS_POPULATION
+Sanctuary Point,2540,HAS_POSTCODE
+Sanctuary Point,lat:-35.1036,HAS_COORDINATES
+Sanctuary Point,lon:150.627,HAS_COORDINATES
+Sandgate,suburb,IS_A
+Sandgate,Australia,IS_LOCATED_IN
+Sandgate,305,HAS_POPULATION
+Sandgate,2304,HAS_POSTCODE
+Sandgate,lat:-32.8678,HAS_COORDINATES
+Sandgate,lon:151.706,HAS_COORDINATES
+Sandringham,suburb,IS_A
+Sandringham,Australia,IS_LOCATED_IN
+Sandringham,1238,HAS_POPULATION
+Sandringham,2219,HAS_POSTCODE
+Sandringham,lat:-33.9985,HAS_COORDINATES
+Sandringham,lon:151.136,HAS_COORDINATES
+Sandy Hollow,suburb,IS_A
+Sandy Hollow,Australia,IS_LOCATED_IN
+Sandy Hollow,169,HAS_POPULATION
+Sandy Hollow,2333,HAS_POSTCODE
+Sandy Hollow,lat:-32.3333,HAS_COORDINATES
+Sandy Hollow,lon:150.567,HAS_COORDINATES
+Sandy Point,suburb,IS_A
+Sandy Point,Australia,IS_LOCATED_IN
+Sandy Point,590,HAS_POPULATION
+Sandy Point,2172,HAS_POSTCODE
+Sandy Point,lat:-33.976,HAS_COORDINATES
+Sandy Point,lon:150.993,HAS_COORDINATES
+Saratoga,suburb,IS_A
+Saratoga,Australia,IS_LOCATED_IN
+Saratoga,3938,HAS_POPULATION
+Saratoga,2251,HAS_POSTCODE
+Saratoga,lat:-33.475,HAS_COORDINATES
+Saratoga,lon:151.348,HAS_COORDINATES
+Scarborough,suburb,IS_A
+Scarborough,Australia,IS_LOCATED_IN
+Scarborough,308,HAS_POPULATION
+Scarborough,2515,HAS_POSTCODE
+Scarborough,lat:-34.2706,HAS_COORDINATES
+Scarborough,lon:150.96,HAS_COORDINATES
+Schofields,suburb,IS_A
+Schofields,Australia,IS_LOCATED_IN
+Schofields,4983,HAS_POPULATION
+Schofields,2762,HAS_POSTCODE
+Schofields,lat:-33.7,HAS_COORDINATES
+Schofields,lon:150.883,HAS_COORDINATES
+Seaham,suburb,IS_A
+Seaham,Australia,IS_LOCATED_IN
+Seaham,1007,HAS_POPULATION
+Seaham,2324,HAS_POSTCODE
+Seaham,lat:-32.665,HAS_COORDINATES
+Seaham,lon:151.718,HAS_COORDINATES
+Seahampton,locality,IS_A
+Seahampton,suburb,IS_A
+Seahampton,Australia,IS_LOCATED_IN
+Seahampton,303,HAS_POPULATION
+Seahampton,2286,HAS_POSTCODE
+Seahampton,lat:-32.924,HAS_COORDINATES
+Seahampton,lon:151.585,HAS_COORDINATES
+Shalvey,locality,IS_A
+Shalvey,suburb,IS_A
+Shalvey,Australia,IS_LOCATED_IN
+Shalvey,3467,HAS_POPULATION
+Shalvey,2770,HAS_POSTCODE
+Shalvey,lat:-33.7194,HAS_COORDINATES
+Shalvey,lon:150.8,HAS_COORDINATES
+Shanes Park,suburb,IS_A
+Shanes Park,Australia,IS_LOCATED_IN
+Shanes Park,407,HAS_POPULATION
+Shanes Park,2747,HAS_POSTCODE
+Shanes Park,lat:-33.711180555556,HAS_COORDINATES
+Shanes Park,lon:150.77223888889,HAS_COORDINATES
+Shell Cove,locality,IS_A
+Shell Cove,suburb,IS_A
+Shell Cove,Australia,IS_LOCATED_IN
+Shell Cove,5624,HAS_POPULATION
+Shell Cove,2529,HAS_POSTCODE
+Shell Cove,lat:-34.59,HAS_COORDINATES
+Shell Cove,lon:150.862,HAS_COORDINATES
+Shelly Beach,suburb,IS_A
+Shelly Beach,Australia,IS_LOCATED_IN
+Shelly Beach,1318,HAS_POPULATION
+Shelly Beach,2261,HAS_POSTCODE
+Shelly Beach,lat:-33.365,HAS_COORDINATES
+Shelly Beach,lon:151.501,HAS_COORDINATES
+Shelly Beach,beach,IS_A
+Shelly Beach,suburb,IS_A
+Shelly Beach,Australia,IS_LOCATED_IN
+Shelly Beach,2261,HAS_POSTCODE
+Shelly Beach,lat:-33.8005,HAS_COORDINATES
+Shelly Beach,lon:151.298,HAS_COORDINATES
+Shortland,suburb,IS_A
+Shortland,Australia,IS_LOCATED_IN
+Shortland,3905,HAS_POPULATION
+Shortland,2307,HAS_POSTCODE
+Shortland,lat:-32.882,HAS_COORDINATES
+Shortland,lon:151.685,HAS_COORDINATES
+Singletons Mill,suburb,IS_A
+Singletons Mill,Australia,IS_LOCATED_IN
+Singletons Mill,7,HAS_POPULATION
+Singletons Mill,2775,HAS_POSTCODE
+Singletons Mill,lat:-33.465,HAS_COORDINATES
+Singletons Mill,lon:151.068,HAS_COORDINATES
+Smeaton Grange,locality,IS_A
+Smeaton Grange,suburb,IS_A
+Smeaton Grange,Australia,IS_LOCATED_IN
+Smeaton Grange,15,HAS_POPULATION
+Smeaton Grange,2567,HAS_POSTCODE
+Smeaton Grange,lat:-34.035,HAS_COORDINATES
+Smeaton Grange,lon:150.757,HAS_COORDINATES
+Smithfield,suburb,IS_A
+Smithfield,Australia,IS_LOCATED_IN
+Smithfield,11972,HAS_POPULATION
+Smithfield,2164,HAS_POSTCODE
+Smithfield,lat:-33.8529,HAS_COORDINATES
+Smithfield,lon:150.932,HAS_COORDINATES
+Smiths Lake,suburb,IS_A
+Smiths Lake,Australia,IS_LOCATED_IN
+Smiths Lake,1235,HAS_POPULATION
+Smiths Lake,2428,HAS_POSTCODE
+Smiths Lake,lat:-32.3869,HAS_COORDINATES
+Smiths Lake,lon:152.502,HAS_COORDINATES
+Soldiers Point,suburb,IS_A
+Soldiers Point,Australia,IS_LOCATED_IN
+Soldiers Point,1426,HAS_POPULATION
+Soldiers Point,2317,HAS_POSTCODE
+Soldiers Point,lat:-32.7067,HAS_COORDINATES
+Soldiers Point,lon:152.068,HAS_COORDINATES
+Somersby,suburb,IS_A
+Somersby,Australia,IS_LOCATED_IN
+Somersby,1066,HAS_POPULATION
+Somersby,2250,HAS_POSTCODE
+Somersby,lat:-33.365,HAS_COORDINATES
+Somersby,lon:151.285,HAS_COORDINATES
+South Coogee,suburb,IS_A
+South Coogee,Australia,IS_LOCATED_IN
+South Coogee,5502,HAS_POPULATION
+South Coogee,2034,HAS_POSTCODE
+South Coogee,lat:-33.933,HAS_COORDINATES
+South Coogee,lon:151.259,HAS_COORDINATES
+South Granville,locality,IS_A
+South Granville,suburb,IS_A
+South Granville,Australia,IS_LOCATED_IN
+South Granville,5500,HAS_POPULATION
+South Granville,2142,HAS_POSTCODE
+South Granville,lat:-33.8545,HAS_COORDINATES
+South Granville,lon:151.004,HAS_COORDINATES
+South Maroota,suburb,IS_A
+South Maroota,Australia,IS_LOCATED_IN
+South Maroota,557,HAS_POPULATION
+South Maroota,2756,HAS_POSTCODE
+South Maroota,lat:-33.5241,HAS_COORDINATES
+South Maroota,lon:150.949,HAS_COORDINATES
+South Penrith,locality,IS_A
+South Penrith,suburb,IS_A
+South Penrith,Australia,IS_LOCATED_IN
+South Penrith,11790,HAS_POPULATION
+South Penrith,2750,HAS_POSTCODE
+South Penrith,lat:-33.8188,HAS_COORDINATES
+South Penrith,lon:150.654,HAS_COORDINATES
+South Tamworth,locality,IS_A
+South Tamworth,suburb,IS_A
+South Tamworth,Australia,IS_LOCATED_IN
+South Tamworth,6565,HAS_POPULATION
+South Tamworth,2340,HAS_POSTCODE
+South Tamworth,lat:-31.1111,HAS_COORDINATES
+South Tamworth,lon:150.914,HAS_COORDINATES
+South Turramurra,suburb,IS_A
+South Turramurra,Australia,IS_LOCATED_IN
+South Turramurra,3084,HAS_POPULATION
+South Turramurra,2074,HAS_POSTCODE
+South Turramurra,lat:-33.7546,HAS_COORDINATES
+South Turramurra,lon:151.113,HAS_COORDINATES
+Spencer,suburb,IS_A
+Spencer,Australia,IS_LOCATED_IN
+Spencer,306,HAS_POPULATION
+Spencer,2775,HAS_POSTCODE
+Spencer,lat:-33.457,HAS_COORDINATES
+Spencer,lon:151.143,HAS_COORDINATES
+Spring Hill,suburb,IS_A
+Spring Hill,Australia,IS_LOCATED_IN
+Spring Hill,0,HAS_POPULATION
+Spring Hill,2500,HAS_POSTCODE
+Springfield,suburb,IS_A
+Springfield,Australia,IS_LOCATED_IN
+Springfield,4104,HAS_POPULATION
+Springfield,2250,HAS_POSTCODE
+Springfield,lat:-33.424,HAS_COORDINATES
+Springfield,lon:151.368,HAS_COORDINATES
+Springvale,suburb,IS_A
+Springvale,Australia,IS_LOCATED_IN
+Springvale,1733,HAS_POPULATION
+Springvale,2650,HAS_POSTCODE
+Springvale,lat:-35.1686,HAS_COORDINATES
+Springvale,lon:147.334,HAS_COORDINATES
+St Andrews,suburb,IS_A
+St Andrews,Australia,IS_LOCATED_IN
+St Andrews,5730,HAS_POPULATION
+St Andrews,2566,HAS_POSTCODE
+St Andrews,lat:-34.0246,HAS_COORDINATES
+St Andrews,lon:150.831,HAS_COORDINATES
+St Clair,suburb,IS_A
+St Clair,Australia,IS_LOCATED_IN
+St Clair,19897,HAS_POPULATION
+St Clair,2759,HAS_POSTCODE
+St Clair,lat:-33.7987,HAS_COORDINATES
+St Clair,lon:150.782,HAS_COORDINATES
+St Helens Park,suburb,IS_A
+St Helens Park,Australia,IS_LOCATED_IN
+St Helens Park,6602,HAS_POPULATION
+St Helens Park,2560,HAS_POSTCODE
+St Helens Park,lat:-34.1105,HAS_COORDINATES
+St Helens Park,lon:150.808,HAS_COORDINATES
+St Ives,suburb,IS_A
+St Ives,Australia,IS_LOCATED_IN
+St Ives,17300,HAS_POPULATION
+St Ives,2075,HAS_POSTCODE
+St Ives,lat:-33.7214,HAS_COORDINATES
+St Ives,lon:151.168,HAS_COORDINATES
+St Ives Chase,suburb,IS_A
+St Ives Chase,Australia,IS_LOCATED_IN
+St Ives Chase,3154,HAS_POPULATION
+St Ives Chase,2075,HAS_POSTCODE
+St Ives Chase,lat:-33.711,HAS_COORDINATES
+St Ives Chase,lon:151.16,HAS_COORDINATES
+St Johns Park,suburb,IS_A
+St Johns Park,Australia,IS_LOCATED_IN
+St Johns Park,6119,HAS_POPULATION
+St Johns Park,2176,HAS_POSTCODE
+St Johns Park,lat:-33.8847,HAS_COORDINATES
+St Johns Park,lon:150.907,HAS_COORDINATES
+Stanhope Gardens,suburb,IS_A
+Stanhope Gardens,Australia,IS_LOCATED_IN
+Stanhope Gardens,9163,HAS_POPULATION
+Stanhope Gardens,2768,HAS_POSTCODE
+Stanhope Gardens,lat:-33.723,HAS_COORDINATES
+Stanhope Gardens,lon:150.926,HAS_COORDINATES
+Stanwell Tops,suburb,IS_A
+Stanwell Tops,Australia,IS_LOCATED_IN
+Stanwell Tops,495,HAS_POPULATION
+Stanwell Tops,2508,HAS_POSTCODE
+Stanwell Tops,lat:-34.2199,HAS_COORDINATES
+Stanwell Tops,lon:150.992,HAS_COORDINATES
+Towradgi,suburb,IS_A
+Towradgi,Australia,IS_LOCATED_IN
+Towradgi,3127,HAS_POPULATION
+Towradgi,2518,HAS_POSTCODE
+Towradgi,lat:-34.3833,HAS_COORDINATES
+Towradgi,lon:150.9,HAS_COORDINATES
+Stockton,suburb,IS_A
+Stockton,Australia,IS_LOCATED_IN
+Stockton,4160,HAS_POPULATION
+Stockton,2295,HAS_POSTCODE
+Stockton,lat:-32.915,HAS_COORDINATES
+Stockton,lon:151.784,HAS_COORDINATES
+Stratford,suburb,IS_A
+Stratford,Australia,IS_LOCATED_IN
+Stratford,145,HAS_POPULATION
+Stratford,2422,HAS_POSTCODE
+Stratford,lat:-32.115,HAS_COORDINATES
+Stratford,lon:151.934,HAS_COORDINATES
+Strathfield South,suburb,IS_A
+Strathfield South,Australia,IS_LOCATED_IN
+Strathfield South,3546,HAS_POPULATION
+Strathfield South,2135,HAS_POSTCODE
+Strathfield South,lat:-33.8894,HAS_COORDINATES
+Strathfield South,lon:151.083,HAS_COORDINATES
+Summerland Point,suburb,IS_A
+Summerland Point,Australia,IS_LOCATED_IN
+Summerland Point,2493,HAS_POPULATION
+Summerland Point,2259,HAS_POSTCODE
+Summerland Point,lat:-33.132,HAS_COORDINATES
+Summerland Point,lon:151.568,HAS_COORDINATES
+Sunshine,suburb,IS_A
+Sunshine,Australia,IS_LOCATED_IN
+Sunshine,430,HAS_POPULATION
+Sunshine,2264,HAS_POSTCODE
+Sunshine,lat:-33.115,HAS_COORDINATES
+Sunshine,lon:151.568,HAS_COORDINATES
+Swansea,suburb,IS_A
+Swansea,Australia,IS_LOCATED_IN
+Swansea,5058,HAS_POPULATION
+Swansea,2281,HAS_POSTCODE
+Swansea,lat:-33.085,HAS_COORDINATES
+Swansea,lon:151.635,HAS_COORDINATES
+Sylvania Waters,suburb,IS_A
+Sylvania Waters,Australia,IS_LOCATED_IN
+Sylvania Waters,3169,HAS_POPULATION
+Sylvania Waters,2224,HAS_POSTCODE
+Sylvania Waters,lat:-34.0232,HAS_COORDINATES
+Sylvania Waters,lon:151.112,HAS_COORDINATES
+Tacoma,suburb,IS_A
+Tacoma,Australia,IS_LOCATED_IN
+Tacoma,633,HAS_POPULATION
+Tacoma,2259,HAS_POSTCODE
+Tacoma,lat:-33.299,HAS_COORDINATES
+Tacoma,lon:151.468,HAS_COORDINATES
+Taminda,suburb,IS_A
+Taminda,Australia,IS_LOCATED_IN
+Taminda,53,HAS_POPULATION
+Taminda,2340,HAS_POSTCODE
+Taminda,lat:-31.0833,HAS_COORDINATES
+Taminda,lon:150.904,HAS_COORDINATES
+Tarro,suburb,IS_A
+Tarro,Australia,IS_LOCATED_IN
+Tarro,1645,HAS_POPULATION
+Tarro,2322,HAS_POSTCODE
+Tarro,lat:-32.809,HAS_COORDINATES
+Tarro,lon:151.656,HAS_COORDINATES
+Tascott,suburb,IS_A
+Tascott,Australia,IS_LOCATED_IN
+Tascott,1602,HAS_POPULATION
+Tascott,2250,HAS_POSTCODE
+Tascott,lat:-33.454,HAS_COORDINATES
+Tascott,lon:151.314,HAS_COORDINATES
+Tatton,suburb,IS_A
+Tatton,Australia,IS_LOCATED_IN
+Tatton,2616,HAS_POPULATION
+Tatton,2650,HAS_POSTCODE
+Tatton,lat:-35.1572,HAS_COORDINATES
+Tatton,lon:147.362,HAS_COORDINATES
+Taylors Beach,suburb,IS_A
+Taylors Beach,Australia,IS_LOCATED_IN
+Taylors Beach,117,HAS_POPULATION
+Taylors Beach,2316,HAS_POSTCODE
+Taylors Beach,lat:-32.7511,HAS_COORDINATES
+Taylors Beach,lon:152.068,HAS_COORDINATES
+Telarah,suburb,IS_A
+Telarah,Australia,IS_LOCATED_IN
+Telarah,2329,HAS_POPULATION
+Telarah,2320,HAS_POSTCODE
+Telarah,lat:-32.7242,HAS_COORDINATES
+Telarah,lon:151.531,HAS_COORDINATES
+Telopea,suburb,IS_A
+Telopea,Australia,IS_LOCATED_IN
+Telopea,5426,HAS_POPULATION
+Telopea,2117,HAS_POSTCODE
+Telopea,lat:-33.7942,HAS_COORDINATES
+Telopea,lon:151.038,HAS_COORDINATES
+Tenambit,suburb,IS_A
+Tenambit,Australia,IS_LOCATED_IN
+Tenambit,2901,HAS_POPULATION
+Tenambit,2323,HAS_POSTCODE
+Tenambit,lat:-32.7428,HAS_COORDINATES
+Tenambit,lon:151.607,HAS_COORDINATES
+Tennyson,suburb,IS_A
+Tennyson,Australia,IS_LOCATED_IN
+Tennyson,384,HAS_POPULATION
+Tennyson,2754,HAS_POSTCODE
+Tennyson,lat:-33.5369,HAS_COORDINATES
+Tennyson,lon:150.738,HAS_COORDINATES
+Tennyson Point,suburb,IS_A
+Tennyson Point,human settlement,IS_A
+Tennyson Point,Australia,IS_LOCATED_IN
+Tennyson Point,1219,HAS_POPULATION
+Tennyson Point,2111,HAS_POSTCODE
+Tennyson Point,lat:-33.8324,HAS_COORDINATES
+Tennyson Point,lon:151.117,HAS_COORDINATES
+Teralba,suburb,IS_A
+Teralba,Australia,IS_LOCATED_IN
+Teralba,1588,HAS_POPULATION
+Teralba,2284,HAS_POSTCODE
+Teralba,lat:-32.965,HAS_COORDINATES
+Teralba,lon:151.601,HAS_COORDINATES
+Termeil,locality,IS_A
+Termeil,suburb,IS_A
+Termeil,Australia,IS_LOCATED_IN
+Termeil,252,HAS_POPULATION
+Termeil,2539,HAS_POSTCODE
+Termeil,lat:-35.4667,HAS_COORDINATES
+Termeil,lon:150.35,HAS_COORDINATES
+Terrey Hills,suburb,IS_A
+Terrey Hills,Australia,IS_LOCATED_IN
+Terrey Hills,3041,HAS_POPULATION
+Terrey Hills,2084,HAS_POSTCODE
+Terrey Hills,lat:-33.683,HAS_COORDINATES
+Terrey Hills,lon:151.223,HAS_COORDINATES
+Tharbogang,suburb,IS_A
+Tharbogang,Australia,IS_LOCATED_IN
+Tharbogang,511,HAS_POPULATION
+Tharbogang,2680,HAS_POSTCODE
+Tharbogang,lat:-34.25,HAS_COORDINATES
+Tharbogang,lon:145.983,HAS_COORDINATES
+The Entrance North,suburb,IS_A
+The Entrance North,Australia,IS_LOCATED_IN
+The Entrance North,1474,HAS_POPULATION
+The Entrance North,2261,HAS_POSTCODE
+The Entrance North,lat:-33.3319,HAS_COORDINATES
+The Entrance North,lon:151.501,HAS_COORDINATES
+The Gap,suburb,IS_A
+The Gap,locality,IS_A
+The Gap,Australia,IS_LOCATED_IN
+The Gap,62,HAS_POPULATION
+The Gap,2650,HAS_POSTCODE
+The Gap,lat:-34.9986,HAS_COORDINATES
+The Gap,lon:147.268,HAS_COORDINATES
+The Junction,suburb,IS_A
+The Junction,Australia,IS_LOCATED_IN
+The Junction,1052,HAS_POPULATION
+The Junction,2291,HAS_POSTCODE
+The Junction,lat:-32.9403,HAS_COORDINATES
+The Junction,lon:151.759,HAS_COORDINATES
+The Ponds,suburb,IS_A
+The Ponds,Australia,IS_LOCATED_IN
+The Ponds,11731,HAS_POPULATION
+The Ponds,2769,HAS_POSTCODE
+The Ponds,lat:-33.703,HAS_COORDINATES
+The Ponds,lon:150.909,HAS_COORDINATES
+The Slopes,suburb,IS_A
+The Slopes,Australia,IS_LOCATED_IN
+The Slopes,326,HAS_POPULATION
+The Slopes,2754,HAS_POSTCODE
+The Slopes,lat:-32.532,HAS_COORDINATES
+The Slopes,lon:150.708,HAS_COORDINATES
+Thirroul,suburb,IS_A
+Thirroul,Australia,IS_LOCATED_IN
+Thirroul,6083,HAS_POPULATION
+Thirroul,2515,HAS_POSTCODE
+Thirroul,lat:-34.3,HAS_COORDINATES
+Thirroul,lon:150.9,HAS_COORDINATES
+Thornleigh,suburb,IS_A
+Thornleigh,Australia,IS_LOCATED_IN
+Thornleigh,8464,HAS_POPULATION
+Thornleigh,2120,HAS_POSTCODE
+Thornleigh,lat:-33.7334,HAS_COORDINATES
+Thornleigh,lon:151.076,HAS_COORDINATES
+Thornton,suburb,IS_A
+Thornton,Australia,IS_LOCATED_IN
+Thornton,8062,HAS_POPULATION
+Thornton,2322,HAS_POSTCODE
+Thornton,lat:-32.7833,HAS_COORDINATES
+Thornton,lon:151.642,HAS_COORDINATES
+Tingira Heights,suburb,IS_A
+Tingira Heights,Australia,IS_LOCATED_IN
+Tingira Heights,2149,HAS_POPULATION
+Tingira Heights,2290,HAS_POSTCODE
+Tingira Heights,lat:-32.996,HAS_COORDINATES
+Tingira Heights,lon:151.66,HAS_COORDINATES
+Tintinhull,suburb,IS_A
+Tintinhull,Australia,IS_LOCATED_IN
+Tintinhull,391,HAS_POPULATION
+Tintinhull,2340,HAS_POSTCODE
+Tintinhull,lat:-31.0719,HAS_COORDINATES
+Tintinhull,lon:151.004,HAS_COORDINATES
+Tocal,suburb,IS_A
+Tocal,Australia,IS_LOCATED_IN
+Tocal,50,HAS_POPULATION
+Tocal,2421,HAS_POSTCODE
+Tocal,lat:-32.6333,HAS_COORDINATES
+Tocal,lon:151.6,HAS_COORDINATES
+Tomago,suburb,IS_A
+Tomago,Australia,IS_LOCATED_IN
+Tomago,277,HAS_POPULATION
+Tomago,2322,HAS_POSTCODE
+Tomago,lat:-32.83,HAS_COORDINATES
+Tomago,lon:151.721,HAS_COORDINATES
+Toongabbie,suburb,IS_A
+Toongabbie,Australia,IS_LOCATED_IN
+Toongabbie,14337,HAS_POPULATION
+Toongabbie,2146,HAS_POSTCODE
+Toongabbie,lat:-33.7861,HAS_COORDINATES
+Toongabbie,lon:150.956,HAS_COORDINATES
+Toukley,suburb,IS_A
+Toukley,Australia,IS_LOCATED_IN
+Toukley,4550,HAS_POPULATION
+Toukley,2263,HAS_POSTCODE
+Toukley,lat:-33.2667,HAS_COORDINATES
+Toukley,lon:151.533,HAS_COORDINATES
+Tregear,suburb,IS_A
+Tregear,Australia,IS_LOCATED_IN
+Tregear,3886,HAS_POPULATION
+Tregear,2770,HAS_POSTCODE
+Tregear,lat:-33.75,HAS_COORDINATES
+Tregear,lon:150.794,HAS_COORDINATES
+Tuggerah,suburb,IS_A
+Tuggerah,Australia,IS_LOCATED_IN
+Tuggerah,927,HAS_POPULATION
+Tuggerah,2259,HAS_POSTCODE
+Tuggerah,lat:-33.299,HAS_COORDINATES
+Tuggerah,lon:151.435,HAS_COORDINATES
+Tuggerawong,suburb,IS_A
+Tuggerawong,Australia,IS_LOCATED_IN
+Tuggerawong,1280,HAS_POPULATION
+Tuggerawong,2259,HAS_POSTCODE
+Tuggerawong,lat:-33.282,HAS_COORDINATES
+Tuggerawong,lon:151.485,HAS_COORDINATES
+Tumbulgum,suburb,IS_A
+Tumbulgum,Australia,IS_LOCATED_IN
+Tumbulgum,405,HAS_POPULATION
+Tumbulgum,2490,HAS_POSTCODE
+Tumbulgum,lat:-28.2833,HAS_COORDINATES
+Tumbulgum,lon:153.483,HAS_COORDINATES
+Turramurra,suburb,IS_A
+Turramurra,Australia,IS_LOCATED_IN
+Turramurra,11919,HAS_POPULATION
+Turramurra,2074,HAS_POSTCODE
+Turramurra,lat:-33.7338,HAS_COORDINATES
+Turramurra,lon:151.13,HAS_COORDINATES
+Aberdare,suburb,IS_A
+Aberdare,Australia,IS_LOCATED_IN
+Aberdare,2473,HAS_POPULATION
+Aberdare,2325,HAS_POSTCODE
+Aberdare,lat:-32.8333,HAS_COORDINATES
+Aberdare,lon:151.367,HAS_COORDINATES
+Aberglasslyn,suburb,IS_A
+Aberglasslyn,Australia,IS_LOCATED_IN
+Aberglasslyn,5401,HAS_POPULATION
+Aberglasslyn,2320,HAS_POSTCODE
+Aberglasslyn,lat:-32.6947,HAS_COORDINATES
+Aberglasslyn,lon:151.535,HAS_COORDINATES
+Adamstown Heights,suburb,IS_A
+Adamstown Heights,Australia,IS_LOCATED_IN
+Adamstown Heights,5299,HAS_POPULATION
+Adamstown Heights,2289,HAS_POSTCODE
+Adamstown Heights,lat:-32.949,HAS_COORDINATES
+Adamstown Heights,lon:151.701,HAS_COORDINATES
+Albion Park,suburb,IS_A
+Albion Park,Australia,IS_LOCATED_IN
+Albion Park,13316,HAS_POPULATION
+Albion Park,2527,HAS_POSTCODE
+Albion Park,lat:-34.5667,HAS_COORDINATES
+Albion Park,lon:150.8,HAS_COORDINATES
+Albion Park Rail,suburb,IS_A
+Albion Park Rail,Australia,IS_LOCATED_IN
+Albion Park Rail,6918,HAS_POPULATION
+Albion Park Rail,2527,HAS_POSTCODE
+Albion Park Rail,lat:-34.566666666667,HAS_COORDINATES
+Albion Park Rail,lon:150.79166666667,HAS_COORDINATES
+Arcadia,suburb,IS_A
+Arcadia,Australia,IS_LOCATED_IN
+Arcadia,1385,HAS_POPULATION
+Arcadia,2159,HAS_POSTCODE
+Arcadia,lat:-33.6243,HAS_COORDINATES
+Arcadia,lon:151.045,HAS_COORDINATES
+Arcadia Vale,suburb,IS_A
+Arcadia Vale,Australia,IS_LOCATED_IN
+Arcadia Vale,1378,HAS_POPULATION
+Arcadia Vale,2283,HAS_POSTCODE
+Arcadia Vale,lat:-33.062,HAS_COORDINATES
+Arcadia Vale,lon:151.587,HAS_COORDINATES
+Argenton,suburb,IS_A
+Argenton,Australia,IS_LOCATED_IN
+Argenton,1351,HAS_POPULATION
+Argenton,2284,HAS_POSTCODE
+Argenton,lat:-32.932,HAS_COORDINATES
+Argenton,lon:151.618,HAS_COORDINATES
+Arncliffe,suburb,IS_A
+Arncliffe,Australia,IS_LOCATED_IN
+Arncliffe,10590,HAS_POPULATION
+Arncliffe,2205,HAS_POSTCODE
+Arncliffe,lat:-33.9333,HAS_COORDINATES
+Arncliffe,lon:151.15,HAS_COORDINATES
+Ashcroft,suburb,IS_A
+Ashcroft,Australia,IS_LOCATED_IN
+Ashcroft,3585,HAS_POPULATION
+Ashcroft,2168,HAS_POSTCODE
+Ashcroft,lat:-33.9216,HAS_COORDINATES
+Ashcroft,lon:150.895,HAS_COORDINATES
+Ashmont,suburb,IS_A
+Ashmont,Australia,IS_LOCATED_IN
+Ashmont,3828,HAS_POPULATION
+Ashmont,2650,HAS_POSTCODE
+Ashmont,lat:-35.1271,HAS_COORDINATES
+Ashmont,lon:147.332,HAS_COORDINATES
+Ashtonfield,suburb,IS_A
+Ashtonfield,Australia,IS_LOCATED_IN
+Ashtonfield,4645,HAS_POPULATION
+Ashtonfield,2323,HAS_POSTCODE
+Ashtonfield,lat:-32.7667,HAS_COORDINATES
+Ashtonfield,lon:151.6,HAS_COORDINATES
+Austinmer,suburb,IS_A
+Austinmer,Australia,IS_LOCATED_IN
+Austinmer,2560,HAS_POPULATION
+Austinmer,2515,HAS_POSTCODE
+Austinmer,lat:-34.3063,HAS_COORDINATES
+Austinmer,lon:150.935,HAS_COORDINATES
+Austral,suburb,IS_A
+Austral,Australia,IS_LOCATED_IN
+Austral,3024,HAS_POPULATION
+Austral,2179,HAS_POSTCODE
+Austral,lat:-33.9311,HAS_COORDINATES
+Austral,lon:150.794,HAS_COORDINATES
+Avoca Beach,suburb,IS_A
+Avoca Beach,Australia,IS_LOCATED_IN
+Avoca Beach,4584,HAS_POPULATION
+Avoca Beach,2251,HAS_POSTCODE
+Avoca Beach,lat:-33.465,HAS_COORDINATES
+Avoca Beach,lon:151.435,HAS_COORDINATES
+Awaba,suburb,IS_A
+Awaba,Australia,IS_LOCATED_IN
+Awaba,402,HAS_POPULATION
+Awaba,2283,HAS_POSTCODE
+Awaba,lat:-33.015,HAS_COORDINATES
+Awaba,lon:151.535,HAS_COORDINATES
+Balcolyn,suburb,IS_A
+Balcolyn,Australia,IS_LOCATED_IN
+Balcolyn,967,HAS_POPULATION
+Balcolyn,2264,HAS_POSTCODE
+Balcolyn,lat:-33.098,HAS_COORDINATES
+Balcolyn,lon:151.551,HAS_COORDINATES
+Balgownie,suburb,IS_A
+Balgownie,Australia,IS_LOCATED_IN
+Balgownie,5525,HAS_POPULATION
+Balgownie,2519,HAS_POSTCODE
+Balgownie,lat:-34.3888,HAS_COORDINATES
+Balgownie,lon:150.878,HAS_COORDINATES
+Balmain East,suburb,IS_A
+Balmain East,Australia,IS_LOCATED_IN
+Balmain East,1932,HAS_POPULATION
+Balmain East,2041,HAS_POSTCODE
+Balmain East,lat:-33.8581,HAS_COORDINATES
+Balmain East,lon:151.19,HAS_COORDINATES
+Balmoral,suburb,IS_A
+Balmoral,Australia,IS_LOCATED_IN
+Balmoral,723,HAS_POPULATION
+Balmoral,2283,HAS_POSTCODE
+Balmoral,lat:-33.054,HAS_COORDINATES
+Balmoral,lon:151.582,HAS_COORDINATES
+Bangor,suburb,IS_A
+Bangor,Australia,IS_LOCATED_IN
+Bangor,5568,HAS_POPULATION
+Bangor,2234,HAS_POSTCODE
+Bangor,lat:-34.0191,HAS_COORDINATES
+Bangor,lon:151.027,HAS_COORDINATES
+Banksia,suburb,IS_A
+Banksia,Australia,IS_LOCATED_IN
+Banksia,3388,HAS_POPULATION
+Banksia,2216,HAS_POSTCODE
+Banksia,lat:-33.9478,HAS_COORDINATES
+Banksia,lon:151.148,HAS_COORDINATES
+Banora Point,suburb,IS_A
+Banora Point,Australia,IS_LOCATED_IN
+Banora Point,16167,HAS_POPULATION
+Banora Point,2486,HAS_POSTCODE
+Banora Point,lat:-28.2233,HAS_COORDINATES
+Banora Point,lon:153.538,HAS_COORDINATES
+Bar Beach,suburb,IS_A
+Bar Beach,Australia,IS_LOCATED_IN
+Bar Beach,1256,HAS_POPULATION
+Bar Beach,2300,HAS_POSTCODE
+Bar Beach,lat:-32.94,HAS_COORDINATES
+Bar Beach,lon:151.768,HAS_COORDINATES
+Bar Beach,lat:-32.94128,HAS_COORDINATES
+Bar Beach,lon:151.76544,HAS_COORDINATES
+Bar Point,suburb,IS_A
+Bar Point,Australia,IS_LOCATED_IN
+Bar Point,64,HAS_POPULATION
+Bar Point,2083,HAS_POSTCODE
+Bar Point,lat:-33.493,HAS_COORDINATES
+Bar Point,lon:151.168,HAS_COORDINATES
+Bar Point,lat:-33.51224,HAS_COORDINATES
+Bar Point,lon:151.16218,HAS_COORDINATES
+Barden Ridge,suburb,IS_A
+Barden Ridge,Australia,IS_LOCATED_IN
+Barden Ridge,4329,HAS_POPULATION
+Barden Ridge,2234,HAS_POSTCODE
+Barden Ridge,lat:-34.032,HAS_COORDINATES
+Barden Ridge,lon:151.01,HAS_COORDINATES
+Bardwell Valley,suburb,IS_A
+Bardwell Valley,Australia,IS_LOCATED_IN
+Bardwell Valley,2323,HAS_POPULATION
+Bardwell Valley,2207,HAS_POSTCODE
+Bardwell Valley,lat:-33.937,HAS_COORDINATES
+Bardwell Valley,lon:151.133,HAS_COORDINATES
+Bardwell Park,suburb,IS_A
+Bardwell Park,Australia,IS_LOCATED_IN
+Bardwell Park,2242,HAS_POPULATION
+Bardwell Park,2207,HAS_POSTCODE
+Bardwell Park,lat:-33.9354,HAS_COORDINATES
+Bardwell Park,lon:151.125,HAS_COORDINATES
+Barnsley,suburb,IS_A
+Barnsley,Australia,IS_LOCATED_IN
+Barnsley,1747,HAS_POPULATION
+Barnsley,2278,HAS_POSTCODE
+Barnsley,lat:-32.932,HAS_COORDINATES
+Barnsley,lon:151.585,HAS_COORDINATES
+Barrack Heights,suburb,IS_A
+Barrack Heights,Australia,IS_LOCATED_IN
+Barrack Heights,5900,HAS_POPULATION
+Barrack Heights,2528,HAS_POSTCODE
+Barrack Heights,lat:-34.565,HAS_COORDINATES
+Barrack Heights,lon:150.85694444,HAS_COORDINATES
+Barrack Heights,lat:-34.56601,HAS_COORDINATES
+Barrack Heights,lon:150.85516,HAS_COORDINATES
+Barrack Point,suburb,IS_A
+Barrack Point,Australia,IS_LOCATED_IN
+Barrack Point,689,HAS_POPULATION
+Barrack Point,2528,HAS_POSTCODE
+Barrack Point,lat:-34.5617,HAS_COORDINATES
+Barrack Point,lon:150.866,HAS_COORDINATES
+Barrengarry,suburb,IS_A
+Barrengarry,Australia,IS_LOCATED_IN
+Barrengarry,200,HAS_POPULATION
+Barrengarry,2577,HAS_POSTCODE
+Barrengarry,lat:-34.6833,HAS_COORDINATES
+Barrengarry,lon:150.517,HAS_COORDINATES
+Baulkham Hills,suburb,IS_A
+Baulkham Hills,Australia,IS_LOCATED_IN
+Baulkham Hills,37050,HAS_POPULATION
+Baulkham Hills,2153,HAS_POSTCODE
+Baulkham Hills,lat:-33.7629,HAS_COORDINATES
+Baulkham Hills,lon:150.992,HAS_COORDINATES
+Beacon Hill,suburb,IS_A
+Beacon Hill,Australia,IS_LOCATED_IN
+Beacon Hill,7457,HAS_POPULATION
+Beacon Hill,2100,HAS_POSTCODE
+Beacon Hill,lat:-33.7522,HAS_COORDINATES
+Beacon Hill,lon:151.256,HAS_COORDINATES
+Beaumont Hills,suburb,IS_A
+Beaumont Hills,Australia,IS_LOCATED_IN
+Beaumont Hills,9042,HAS_POPULATION
+Beaumont Hills,2155,HAS_POSTCODE
+Beaumont Hills,lat:-33.7,HAS_COORDINATES
+Beaumont Hills,lon:150.941,HAS_COORDINATES
+Beecroft,suburb,IS_A
+Beecroft,Australia,IS_LOCATED_IN
+Beecroft,9396,HAS_POPULATION
+Beecroft,2119,HAS_POSTCODE
+Beecroft,lat:-33.7518,HAS_COORDINATES
+Beecroft,lon:151.063,HAS_COORDINATES
+Belfield,suburb,IS_A
+Belfield,Australia,IS_LOCATED_IN
+Belfield,6322,HAS_POPULATION
+Belfield,2191,HAS_POSTCODE
+Belfield,lat:-33.905,HAS_COORDINATES
+Belfield,lon:151.084,HAS_COORDINATES
+Belfield,lat:-33.90354,HAS_COORDINATES
+Belfield,lon:151.08467,HAS_COORDINATES
+Bella Vista,suburb,IS_A
+Bella Vista,Australia,IS_LOCATED_IN
+Bella Vista,7837,HAS_POPULATION
+Bella Vista,2153,HAS_POSTCODE
+Bella Vista,lat:-33.742,HAS_COORDINATES
+Bella Vista,lon:150.955,HAS_COORDINATES
+Belmont North,suburb,IS_A
+Belmont North,Australia,IS_LOCATED_IN
+Belmont North,6335,HAS_POPULATION
+Belmont North,2280,HAS_POSTCODE
+Belmont North,lat:-33.015,HAS_COORDINATES
+Belmont North,lon:151.668,HAS_COORDINATES
+Belmont South,suburb,IS_A
+Belmont South,Australia,IS_LOCATED_IN
+Belmont South,2280,HAS_POSTCODE
+Belmont South,lat:-33.049,HAS_COORDINATES
+Belmont South,lon:151.651,HAS_COORDINATES
+Belmore,suburb,IS_A
+Belmore,Australia,IS_LOCATED_IN
+Belmore,12718,HAS_POPULATION
+Belmore,2192,HAS_POSTCODE
+Belmore,lat:-33.9175,HAS_COORDINATES
+Belmore,lon:151.088,HAS_COORDINATES

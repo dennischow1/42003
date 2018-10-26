@@ -96,28 +96,13 @@ if __name__ =='__main__':
             MSE_list.append(MSE_Bay(train_data,lag,t_ahead))
         MSE = np.vstack((MSE,np.transpose(np.array(MSE_list))))
 
-#    with open('evaluation_results', "w") as output_file:
+#    with open('evaluation_results', 'w') as output_file:
 #        for lag in range(2,11):
 #            output_file.write(str(lag))
 #            for t_ahead in range (1,15):
 #                output_file.write(',' + str(MSE[lag-2,t_ahead-1]))
 #            output_file.write('\n')
 #    output_file.closed
-
-
-    
-    
-#    sample_x_s0 = train_data[:,0]
-#    sample_y_s0 = train_data[0,1]
-#    
-#    sample_s1 = np.hstack([sample_x_s1, sample_y_s1])
-    
-    
-    
-    
-    #train_data = np.transpose(train_data)
-    
-    
 
     
     

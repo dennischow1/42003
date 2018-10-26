@@ -1,0 +1,20 @@
+7-Eleven,Mobil
+Independent,Independent
+BP,BP
+Budget,Mobil
+Metro Fuel,Metro Fuel
+Caltex,Chevron Corporation
+Caltex Woolworths,Chevron Corporation
+Coles Express,Royal Dutch Shell
+Costco,Costco
+Enhance,Park Fuels
+Mobil,Mobil
+Liberty,Liberty
+Lowes,BP
+Matilda,Puma Energy
+Prime Petroleum,Independent
+Puma Energy,Puma Energy
+Shell,Royal Dutch Shell
+Speedway,Speedway
+United,United
+Westside,Royal Dutch Shell

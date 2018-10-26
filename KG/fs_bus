@@ -1,0 +1,227 @@
+IN_INDUSTRY Industrial Engineering
+IN_INDUSTRY Natural Resources
+IN_INDUSTRY energy
+IN_INDUSTRY energy industry
+IN_INDUSTRY extraction of petroleum
+IN_INDUSTRY financial services
+IN_INDUSTRY gas industry
+IN_INDUSTRY insurance industry
+IN_INDUSTRY mining
+IN_INDUSTRY natural resource
+IN_INDUSTRY petroleum industry
+IN_INDUSTRY radio electronics
+IN_INDUSTRY retail
+IN_INDUSTRY telecommunication technology
+IS_A Aktiengesellschaft
+IS_A Anonim Şirket
+IS_A Besloten vennootschap met beperkte aansprakelijkheid
+IS_A Gesellschaft mit beschränkter Haftung
+IS_A Limited
+IS_A Naamloze vennootschap
+IS_A S.A.
+IS_A Spółka akcyjna
+IS_A akciová společnost
+IS_A aktiebolag
+IS_A allmennaksjeselskap
+IS_A brick and mortar company
+IS_A building
+IS_A business
+IS_A city of the United States
+IS_A closed joint-stock company
+IS_A company
+IS_A concern
+IS_A corporation
+IS_A credit institution
+IS_A energy company
+IS_A enterprise
+IS_A film production company
+IS_A film studio
+IS_A gas pipeline
+IS_A gas station
+IS_A government agency
+IS_A government-owned corporation
+IS_A holding company
+IS_A human
+IS_A human settlement
+IS_A ice hockey team
+IS_A joint venture
+IS_A joint-stock company
+IS_A kabushiki gaisha
+IS_A legal case
+IS_A limited liability company
+IS_A multinational corporation
+IS_A oil company
+IS_A oil pipeline
+IS_A oil refinery
+IS_A oil refining
+IS_A open joint-stock company
+IS_A organization
+IS_A private company limited by shares
+IS_A private limited liability company
+IS_A privately held company
+IS_A producer
+IS_A professional body
+IS_A public company
+IS_A public limited company
+IS_A sociedade anónima
+IS_A società per azioni
+IS_A société anonyme
+IS_A subsidiary company
+IS_A television station
+IS_A university
+OWNED_BY ADNOC
+OWNED_BY Alimentation Couche-Tard
+OWNED_BY BASF
+OWNED_BY BP
+OWNED_BY Berkshire Hathaway
+OWNED_BY BlackRock
+OWNED_BY CK Hutchison Holdings
+OWNED_BY CNOOC Limited
+OWNED_BY Capital Group Companies
+OWNED_BY Cassa Depositi e Prestiti
+OWNED_BY Charles G. Koch
+OWNED_BY Chevron Corporation
+OWNED_BY China National Petroleum Corporation
+OWNED_BY China Petrochemical Corporation
+OWNED_BY Cosan
+OWNED_BY David H. Koch
+OWNED_BY Devon Energy
+OWNED_BY E.ON Ruhrgas
+OWNED_BY Engie
+OWNED_BY Eni
+OWNED_BY ExxonMobil
+OWNED_BY FCPE Total Actionnariat France
+OWNED_BY Federal Government of Brazil
+OWNED_BY Federal government of Mexico
+OWNED_BY Gasunie
+OWNED_BY Gazprom
+OWNED_BY Gazprom Neft
+OWNED_BY Gazprom-Media
+OWNED_BY Government of Ghana
+OWNED_BY Government of Hungary
+OWNED_BY Government of India
+OWNED_BY Government of Malaysia
+OWNED_BY Government of Norway
+OWNED_BY Government of Pakistan
+OWNED_BY Government of Russia
+OWNED_BY Government of Serbia
+OWNED_BY Government of Venezuela
+OWNED_BY Grupa Lotos
+OWNED_BY Halliburton
+OWNED_BY ING
+OWNED_BY International Petroleum Investment Company
+OWNED_BY Investment Corporation of Dubai
+OWNED_BY Israel Corporation
+OWNED_BY Japan Trustee Services Bank
+OWNED_BY KazMunayGas
+OWNED_BY Koç Holding
+OWNED_BY Media-Most
+OWNED_BY Ministry of Economy and Finance
+OWNED_BY Mitsubishi
+OWNED_BY Mitsui & Co.
+OWNED_BY Mitsui Group
+OWNED_BY Mubadala Development Company
+OWNED_BY Mukesh Ambani
+OWNED_BY National Property Fund
+OWNED_BY Nationale-Nederlanden OFE
+OWNED_BY OMV
+OWNED_BY OTP Bank
+OWNED_BY Odebrecht
+OWNED_BY Oman
+OWNED_BY Oman Oil Company
+OWNED_BY Pension Fund Management (Slovenia)
+OWNED_BY People's Bank of China
+OWNED_BY Phillips 66
+OWNED_BY RWE
+OWNED_BY Reitan Group
+OWNED_BY Repsol
+OWNED_BY Rosneft
+OWNED_BY Royal Dutch Shell
+OWNED_BY SOCAR
+OWNED_BY Slovenian Sovereign Holding
+OWNED_BY Spiros Latsis
+OWNED_BY Splitska banka
+OWNED_BY State Street Corporation
+OWNED_BY State Street Global Advisors
+OWNED_BY State Treasury
+OWNED_BY State-owned Assets Supervision and Administration Commission of the State Council
+OWNED_BY Suncor Energy
+OWNED_BY The Government Pension Fund of Norway
+OWNED_BY The Vanguard Group
+OWNED_BY Total S.A.
+OWNED_BY UniCredit
+OWNED_BY United Arab Emirates
+OWNED_BY Vietnam
+OWNED_BY Vladimir Yevtushenkov
+OWNED_BY Wintershall
+OWNED_BY innogy International Participations
+OWNED_BY treasury stock
+OWNED_BY Österreichische Industrieholding
+OWNED_BY ČEZ Group
+OWNED_BY Československá obchodní banka
+OWNER_OF Abu Dhabi Company for Onshore Oil Operations
+OWNER_OF Abu Dhabi Gas Industries Limited
+OWNER_OF Baku–Tbilisi–Ceyhan pipeline
+OWNER_OF Borealis
+OWNER_OF Brunei LNG
+OWNER_OF Halfaya Field
+OWNER_OF Motiva Enterprises
+OWNER_OF NOGAT Pipeline System
+OWNER_OF Nabucco pipeline
+OWNER_OF Ninian pipeline
+OWNER_OF Norpipe
+OWNER_OF Novatek
+OWNER_OF Oman LNG
+OWNER_OF Oseberg Transport System
+OWNER_OF PetroChina
+OWNER_OF Sakhalin Energy
+OWNER_OF Showa Shell Sekiyu
+TRADES_ON Australian Securities Exchange
+TRADES_ON B3
+TRADES_ON Belgrade Stock Exchange
+TRADES_ON Bolsa de Madrid
+TRADES_ON Borsa Istanbul
+TRADES_ON Borsa Italiana
+TRADES_ON Brussels Stock Exchange
+TRADES_ON Budapest Stock Exchange
+TRADES_ON Copenhagen Stock Exchange
+TRADES_ON Euronext
+TRADES_ON Euronext Lisbon
+TRADES_ON Euronext Paris
+TRADES_ON Frankfurt Stock Exchange
+TRADES_ON Hong Kong Stock Exchange
+TRADES_ON London Stock Exchange
+TRADES_ON Luxembourg Stock Exchange
+TRADES_ON Mexican Stock Exchange
+TRADES_ON Moscow Exchange
+TRADES_ON NASDAQ
+TRADES_ON National Stock Exchange of India
+TRADES_ON New York Stock Exchange
+TRADES_ON Oslo Stock Exchange
+TRADES_ON Shanghai Stock Exchange
+TRADES_ON Shenzhen Stock Exchange
+TRADES_ON Stockholm Stock Exchange
+TRADES_ON Tehran Stock Exchange
+TRADES_ON Tel Aviv Stock Exchange
+TRADES_ON Tokyo Stock Exchange
+TRADES_ON Toronto Stock Exchange
+TRADES_ON Warsaw Stock Exchange
+TRADES_ON Wiener Börse
+TRADES_ON Zagreb Stock Exchange
+WAS_PREVIOUSLY Anglo-Persian Oil Company
+WAS_PREVIOUSLY BP Canada
+WAS_PREVIOUSLY Burmah Oil
+WAS_PREVIOUSLY Conoco
+WAS_PREVIOUSLY Enterprise Oil
+WAS_PREVIOUSLY Exxon
+WAS_PREVIOUSLY Farmland Industries
+WAS_PREVIOUSLY Iraq Petroleum Company
+WAS_PREVIOUSLY John Brown & Company
+WAS_PREVIOUSLY Lasmo
+WAS_PREVIOUSLY Mobil
+WAS_PREVIOUSLY OGK-6
+WAS_PREVIOUSLY Petro-Canada
+WAS_PREVIOUSLY Phillips Petroleum
+WAS_PREVIOUSLY RAO UES
+WAS_PREVIOUSLY Skelly Oil
+WAS_PREVIOUSLY Upper Clyde Shipbuilders

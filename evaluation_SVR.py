@@ -29,7 +29,6 @@ def data_preprocessing(file_list):
             s_y[s]=s_y[s][1:len(s_y[s])]
         if len(s_y[s])<s_y_size:
             s_y_size = len(s_y[s])
-    
 
     for s in s_y:
         if len(s_y[s])>s_y_size:
