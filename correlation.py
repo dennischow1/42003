@@ -152,10 +152,10 @@ if __name__ =='__main__':
     station_list,bus_list,fm_bus,fm_geo,existing_ts,retail2fuel = import_data()    
 
     #shuffle station list
-    random.shuffle(station_list)
+    #random.shuffle(station_list)
 
     added = 0
-    station_max = 200
+    station_max = 50
     station2corr = []
     bus_num = 227
     geo_num = 44
@@ -171,7 +171,7 @@ if __name__ =='__main__':
             #check business KG
             if bus in bus_list:
                 #import time series
-                if test_ts(station[0],existing_ts):
+                if (station[0] not in station2corr) and (test_ts(station[0],existing_ts)):
 #                    print("added:" + str(station[0]))
                     station2corr.append(station[0])
                     si_feat = np.hstack((np.array(fm_bus[bus]),np.array(fm_geo[station[0]])))
@@ -200,29 +200,37 @@ if __name__ =='__main__':
     """
     Y FEATURES
     """
-#    ty_start = time.time()
-#    
-#    ts_y = equalise_ts(station2corr)
+    ty_start = time.time()
+    
+    ts_y = equalise_ts(station2corr)
 #    features_y = np.ndarray(shape=[0,1])
 #    for s in itertools.combinations(range(0,station_max),2):
-#        
-#    
-#    ty_end = time.time()
+
+    
+    ty_end = time.time()
     """
     PRINT DATA
     """
-    with open('station2corr.txt', "w") as output_file:
+    with open('station2corr50.txt', "w") as output_file:
         for i in range(0,len(station2corr)):
             output_file.write(str(station2corr[i])+'\n')
     output_file.closed
 
-    with open('features_x.txt', "w") as output_file:
+    with open('features_x50.txt', "w") as output_file:
         for i in range(0,len(features_x)):
             for j in range (0,tot_feature-1):
                 output_file.write(str(features_x[i][j])+',')
             output_file.write(str(features_x[i][tot_feature-1])+'\n')
     output_file.closed
-
+    
+    with open('ts50_equalise.txt', "w") as output_file:
+        for i in range(0,station_max):
+            output_file.write(str(station2corr[i]))
+            for val in ts_y[i,:]:
+                output_file.write(','+str(val))
+            output_file.write('\n')
+    output_file.closed
+    
     t_end = time.time()
 
     tx_total = tx_end-tx_start
