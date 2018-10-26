@@ -152,7 +152,7 @@ if __name__ =='__main__':
     station_list,bus_list,fm_bus,fm_geo,existing_ts,retail2fuel = import_data()    
 
     #shuffle station list
-    #random.shuffle(station_list)
+    random.shuffle(station_list)
 
     added = 0
     station_max = 50
@@ -187,7 +187,6 @@ if __name__ =='__main__':
     '''
     X FEATURES
     '''
-    
     tx_start = time.time()
     
     features_x = np.ndarray(shape=[0,tot_feature])
@@ -211,19 +210,19 @@ if __name__ =='__main__':
     """
     PRINT DATA
     """
-    with open('station2corr50.txt', "w") as output_file:
+    with open('station2corr50r.txt', "w") as output_file:
         for i in range(0,len(station2corr)):
             output_file.write(str(station2corr[i])+'\n')
     output_file.closed
 
-    with open('features_x50.txt', "w") as output_file:
+    with open('features_x50r.txt', "w") as output_file:
         for i in range(0,len(features_x)):
             for j in range (0,tot_feature-1):
                 output_file.write(str(features_x[i][j])+',')
             output_file.write(str(features_x[i][tot_feature-1])+'\n')
     output_file.closed
     
-    with open('ts50_equalise.txt', "w") as output_file:
+    with open('ts50r_equalise.txt', "w") as output_file:
         for i in range(0,station_max):
             output_file.write(str(station2corr[i]))
             for val in ts_y[i,:]:
