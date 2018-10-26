@@ -11,7 +11,7 @@ Created on Wed Oct 24 13:12:02 2018
 
 @author: dchow
 """
-
+import time
 import numpy as np
 from sklearn.svm import SVR,LinearSVR
 from sklearn.model_selection import GridSearchCV
@@ -36,7 +36,7 @@ def data_preprocessing(file_list):
             
     return s_y
 
-def MSE_SVR(train_data,lag,t_ahead,C_val):
+def MSE_SVR(train_data,lag,t_ahead):
     """
     Support Vector Regression
     Returns MSE
@@ -65,10 +65,11 @@ def MSE_SVR(train_data,lag,t_ahead,C_val):
             pre_y.append(y_hat)
             act_y.append(sample_y_si[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1])
 
-#        plt.plot(range(landmark_win_ini_size+1,landmark_win_ini_size+landmark_win+2),pre_y,label='prediction s'+str(s_i))
-#        plt.plot(range(landmark_win_ini_size+1,landmark_win_ini_size+landmark_win+2),act_y,label='actual')
-#        plt.legend()
-#        plt.show()
+        plt.plot(pre_y,label='prediction s'+str(s_i))
+        plt.plot(act_y,label='actual')
+        plt.legend()
+        plt.show()
+
         MSE = 0
         for i in range (0,len(pre_y)-1):
             MSE = MSE + (pre_y[i]-act_y[i])**2
@@ -76,6 +77,7 @@ def MSE_SVR(train_data,lag,t_ahead,C_val):
 
 
 if __name__ =='__main__':
+    t_start = time.time()
     data_path = 'evaluation_stream/'    
     file_list_path= data_path + 'filelist'
     file_list = []
@@ -86,7 +88,7 @@ if __name__ =='__main__':
             
     s_y = data_preprocessing(file_list)
     
-    train_data = np.ndarray(shape=[0, 1256], dtype = 'float')
+    train_data = np.ndarray(shape=[0, 1254], dtype = 'float')
     for key, v in s_y.items():
         train_data = np.vstack([train_data, np.array(v)])
     
@@ -94,26 +96,34 @@ if __name__ =='__main__':
 #    t_ahead = 7 #t_ahead = target training value
     
     
-    C_test = [0.1,1,10,100,1000]
+#    C_test = [0.1,1,10,100,1000]
     lag1 = 1
     lag2 = 10
-    t_ahead1=1  #first t_ahead
+    t_ahead1=14  #first t_ahead
     t_ahead2=14 #last t_ahead
     
-    MSE = np.ndarray(shape=[0,t_ahead2],dtype='float')
+    MSE = np.ndarray(shape=[0,1],dtype='float')
+    
+
     
 #    for lag in range(lag1,lag2+1):
     for lag in range(lag1,lag2+1):
         MSE_list = []
         for t_ahead in range(t_ahead1,t_ahead2+1):
-            MSE_list.append(MSE_SVR(train_data,lag,t_ahead,100))
+            MSE_list.append(MSE_SVR(train_data,lag,t_ahead))
 #        print(MSE_list)
         MSE = np.vstack((MSE,np.transpose(np.array(MSE_list))))
 
-    with open('evaluation_results_SVR.txt', "w") as output_file:
+    t_end = time.time()
+    
+    with open('evaluation_results_SVR14.txt', "w") as output_file:
         for lag in range(lag1,lag2+1):
             output_file.write(str(lag))
             for t_ahead in range (t_ahead1,t_ahead2+1):
                 output_file.write(',' + str(MSE[lag-lag1,t_ahead-t_ahead1]))
             output_file.write('\n')
     output_file.closed
+    
+    t_total=t_end-t_start
+    print('runtime: %.3fs' %t_total)
+    

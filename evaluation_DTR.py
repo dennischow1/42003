@@ -91,11 +91,11 @@ if __name__ =='__main__':
 
     
     lag1 = 1
-    lag2 = 10
-    t_ahead1=1  #first t_ahead
+    lag2 = 20
+    t_ahead1=14  #first t_ahead
     t_ahead2=14 #last t_ahead
     
-    MSE = np.ndarray(shape=[0,t_ahead2],dtype='float')
+    MSE = np.ndarray(shape=[0,1],dtype='float')
     
     for lag in range(lag1,lag2+1):
         MSE_list = []
@@ -106,21 +106,21 @@ if __name__ =='__main__':
 
     t_end = time.time()
     
-    fig,ax = plt.subplots(5,3,figsize=(14, 12))
+#    fig,ax = plt.subplots(5,3,figsize=(14, 12))
     
-    t=0
-    for i in range(5):
-        for j in range(3):
-            if t<14:
-                ax[i,j].plot(range(1,lag2+1),MSE[:,t],label='t_ahead=' + str(t+1))
-                ax[i,j].grid()
-                ax[i,j].set(xlabel='lag',ylabel='MSE')
-                ax[i,j].flat.xaxis.set_major_locator(plt.MaxNLocator(10))
-                t=t+1
-            else:
-                fig.delaxes(ax[i,j])
-    plt.legend()
-    plt.tight_layout()
+#    t=0
+#    for i in range(5):
+#        for j in range(3):
+#            if t<14:
+#                ax[i,j].plot(range(1,lag2+1),MSE[:,t],label='t_ahead=' + str(t+1))
+#                ax[i,j].grid()
+#                ax[i,j].set(xlabel='lag',ylabel='MSE')
+#                ax[i,j].legend(loc='lower right')
+#                t=t+1
+#            else:
+#                fig.delaxes(ax[i,j])
+#    plt.legend()
+#    plt.tight_layout()
 #    for t_ahead in range(t_ahead1,t_ahead2+1):
 #        #title = 'MSE for t_ahead=' + str(t_ahead)
 #        ax[t_ahead-1].plot(range(1,lag2+1),MSE[:,t_ahead-1])
@@ -130,7 +130,7 @@ if __name__ =='__main__':
 #    plt.tight_layout()
 #    plt.show()
 
-    with open('evaluation_results_DTR.txt', "w") as output_file:
+    with open('evaluation_results_DTR14.txt', "w") as output_file:
         for lag in range(lag1,lag2+1):
             output_file.write(str(lag))
             for t_ahead in range (t_ahead1,t_ahead2+1):
