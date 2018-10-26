@@ -36,7 +36,7 @@ def data_preprocessing(file_list):
             
     return s_y
 
-def MSE_SVR(train_data,lag,t_ahead):
+def MSE_SVR(train_data,lag,t_ahead,s_i):
     """
     Support Vector Regression
     Returns MSE
@@ -48,32 +48,32 @@ def MSE_SVR(train_data,lag,t_ahead):
     
     sample_x = sample_x[:-t_ahead,:]
     
-    num_stream = 1
-    slding_predict_t = 366
-    landmark_win_ini_size = 1
-    for s_i in range(num_stream):
-        sample_y_si = np.transpose(train_data[s_i,t_ahead:-lag])
-        
-        reg_si = SVR()
-        pre_y = []
-        act_y = []
-        for landmark_win in range(slding_predict_t):
-            train_x = sample_x[:landmark_win_ini_size+landmark_win,:]
-            train_y = sample_y_si[:landmark_win_ini_size+landmark_win]
-            reg_si.fit(train_x,train_y)
-            y_hat = reg_si.predict(sample_x[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1,:])
-            pre_y.append(y_hat)
-            act_y.append(sample_y_si[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1])
+#    num_stream = 1
+    slding_predict_t = 730
+    landmark_win_ini_size = 367
+#    for s_i in range(num_stream):
+    sample_y_si = np.transpose(train_data[s_i,t_ahead:-lag])
+    
+    reg_si = SVR()
+    pre_y = []
+    act_y = []
+    for landmark_win in range(slding_predict_t):
+        train_x = sample_x[:landmark_win_ini_size+landmark_win,:]
+        train_y = sample_y_si[:landmark_win_ini_size+landmark_win]
+        reg_si.fit(train_x,train_y)
+        y_hat = reg_si.predict(sample_x[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1,:])
+        pre_y.append(y_hat)
+        act_y.append(sample_y_si[landmark_win_ini_size+landmark_win:landmark_win_ini_size+landmark_win+1])
 
-        plt.plot(pre_y,label='prediction s'+str(s_i))
-        plt.plot(act_y,label='actual')
-        plt.legend()
-        plt.show()
+#    plt.plot(pre_y,label='prediction s'+str(s_i))
+#    plt.plot(act_y,label='actual')
+#    plt.legend()
+#    plt.show()
 
-        MSE = 0
-        for i in range (0,len(pre_y)-1):
-            MSE = MSE + (pre_y[i]-act_y[i])**2
-        return MSE
+    MSE = 0
+    for i in range (0,len(pre_y)-1):
+        MSE = MSE + (pre_y[i]-act_y[i])**2
+    return MSE,pre_y
 
 
 if __name__ =='__main__':
@@ -98,32 +98,47 @@ if __name__ =='__main__':
     
 #    C_test = [0.1,1,10,100,1000]
     lag1 = 1
-    lag2 = 10
+    lag2 = 1
     t_ahead1=14  #first t_ahead
     t_ahead2=14 #last t_ahead
     
     MSE = np.ndarray(shape=[0,1],dtype='float')
+    yhat = np.ndarray(shape=[0,730],dtype='float')
     
 
-    
 #    for lag in range(lag1,lag2+1):
-    for lag in range(lag1,lag2+1):
-        MSE_list = []
-        for t_ahead in range(t_ahead1,t_ahead2+1):
-            MSE_list.append(MSE_SVR(train_data,lag,t_ahead))
-#        print(MSE_list)
-        MSE = np.vstack((MSE,np.transpose(np.array(MSE_list))))
+#        MSE_list = []
+#        for t_ahead in range(t_ahead1,t_ahead2+1):
+#            MSE_list.append(MSE_SVR(train_data,lag,t_ahead))
+##        print(MSE_list)
+#        MSE = np.vstack((MSE,np.transpose(np.array(MSE_list))))
+
+    for s_i in range (0,10):
+        MSE_val,yhat_val = MSE_SVR(train_data,lag1,t_ahead1,s_i)
+        MSE = np.vstack((MSE,MSE_val))
+        yhat = np.vstack((yhat,np.transpose(yhat_val)))
 
     t_end = time.time()
     
-    with open('evaluation_results_SVR14.txt', "w") as output_file:
-        for lag in range(lag1,lag2+1):
-            output_file.write(str(lag))
-            for t_ahead in range (t_ahead1,t_ahead2+1):
-                output_file.write(',' + str(MSE[lag-lag1,t_ahead-t_ahead1]))
+    with open('predict_SVR_t14_lag1.txt', "w") as output_file:
+        for s_i in range(0,10):
+            output_file.write('s'+str(s_i))
+            for val in MSE[s_i]:
+                output_file.write(',MSE_SVR='+str(val))
+            for val in yhat[s_i,:]:
+                output_file.write(',' + str(val))
             output_file.write('\n')
     output_file.closed
-    
+
+
+#    with open('evaluation_results_SVR14.txt', "w") as output_file:
+#        for lag in range(lag1,lag2+1):
+#            output_file.write(str(lag))
+#            for t_ahead in range (t_ahead1,t_ahead2+1):
+#                output_file.write(',' + str(MSE[lag-lag1,t_ahead-t_ahead1]))
+#            output_file.write('\n')
+#    output_file.closed
+#    
     t_total=t_end-t_start
     print('runtime: %.3fs' %t_total)
     
